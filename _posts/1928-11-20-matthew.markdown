@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Mickey Mouse's Debut"
+title:  "<b>Tierney</b>’s most recent book is Probably Inevitable (Coach House Books), which won a Trillium Book Award in 2013. He is a former winner of the P.K. Page Founders’ Award and a K.M. Hunter Award. He lives in Toronto with his wife and son."
 date:   1928-11-18 01:00:00
 last_modified_at:  1928-11-18 01:00:00
 excerpt: "Disney had Ub Iwerks secretly begin animating a new cartoon while still under contract with Universal..."
 categories: history
 tags:  mickey
 image:
-  feature: steamboat.jpg
+  feature: matthew.jpg
   topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker
