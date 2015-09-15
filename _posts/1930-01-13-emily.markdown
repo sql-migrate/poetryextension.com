@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Comics"
+title:  "<b>Emily Berry</b> is the author of Dear Boy (Faber & Faber, 2013), her debut book of poems which won the Forward Prize for Best First Collection and the Hawthornden Prize. She is a contributor to The Breakfast Bible (Bloomsbury, 2013), and editor of Best British Poetry 2015 (Salt Publishing, 2015)."
 date:   1930-01-13 01:00:00
 date:   1930-01-13 01:00:00
 excerpt: "Mickey first appeared in comics after he had appeared in 15 commercially successful animated shorts and was easily recognized by ..."
 categories: history
 tags:  mickey
 image:
-  feature: mickey-comics.jpg
+  feature: emily.jpg
   topPosition: -100px
 bgContrast: dark
 bgGradientOpacity: darker
