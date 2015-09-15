@@ -14,7 +14,7 @@ name:				         site name
 title:               site title
 tagline:             'tagline'
 description:         'description'
-url:                 site url
+url:                 sql-migrate.github.io/poetryextension.com
 rss:                 rss feed url
 baseurl:             '/mickey/'
 baseurl_posts_img:   '/mickey/assets/images/posts/'
