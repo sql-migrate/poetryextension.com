@@ -16,7 +16,7 @@ tagline:             'tagline'
 description:         'description'
 url:                 sql-migrate.github.io/poetryextension.com
 rss:                 rss feed url
-baseurl:             'www.poetryextension.com/'
+baseurl:             ''
 baseurl_posts_img:   '/assets/images/posts/'
 baseurl_featured_img: '/assets/images/hero/'
 baseurl_featured_thumbnail: '/assets/images/thumbnail/'
