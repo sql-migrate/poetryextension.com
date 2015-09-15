@@ -2030,7 +2030,7 @@ body {
   }
 }
 .blockGroup-list li:nth-child(1).block .postArticle-title {
-  font-size: .65rem;
+  font-size: 1rem;
 }
 .blockGroup-list li:nth-child(2).block,
 .blockGroup-list li:nth-child(3).block {
