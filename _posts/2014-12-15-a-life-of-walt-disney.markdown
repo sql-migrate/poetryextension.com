@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Natalya"
+title:  "<b>The Poetry Extension</b>. Bringing poets and dancers together from Canada, the UK, Ireland, and the US, one face-melting gig at a time. First event is March 16 2016 and features all the fine poets below. (Photo courtesy modernmechanix.com)"
 date:   2014-12-15 01:00:00
 last_modified_at:  2014-12-15 01:00:00
 excerpt: "Walter Elias Disney was an American entrepreneur, cartoonist, animator, voice actor, and film producer. As a prominent..."
 categories: history
 tags:  disney
 image:
-  feature: natalya.JPG
+  feature: extension.jpg
   topPosition: 0px
 bgContrast: dark
 bgGradientOpacity: darker

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "<b>Rebecca</b> is the author of Beauty/Beauty from Bloodaxe Books, and a pamphlet, little armoured, published by Seren. She co-edits the online journal Poems in Which and lives in London."
+title:  "<b>Rebecca Perry</b> is the author of Beauty/Beauty from Bloodaxe Books, and a pamphlet, little armoured, published by Seren. She co-edits the online journal Poems in Which and lives in London."
 date:   1927-11-18 01:00:00
 last_modified_at:  1927-11-18 01:00:00
 excerpt: "Disney had Ub Iwerks secretly begin animating a new cartoon while still under contract with Universal..."

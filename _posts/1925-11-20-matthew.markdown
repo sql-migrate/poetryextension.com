@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "<b>Tierney</b>’s most recent book is Probably Inevitable (Coach House Books), which won a Trillium Book Award in 2013. He is a former winner of the P.K. Page Founders’ Award and a K.M. Hunter Award. He lives in Toronto with his wife and son."
+title:  "<b>Matthew Tierney</b>’s most recent book is Probably Inevitable (Coach House Books), which won a Trillium Book Award in 2013. He is a former winner of the P.K. Page Founders’ Award and a K.M. Hunter Award. He lives in Toronto with his wife and son."
 date:   1925-11-18 01:00:00
 last_modified_at:  1925-11-18 01:00:00
 excerpt: "Disney had Ub Iwerks secretly begin animating a new cartoon while still under contract with Universal..."

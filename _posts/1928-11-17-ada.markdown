@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "<b>Ada Limón</b> is the author of four books of poetry, Lucky Wreck, This Big Fake World, Sharks in the Rivers, and Bright Dead Things. She received her Master of Fine Arts in Poetry from New York University where she studied with Philip Levine, Sharon Olds, Mark Doty, and Marie Howe among others. Limón has received fellowships from the New York Foundation for the Arts, the Provincetown Fine Arts Work Center, the Kentucky Foundation for Women, and was one of the judges for the 2013 National Book Award in Poetry. She is currently working on a book of essays and a young adult novel. She serves on the faculty of Queens University of Charlotte Low Residency M.F.A program (Latin American & Charlotte) and the 24Pearl Street Online Program for the Provincetown Fine Arts Work Center. She also works as freelance writer splitting her time between Lexington, Kentucky and Sonoma, California (with a great deal of New York in between)."
+title:  "<b>Ada Limón</b> is the author of four books of poetry, Lucky Wreck, This Big Fake World, Sharks in the Rivers, and Bright Dead Things. She received her Master of Fine Arts in Poetry from New York University where she studied with Philip Levine, Sharon Olds, Mark Doty, and Marie Howe among others. Limón has received fellowships from the New York Foundation for the Arts, the Provincetown Fine Arts Work Center, the Kentucky Foundation for Women, and was one of the judges for the 2013 National Book Award in Poetry.
+"
 date:   1928-11-17 01:00:00
 last_modified_at:  1928-11-17 01:00:00
 excerpt: "Disney had Ub Iwerks secretly begin animating a new cartoon while still under contract with Universal..."
