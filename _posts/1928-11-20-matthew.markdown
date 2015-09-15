@@ -7,7 +7,7 @@ excerpt: "Disney had Ub Iwerks secretly begin animating a new cartoon while stil
 categories: history
 tags:  mickey
 image:
-  feature: matthew.jpg
+  feature: matthew.JPG
   topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker
