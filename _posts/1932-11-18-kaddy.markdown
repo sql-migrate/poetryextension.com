@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Color films"
+title:  "<b>Kaddy Benyon</b>’s first collection, Milk Fever, won the Crashaw Prize and was published by Salt in 2012. She is currently writing her second collection during a residency at the Scott Polar Research Institute in Cambridge, England. Kaddy is a Granta New Poet and has been highly commended in the Forward Prizes."
 date:   1932-11-18 01:00:00
 date:   1932-11-18 01:00:00
 excerpt: "Mickey first appeared animated in color in Parade of the Award Nominees in 1932, however the film strip was..."
 categories: history
 tags:  mickey
 image:
-  feature: mickey-1940.jpg
+  feature: kaddy.jpg
   topPosition: -200px
 bgContrast: dark
 bgGradientOpacity: darker
