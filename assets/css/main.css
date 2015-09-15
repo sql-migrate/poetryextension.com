@@ -2029,7 +2029,7 @@ body {
   }
 }
 .blockGroup-list li:nth-child(1).block .postArticle-title {
-  font-size: .6rem;
+  font-size: .65rem;
 }
 .blockGroup-list li:nth-child(2).block,
 .blockGroup-list li:nth-child(3).block {
@@ -2041,7 +2041,7 @@ body {
 }
 .blockGroup-list li:nth-child(2).block .postArticle-title,
 .blockGroup-list li:nth-child(3).block .postArticle-title {
-  font-size: .6rem;
+  font-size: .65rem;
 }
 @media (max-width: 767px) {
   .blockGroup-list li:nth-child(2).block,
@@ -2050,7 +2050,7 @@ body {
   }
 }
 .blockGroup-list li .postArticle-title {
-  font-size: 0.6rem;
+  font-size: 0.65rem;
   line-height: 1.5;
 }
 .blockGroup-list .postArticle-wrapper {
