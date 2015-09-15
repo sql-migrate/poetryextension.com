@@ -11,7 +11,7 @@ relative_permalinks: true
 timezone:            your timezone # eg. Asia/Kathmandu
 locale:              your locale language # eg. en_us
 name:				         site name
-title:               site title
+title:               The Poetry Extension
 tagline:             'tagline'
 description:         'description'
 url:                 sql-migrate.github.io/poetryextension.com
