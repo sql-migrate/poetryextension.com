@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mickey Mouse"
+title:  "Natalya Anderson is a writer and former ballet dancer from Toronto. She completed an MA in Creative Writing at Anglia Ruskin University in Cambridge, England, and a BA in Journalism at Ryerson University in Toronto. After winning the 2014 Bridport Prize for her poem, 'Clear Recent History', Natalya decided to use her prize money to found The Poetry Extension in order to bring poets and dancers together from across the Atlantic for epic gigs. It is her hope that this project will allow artists from different countries to form better connections and support each other."
 date:   2014-11-28 01:00:00
 last_modified_at:  2014-11-28 01:00:00
 excerpt: "Mickey Mouse is a funny animal cartoon character and the official mascot of..."
