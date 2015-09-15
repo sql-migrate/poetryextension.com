@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Mickey Mouse's Debut"
+title:  "Jack Underwood's debut collection Happiness was published by Faber in 2015. He works as a lecturer at Goldsmiths College and reviews new work for Poetry London and The Poetry Review. He is currently writing a non-fiction book on the subject of uncertainty."
 date:   1928-11-18 01:00:00
 last_modified_at:  1928-11-18 01:00:00
 excerpt: "Disney had Ub Iwerks secretly begin animating a new cartoon while still under contract with Universal..."
 categories: history
 tags:  mickey
 image:
-  feature: steamboat.jpg
+  feature: jack.jpg
   topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker
