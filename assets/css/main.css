@@ -2928,3 +2928,7 @@ body {
     display: none !important;
   }
 }
+
+.credit {
+  font-size: 0.65rem;
+}
