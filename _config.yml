@@ -10,7 +10,7 @@ relative_permalinks: true
 # Setup
 timezone:            your timezone # eg. Asia/Kathmandu
 locale:              your locale language # eg. en_us
-name:				         site name
+name:                The Poetry Extension
 title:               The Poetry Extension
 tagline:             'tagline'
 description:         'description'
