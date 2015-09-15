@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "<b>The Poetry Extension</b>. Bringing poets and dancers together from Canada, the UK, Ireland, and the US, one face-melting gig at a time. First event is March 16 2016 and features all the fine poets below. (Photo courtesy modernmechanix.com)"
+title:  "<b>The Poetry Extension</b>. Bringing poets and dancers together from Canada, the UK, Ireland, and the US, one face-melting gig at a time. First event is March 16, 2016, at The Extension Room in downtown Toronto. We welcome all the megawatt poets below for our launch. (Photo courtesy modernmechanix.com)"
 date:   2014-12-15 01:00:00
 last_modified_at:  2014-12-15 01:00:00
 excerpt: "Walter Elias Disney was an American entrepreneur, cartoonist, animator, voice actor, and film producer. As a prominent..."
