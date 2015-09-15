@@ -7,7 +7,7 @@ excerpt: "Mickey Mouse is a funny animal cartoon character and the official masc
 categories: history
 tags:  mickey
 image:
-  feature: natalya.jpg
+  feature: natalya.JPG
   topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker
