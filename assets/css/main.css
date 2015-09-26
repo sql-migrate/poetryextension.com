@@ -2932,3 +2932,8 @@ body {
 .credit {
   font-size: 0.65rem;
 }
+
+.tickets img{
+  vertical-align: middle;
+}
+}
