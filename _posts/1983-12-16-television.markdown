@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "<b>Extension Room</b>. This honey of a studio houses Jennifer Nichols's <b>Extension Method</b> ballet and fitness classes, and is an urban movement boutique for artists and fine poets like us to hold our events."
+title:  "Join us here from 7pm (Toronto Daylight Savings Time) on Thursday March 31st, 2016 for live streaming of the event."
 date:   1983-12-16 01:00:00
 date:   1983-12-16 01:00:00
 bgContrast: dark
