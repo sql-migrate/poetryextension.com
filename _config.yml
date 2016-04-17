@@ -44,6 +44,8 @@ port:             	 9001
 
 collections:
   - first_event
+  - second_event
+  - third_event
 
 defaults:
   -
