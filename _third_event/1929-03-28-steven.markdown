@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "<b>Jennifer L. Knox</b> latest book of poems, Days of Shame and Failure, is available on Bloof Books. Her poems have appeared four times in the Best American Poetry series as well as The New Yorker, American Poetry Review, and McSweeney's. Jennifer was born in Lancaster, California—home to Frank Zappa, Captain Beefheart, and the Space Shuttle. She currently teaches at Iowa State University."
+title:  "<b>SJ Fowler</b> is a poet, artist & curator. He has published seven collections of poetry and been commissioned by Tate Modern, The British Council, Tate Britain and is currently in residence at Wellcome Collection. He has been translated into 16 languages and performed at venues across the world, from Mexico City to Erbil, Iraq. He is the poetry editor of 3am magazine, Lecturer at Kingston University, teaches at Tate Modern, and is the curator of the Enemies project"
 date:   1929-03-28 01:00:00
 date:   1929-03-28 01:00:00
 excerpt: "In Mickey's early films he was often characterized not as a hero, but as an ineffective young suitor to Minnie Mouse..."
 categories: history
 tags:  mickey
 image:
-  feature: jen.jpg
+  feature: steven.jpeg
   topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker
