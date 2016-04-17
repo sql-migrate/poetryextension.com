@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Join us here from 7pm (Toronto Daylight Savings Time) on Thursday March 31st, 2016 for live streaming of the event."
+date:   1983-12-16 01:00:00
+date:   1983-12-16 01:00:00
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
