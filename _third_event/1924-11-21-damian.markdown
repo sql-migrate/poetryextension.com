@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "<b>Jack Underwood</b>'s debut collection Happiness was published by Faber in 2015. He works as a lecturer at Goldsmiths College and reviews new work for Poetry London and The Poetry Review. He is currently writing a non-fiction book on the subject of uncertainty."
+title:  "<b>Damian Rogers</b> grew up in Detroit and Chicago, and now lives in Toronto. She is poetry editor at House of Anansi Press and The Walrus. Her most recent collection is Dear Leader (Coach House Books). Her first book of poems, Paper Radio, was nominated for the Pat Lowther Memorial Award."
 date:   1924-11-18 01:00:00
 last_modified_at:  1924-11-18 01:00:00
 excerpt: "Disney had Ub Iwerks secretly begin animating a new cartoon while still under contract with Universal..."
 categories: first
 tags:  mickey
 image:
-  feature: jack.jpg
+  feature: damian.jpg
   topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker
