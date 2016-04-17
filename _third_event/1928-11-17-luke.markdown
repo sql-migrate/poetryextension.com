@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "<b>Ada Limón</b> is the author of four books of poetry, Lucky Wreck, This Big Fake World, Sharks in the Rivers, and Bright Dead Things. She received her Master of Fine Arts in Poetry from New York University where she studied with Philip Levine, Sharon Olds, Mark Doty, and Marie Howe among others. Limón has received fellowships from the New York Foundation for the Arts, the Provincetown Fine Arts Work Center, the Kentucky Foundation for Women, and was one of the judges for the 2013 National Book Award in Poetry.
+title:  "Luke Kennard is the author of five collections of poetry. He won an Eric Gregory award in 2005 and was shortlisted for the Forward Prize for Best Collection in 2007. He lectures at the University of Birmingham. In 2014 he was selected by the Poetry Book Society as one of the Next Generation Poets. His first novel, The Transition, is due from 4th Estate in spring 2017"
 "
 date:   1928-11-17 01:00:00
 last_modified_at:  1928-11-17 01:00:00
@@ -8,7 +8,7 @@ excerpt: "Disney had Ub Iwerks secretly begin animating a new cartoon while stil
 categories: history
 tags:  mickey
 image:
-  feature: ada.jpg
+  feature: luke.jpg
   topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker
