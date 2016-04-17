@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "<b>Matthew Tierney</b>’s most recent book is Probably Inevitable (Coach House Books), which won a Trillium Book Award in 2013. He is a former winner of the P.K. Page Founders’ Award and a K.M. Hunter Award. He lives in Toronto with his wife and son."
+title:  "<b>Hoa Nguyen</b> is the author of As Long As Trees Last, Red Juice, and Violet Energy Ingots (Wave Books). She teaches poetics at Ryerson University’s Chang School, as well as at Miami University’s MFA program and the Milton Avery School for Fine Arts at Bard College. She runs an acclaimed private workshop"
 date:   1925-11-18 01:00:00
 last_modified_at:  1925-11-18 01:00:00
 excerpt: "Disney had Ub Iwerks secretly begin animating a new cartoon while still under contract with Universal..."
 categories: history
 tags:  mickey
 image:
-  feature: matthew.JPG
+  feature: hoa.jpg
   topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker
