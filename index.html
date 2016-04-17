@@ -1,0 +1,35 @@
+---
+layout: default
+title: The Poetry Extension
+description: The Poetry Extension. Bringing poets and dancers from Canada, the UK, Ireland, and the US together, one face-melting gig at a time. Join us here from 7pm (Toronto Daylight Savings Time) on Thursday March 31st, 2016 for live streaming of the event.
+---
+
+<section class="section--first section--frontpage">
+  <div class="section-title">
+    <div class="container">
+    </div>
+  </div>
+</section>
+<section class="section--postsWrapper">
+  <div class="container">
+    <div class="blockGroup">
+      <ul class="blockGroup-list">
+        {% for post in site.posts %}
+          <li class="block">
+            <div class="postArticle-wrapper">
+              <article class="postArticle postArticle--short">
+                {% if post.image.feature %}
+                    <div class="postArticle-image desaturate" style="background-image:url('{{ post.image.feature | prepend: site.baseurl_featured_img }}')">
+                    </div>
+                {% else %}
+                  <iframe width="560" height="315" src="//www.youtube.com/embed/kiObQPF54_o" frameborder="0" allowfullscreen></iframe>
+                {% endif %}
+                <div class="postArticle-title">{{ post.title }}</div>
+              </article>
+            </div>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</section>
