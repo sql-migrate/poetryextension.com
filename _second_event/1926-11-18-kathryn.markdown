@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "<b>Sara Peters</b> was born in Nova Scotia and was a 2010-2012 Stegner fellow at Stanford. Her first book is 1996."
+title:  "<b>Kathryn Maris</b> is originally from New York and has lived in London since 1999. Her books include God Loves You(Seren, 2013) and The Book of Jobs (Four Way Books, 2006)."
 date:   1926-11-18 01:00:00
 last_modified_at:  1926-11-18 01:00:00
 excerpt: "Disney had Ub Iwerks secretly begin animating a new cartoon while still under contract with Universal..."
 categories: history
 tags:  mickey
 image:
-  feature: sara.jpg
+  feature: kathryn.jpg
   topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker
