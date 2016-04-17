@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "<b>Ada Limón</b> is the author of four books of poetry, Lucky Wreck, This Big Fake World, Sharks in the Rivers, and Bright Dead Things. She received her Master of Fine Arts in Poetry from New York University where she studied with Philip Levine, Sharon Olds, Mark Doty, and Marie Howe among others. Limón has received fellowships from the New York Foundation for the Arts, the Provincetown Fine Arts Work Center, the Kentucky Foundation for Women, and was one of the judges for the 2013 National Book Award in Poetry.
+title:  "<b>Sarah Howe</b> is a British poet, academic and editor. Her first book, Loop of Jade (Chatto & Windus, 2015), won the T.S. Eliot Prize and The Sunday Times / PFD Young Writer of the Year Award, and was shortlisted for the Forward Prize for Best First Collection. Born in Hong Kong in 1983 to an English father and Chinese mother, she moved to England as a child. Her pamphlet, A Certain Chinese Encyclopedia (Tall-lighthouse, 2009), won an Eric Gregory Award from the Society of Authors."
 "
 date:   1928-11-17 01:00:00
 last_modified_at:  1928-11-17 01:00:00
@@ -8,7 +8,7 @@ excerpt: "Disney had Ub Iwerks secretly begin animating a new cartoon while stil
 categories: history
 tags:  mickey
 image:
-  feature: ada.jpg
+  feature: sarah.jpg
   topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker
