@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "<b>Kaddy Benyon</b>’s first collection, Milk Fever, won the Crashaw Prize and was published by Salt in 2012. She is currently writing her second collection during a residency at the Scott Polar Research Institute in Cambridge, England. Kaddy is a Granta New Poet and has been highly commended in the Forward Prizes."
+title:  "<b>Sophie Collins</b> grew up in Bergen, North Holland, and now lives in Edinburgh. Her poems have appeared or are forthcoming in Poetry (Chicago), Poetry London, The Scotsman, The White Review, Ploughshares, Poetic Series # 4 (Sternberg Press) and elsewhere. She received an Eric Gregory Award in 2014. Her first collection will be published by Penguin in 2017"
 date:   1932-11-18 01:00:00
 date:   1932-11-18 01:00:00
 excerpt: "Mickey first appeared animated in color in Parade of the Award Nominees in 1932, however the film strip was..."
 categories: history
 tags:  mickey
 image:
-  feature: kaddy.jpg
+  feature: sophie.jpg
   topPosition: -200px
 bgContrast: dark
 bgGradientOpacity: darker
