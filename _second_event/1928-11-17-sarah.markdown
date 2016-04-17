@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "<b>Sarah Howe</b> is a British poet, academic and editor. Her first book, Loop of Jade (Chatto & Windus, 2015), won the T.S. Eliot Prize and The Sunday Times / PFD Young Writer of the Year Award, and was shortlisted for the Forward Prize for Best First Collection. Born in Hong Kong in 1983 to an English father and Chinese mother, she moved to England as a child. Her pamphlet, A Certain Chinese Encyclopedia (Tall-lighthouse, 2009), won an Eric Gregory Award from the Society of Authors."
-"
 date:   1928-11-17 01:00:00
 last_modified_at:  1928-11-17 01:00:00
 excerpt: "Disney had Ub Iwerks secretly begin animating a new cartoon while still under contract with Universal..."
