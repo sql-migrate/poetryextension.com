@@ -1754,12 +1754,12 @@ body {
 
 .section--frontpage,
 .section--frontpage ~ .post-featuredImage {
-  height: 18rem;
+  height: 10rem;
 }
 @media (max-width: 767px) {
   .section--frontpage,
   .section--frontpage ~ .post-featuredImage {
-    height: 15rem;
+    height: 5rem;
   }
 }
 
@@ -2019,6 +2019,7 @@ body {
 }
 .blockGroup-list li:nth-child(1).block {
   width: 100%;
+  font-size: 1rem;
 }
 .blockGroup-list li:nth-child(1).block .postArticle-image {
   padding-top: 30%;
@@ -2041,7 +2042,7 @@ body {
 }
 .blockGroup-list li:nth-child(2).block .postArticle-title,
 .blockGroup-list li:nth-child(3).block .postArticle-title {
-  font-size: 1rem;
+  font-size: .65rem;
 }
 @media (max-width: 767px) {
   .blockGroup-list li:nth-child(2).block,
@@ -2050,14 +2051,14 @@ body {
   }
 }
 .blockGroup-list li .postArticle-title {
-  font-size: 0.75rem;
+  font-size: 0.65rem;
   line-height: 1.5;
 }
 .blockGroup-list .postArticle-wrapper {
   position: relative;
   background: #fff;
   width: 100%;
-  padding-bottom: 3rem;
+  padding-bottom: 1rem;
   -webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
           box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
 }
@@ -2169,7 +2170,7 @@ body {
   list-style: none;
   margin: 1.5rem auto;
   padding-left: 0;
-  width: 50%;
+  width: 5%;
 }
 .socialAccountList:before, .socialAccountList:after {
   content: " ";
@@ -2926,4 +2927,13 @@ body {
   .hidden-print {
     display: none !important;
   }
+}
+
+.credit {
+  font-size: 0.65rem;
+}
+
+.tickets img{
+  vertical-align: middle;
+}
 }

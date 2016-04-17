@@ -45,7 +45,7 @@ port:             	 9001
 defaults:
   -
     scope:
-      path: "_posts/03312016"
-      type: "posts_03312016"
+      path: "_posts"
+      type: "posts"
     values:
       layout: "default"
