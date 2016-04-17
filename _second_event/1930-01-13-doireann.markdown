@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "<b>Emily Berry</b> is the author of Dear Boy (Faber & Faber, 2013), her debut book of poems which won the Forward Prize for Best First Collection and the Hawthornden Prize. She is a contributor to The Breakfast Bible (Bloomsbury, 2013), and editor of Best British Poetry 2015 (Salt Publishing, 2015)."
+title:  "<b>Doireann Ní Ghríofa</b> is a bilingual writer​, working both in Irish and English​. She was awarded the Ireland Chair of Poetry Bursary 2015. Her third book ‘Clasp’ was shortlisted for the Irish Times Poetry Award 2016 and won the Michael Hartnett Award for Poetry."
 date:   1930-01-13 01:00:00
 date:   1930-01-13 01:00:00
 excerpt: "Mickey first appeared in comics after he had appeared in 15 commercially successful animated shorts and was easily recognized by ..."
 categories: history
 tags:  mickey
 image:
-  feature: emily.jpg
+  feature: doireann.jpg
   topPosition: -100px
 bgContrast: dark
 bgGradientOpacity: darker
