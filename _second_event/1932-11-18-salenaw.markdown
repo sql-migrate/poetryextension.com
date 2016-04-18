@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "<b>Salena Godden</b> is one of Britain's foremost spoken word artists. A regular performer at literary festivals in the UK and around the world in a career than is now entering its third decade. Salena tops the bill at literary events and festivals nationally and internationally. She's a regular guest on BBC Radio and has written and produced several arts documentaries for BBC Radio 4. Burning Eye Books published her first full collection ‘Fishing In The Aftermath: Poems 1994 - 2014’ marking twenty years of poetry and performance, with the majority of the work included previously unpublished in book form. Her literary childhood memoir 'Springfield Road' was successfully crowd funded and published with Unbound Books in 2014. Widely recognised as a trailblazer for fellow female performers, Salena has also dedicated herself to mentoring newcomers to the scene. Her performances are electrifying, hilarious, intensely powerful and full of warmth."
+title:  "<b>Salena Godden</b> is one of Britain's foremost spoken word artists. She's a regular guest on BBC Radio and has written and produced several arts documentaries for BBC Radio 4. Burning Eye Books published her first full collection ‘Fishing In The Aftermath: Poems 1994 - 2014’ marking twenty years of poetry and performance. Her memoir 'Springfield Road' was published with Unbound Books in 2014"
 date:   1932-11-18 01:00:00
 date:   1932-11-18 01:00:00
 excerpt: "Mickey first appeared animated in color in Parade of the Award Nominees in 1932, however the film strip was..."
