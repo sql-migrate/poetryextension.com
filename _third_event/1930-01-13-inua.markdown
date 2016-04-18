@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Born in Nigeria in 1984, <b>Inua Ellams</b> is an internationally touring poet, playwright, performer, graphic artist & designer. He has published three pamphlets of poetry: ‘Candy Coated Unicorns and Converse All Stars’, ‘Thirteen Fairy Negro Tales’ and 'The Wire-Headed Heathen'. His first play ‘The 14th Tale’ (a one-man show which he performed) was awarded a Fringe First at the Edinburgh International Theatre Festival and his third, ‘Black T-Shirt Collection’ ran at England’s National Theatre. He is currently working on ‘Barber Shop Chronicles’ – a new play, and a poetry pamphlet called #Afterhours. In graphic art & design, online and in print, he tries to mix the old with the new, juxtaposing texture and pigment with flat shades of colour and vector images. He lives and works from London, where he founded the Midnight Run, a nocturnal urban excursion"
+title:  "Born in Nigeria in 1984, <b>Inua Ellams</b> is an internationally touring poet, playwright and performer. He has published three pamphlets of poetry: ‘Candy Coated Unicorns and Converse All Stars’, ‘Thirteen Fairy Negro Tales’ and 'The Wire-Headed Heathen'. His first play ‘The 14th Tale’ was awarded a Fringe First at the Edinburgh International Theatre Festival. He is currently working on a new play, and a poetry pamphlet called #Afterhours."
 date:   1930-01-13 01:00:00
 date:   1930-01-13 01:00:00
 excerpt: "Mickey first appeared in comics after he had appeared in 15 commercially successful animated shorts and was easily recognized by ..."
