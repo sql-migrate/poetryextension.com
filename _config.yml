@@ -12,15 +12,15 @@ locale:              your locale language # eg. en_us
 name:                The Poetry Extension
 title:               The Poetry Extension
 tagline:             'tagline'
-description:         'description'
-url:                 sql-migrate.github.io/poetryextension.com
+description:         'The Poetry Extension. Bringing poets and dancers from Canada, the UK, Ireland, and the US together, one face-melting gig at a time.'
+url:                 www.thepoetryextension.com
 rss:                 rss feed url
 baseurl:             '/'
 baseurl_posts_img:   '/assets/images/posts/'
 baseurl_featured_img: '/assets/images/hero/'
 baseurl_featured_thumbnail: '/assets/images/thumbnail/'
 baseurl_javascripts: '/assets/javascripts/'
-icon:                your site icon path # /assets/img/icon.png [best 300px X 300px]
+icon:                'assets/images/hero/extension.jpg' # /assets/img/icon.png [best 300px X 300px]
 disqus:              disqus_shortname # get it on https://disqus.com/admin/
 
 author:
