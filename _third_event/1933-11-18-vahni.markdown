@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Born in Port of Spain, Trinidad and Tobago, <b>Vahni Capildeo</b> has lived in the UK since 1991, where she has published several poetry collections, including <em>Undraining Sea</em> (2009), <em>Dark & Unaccustomed Words</em> (2012) – longlisted for the 2013 OCM Bocas Prize for Caribbean Literature – and <em>Utter</em> (2013). Her most recent collection is <em>Measures of Expatriation</em> -- shortlisted for The 2016 Forward Prize for Best Collection -- in which her poetry examines expatriate alienation and identity in contemporary Western society."
+date:   1933-11-18 01:00:00
+date:   1933-11-18 01:00:00
+excerpt: "Mickey first appeared animated in color in Parade of the Award Nominees in 1932, however the film strip was..."
+categories: history
+tags:  mickey
+image:
+  feature: sophie.jpg
+  topPosition: -200px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
