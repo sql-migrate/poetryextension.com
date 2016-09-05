@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "<b>The Poetry Extension</b>. Bringing poets and dancers from Canada, Ireland, the UK, and the US together, one face-melting gig at a time. Our third event is online-only, and FREE. Join us here from 2 p.m. Toronto (EST) and 7 p.m. UK time (GMT) Thursday December 8th, 2016 for live streaming of the event. We welcome all the megawatt poets below. <span class='credit'>(Photo courtesy modernmechanix.com)</span>"
+title:  "<b>The Poetry Extension</b>. Bringing poets and dancers from Canada, Ireland, the UK, and the US together, one face-melting gig at a time. Our third event is online-only, and FREE. Join us here from 2 p.m. Toronto time (EST) and 7 p.m. UK time (GMT) Thursday December 8th, 2016 for live streaming of the event. We welcome all the megawatt poets below. <span class='credit'>(Photo courtesy modernmechanix.com)</span>"
 date:   2014-12-15 01:00:00
 last_modified_at:  2014-12-15 01:00:00
 excerpt: "Walter Elias Disney was an American entrepreneur, cartoonist, animator, voice actor, and film producer. As a prominent..."
