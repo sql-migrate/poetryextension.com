@@ -1,0 +1,14 @@
+---
+layout: post
+title: "<b>Daisy Lafarge</b> grew up in the South of England and currently lives in Glasgow, where she is pursuing a PhD. Her work has appeared in publications such as <i>Poetry London</i>, <i>Tender</i>, the <i>White Review</i> (online), <i>The Poetry Review</i>, and elsewhere. She was awarded first prize in the Poetry Book Society National Student Poetry Competition 2015 and is currently at work on a novel."
+date:   1933-11-18 01:00:00
+excerpt: "Mickey first appeared animated in color in Parade of the Award Nominees in 1932, however the film strip was..."
+categories: history
+tags:  mickey
+image:
+  feature: daisy.jpg
+  topPosition: -200px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---

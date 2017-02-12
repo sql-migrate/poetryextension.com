@@ -1,0 +1,16 @@
+---
+layout: post
+title: "<b>Franny Choi</b> is a writer, performer, and teaching artist.
+She is the author of <i>Floating</i>, <i>Brilliant</i>, <i>Gone</i> (Write Bloody, 2014) and the forthcoming chapbook <i>Death by Sex Machine</i> (Sibling Rivalry Press). She has been a finalist for multiple national poetry slams and has received fellowships from Kundiman and the Rhode Island State Council on the Arts. Her work has been featured by the Huffington Post and PBS NewsHour, and her poems have appeared in Poetry Magazine, The Poetry Review, the Indiana Review, and elsewhere."
+date:   1932-11-18 01:00:00
+date:   1932-11-18 01:00:00
+excerpt: "Mickey first appeared animated in color in Parade of the Award Nominees in 1932, however the film strip was..."
+categories: history
+tags:  mickey
+image:
+  feature: franny.jpg
+  topPosition: -200px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---

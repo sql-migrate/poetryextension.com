@@ -1,0 +1,15 @@
+---
+layout: post
+title: "<i>Kathryn Mockler</i> is a writer, screenwriter, and poet. She is the author of the poetry books <i>The Purpose Pitch</i> (Mansfield Press, 2015),  <i>The Saddest Place on Earth</i> (DC Books, 2012) and <i>Onion Man</i> (Tightrope Books, 2011). Her writing has been published in <i>Public Pool</i>, <i>The Butter, Vol. 1 Brooklyn</i>, <i>Lemon Hound</i>, and <i>Geist</i>. Currently, she is the Toronto Editor of <i>Joyland</i> and Publisher of <i>The Rusty Toque</i>."
+date:   1928-11-17 01:00:00
+last_modified_at:  1928-11-17 01:00:00
+excerpt: "Disney had Ub Iwerks secretly begin animating a new cartoon while still under contract with Universal..."
+categories: history
+tags:  mickey
+image:
+  feature: kathryn_mockler.jpg
+  topPosition: -50px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---

@@ -1,0 +1,16 @@
+---
+layout: post
+title: "<b>Kaddy Benyon</b> is a Granta New Poet and former television scriptwriter. Her first collection, <i>Milk Fever</i>, won the Crashaw Prize, and was published by Salt in 2012. In 2015, she completed a residency at The Polar Museum in Cambridge, where she wrote poems in response to Hans Christian Andersen’s <i>The Snow Queen</i>. In January 2016, Kaddy travelled to the remote Scottish island of Eigg for a residency with The Bothy Project. Whilst living in a hut with little electricity, no phone signal or toilet, Kaddy began to write poems toward her second collection, <i>The Glass Harvest</i>.
+"
+date:   1930-01-13 01:00:00
+date:   1930-01-13 01:00:00
+excerpt: "Mickey first appeared in comics after he had appeared in 15 commercially successful animated shorts and was easily recognized by ..."
+categories: history
+tags:  mickey
+image:
+  feature: kaddy.jpg
+  topPosition: -100px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---

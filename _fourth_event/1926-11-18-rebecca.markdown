@@ -1,0 +1,15 @@
+---
+layout: post
+title: "<b>Rebecca Goss</b>'s second collection, <i>Her Birth</i> (Carcanet/Northern House), was shortlisted for The 2013 Forward Prize for Best Collection, The Warwick Prize for Writing 2015 and The Portico Prize for Literature 2015."
+date:   1926-11-18 01:00:00
+last_modified_at:  1926-11-18 01:00:00
+excerpt: "Disney had Ub Iwerks secretly begin animating a new cartoon while still under contract with Universal..."
+categories: history
+tags:  mickey
+image:
+  feature: rebecca_goss.jpg
+  topPosition: -50px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---

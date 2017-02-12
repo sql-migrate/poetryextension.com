@@ -1,0 +1,15 @@
+---
+layout: post
+title: "<b>Soraya Peerbaye</b>’s Tell: Poems for a <i>Girlhood</i> (Pedlar Press, 2015),was a finalist for the Griffin Poetry Prize and won the Trillium Book Award for Poetry. Her first collection, <i>Poems for the Advisory Committee on Antarctic Names</i> (Goose Lane Editions, 2009) was shortlisted for the Gerald Lampert Award."
+date:   1925-11-18 01:00:00
+last_modified_at:  1925-11-18 01:00:00
+excerpt: "Disney had Ub Iwerks secretly begin animating a new cartoon while still under contract with Universal..."
+categories: history
+tags:  mickey
+image:
+  feature: soraya.jpg
+  topPosition: -50px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---

@@ -1,0 +1,15 @@
+---
+layout: post
+title: "<b>Pascale Petit</b> was born in Paris and lives in Cornwall. Her seventh collection, <i>Mama Amazonica</i>, is published by Bloodaxe in September 2017. Her sixth, <i>Fauverie</i> (Seren, 2014), was her fourth to be shortlisted for the T.S. Eliot Prize and five poems from the book won the 2013 Manchester Poetry Prize. Petit has had three collections chosen as Books of the Year in the <i>Times Literary Supplement</i>, the <i>Independent</i> and the <i>Observer</i>. She has travelled extensively, particularly in the Peruvian and Venezuelan Amazon, and her books have been translated in Mexico, China, Serbia and France. She trained as a sculptor at the Royal College of Art and spent the first part of her life as a visual artist."
+date:   1927-11-18 01:00:00
+last_modified_at:  1927-11-18 01:00:00
+excerpt: "Disney had Ub Iwerks secretly begin animating a new cartoon while still under contract with Universal..."
+categories: history
+tags:  mickey
+image:
+  feature: pascale.jpg
+  topPosition: -50px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
