@@ -46,6 +46,7 @@ collections:
   - first_event
   - second_event
   - third_event
+  - fourth_event
 
 defaults:
   -
