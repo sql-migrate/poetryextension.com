@@ -360,7 +360,6 @@ h6 {
 }
 
 a {
-  color: rgba(0, 0, 0, 0.8);
   text-decoration: none;
   background-image: -webkit-gradient(linear, left top, left bottom, color-stop(75%, transparent), color-stop(75%, rgba(0, 0, 0, 0.8)));
   background-image: linear-gradient(to bottom, transparent 75%, rgba(0, 0, 0, 0.8) 75%);
