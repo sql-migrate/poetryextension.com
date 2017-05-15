@@ -404,6 +404,10 @@ hr {
   font-size: 1.333rem;
 }
 
+.content-body {
+  font-size: 80%;
+}
+
 /* Hug a the block above you */
 .hug {
   margin-top: 0;
