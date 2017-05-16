@@ -11,7 +11,7 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
-<em>The Poetry Extension’s founder and curator, Natalya Anderson, interviews our inaugural Poet of the Month – the shy, lionhearted, frighteningly-intelligent, Wayne Holloway-Smith.</em>
+<em>The Poetry Extension’s founder and curator, [Natalya Anderson](http://www.natalyaanderson.com), interviews our inaugural Poet of the Month – the shy, lionhearted, frighteningly-intelligent, Wayne Holloway-Smith.</em>
 
 Wayne Holloway-Smith lives in London, England. He received his PhD in English and Creative Writing from Brunel University in 2015. His poems have appeared in many fine publications, and his pocketbook, <em>Beloved, in case you’ve been wondering</em>, was published by Donut Press in 2011. Wayne co-edits the online journal <em>Poems in Which</em> and teaches at the University of Hertfordshire. His first collection, <em>Alarum</em>, was published by Bloodaxe in March 2017.
 
