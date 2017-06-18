@@ -12,7 +12,7 @@ syntaxHighlighter: no
 ---
 
 <em>The Poetry Extension’s founder and curator, [Natalya Anderson](http://www.natalyaanderson.com), interviews our Poet of the Month for June – the glorious, peacefully-powerful, Liz Howard.
-<br>
+<br/><br/>
 Liz Howard is a writer from Chapleau, Ontario. She won the Griffin Poetry Prize for her debut collection, Infinite Citizen of the Shaking Tent, in 2016.</em>
 
 <strong>Natalya:</strong> At what point in your life did you start writing poetry, and why were you drawn to poetry?
