@@ -1,0 +1,16 @@
+---
+layout: post
+title:  <b><a target="_blank" href="http://www.natalyaanderson.com">Natalya Anderson</a></b> is a writer and former ballet dancer from Toronto, Canada. She completed an MA in Creative Writing at Anglia Ruskin University in Cambridge, England, and a Bachelor of Journalism at Ryerson University in Toronto.<br/><br/> She won the 2014 Bridport Prize for her poem, 'Clear Recent History', and the poem was highly commended at the 2015 Forward Prizes. Natalya was also one of four finalists for the 2015 Ballymaloe International Poetry Prize for her poem, 'Dance Therapy'. Her poetry and feature writing has appeared in <em>Poetry London</em>, <em>Prac Crit</em>, <em>The Moth</em>, <em>The Forward Book of Poetry</em> 2016, and other fine publications. Natalya founded The Poetry Extension in 2015, within which she aims to forge cross-Atlantic relationships between poets and dancers from Canada, Ireland, the UK, and the US through live events.
+date:   2014-11-28 01:00:00
+last_modified_at:  2014-11-28 01:00:00
+excerpt: "Mickey Mouse is a funny animal cartoon character and the official mascot of..."
+categories: history
+tags:  mickey
+image:
+  feature: natalya.JPG
+  topPosition: -50px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+

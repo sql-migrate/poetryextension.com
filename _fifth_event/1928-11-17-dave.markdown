@@ -1,0 +1,15 @@
+---
+layout: post
+title: "<b>Dave Silverberg</b> is a poet, journalist, editor, producer, event organizer and slammaster. He founded Toronto Poetry Slam, one of Canada's most popular poetry series. He has performed his poetry across the world, including Halifax, Montreal, Vancouver, London UK and Paris. His first book of poetry <i>Bags of Wires</i> was published by LyricalMyrical Press and his forthcoming book of poetry will be published by ChiZine. He regularly leads workshops on writing and performing poetry in schools across Ontario. His non-fiction work has been published in <i>The Washington Post</i>, BBC News, <i>The Globe and Mail</i>, <i>Vice</i>, <i>Buzzfeed</i>, <i>Broken Pencil</i>, <i>Metro</i> and many more. His mom is real proud he once did a TEDx talk."
+date:   1928-11-17 01:00:00
+last_modified_at:  1928-11-17 01:00:00
+excerpt: "Disney had Ub Iwerks secretly begin animating a new cartoon while still under contract with Universal..."
+categories: history
+tags:  mickey
+image:
+  feature: dave.jpg
+  topPosition: -50px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---

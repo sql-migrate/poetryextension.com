@@ -1,0 +1,14 @@
+---
+layout: post
+title: "<b>Rachael Allen</b> was born in Cornwall and studied English Literature at Goldsmiths College. She is the poetry editor for <i>Granta</i>, co-editor at the poetry press <i>Clinic</i> and of online journal <i>Tender</i>. Her first collection will be published by Faber in 2019."
+date:   1933-01-13 01:00:00
+excerpt: "Mickey first appeared in comics after he had appeared in 15 commercially successful animated shorts and was easily recognized by ..."
+categories: history
+tags:  mickey
+image:
+  feature: rachael.jpg
+  topPosition: -100px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---

@@ -1,0 +1,14 @@
+---
+layout: post
+title: "<b>Holly Pester</b> is a poet and multidisciplinary writer. She has worked as an archivist, lecturer and practice-based researcher with readings, performances and sound installations featuring at Segue, New York, dOCUMENTA 13, Whitechapel Gallery, and the Serpentine Galleries. She teaches courses on poetic practice and creative writing at the University of Essex."
+date:   1930-11-18 01:00:00
+excerpt: "Mickey first appeared animated in color in Parade of the Award Nominees in 1932, however the film strip was..."
+categories: history
+tags:  mickey
+image:
+  feature: holly.jpg
+  topPosition: -200px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---

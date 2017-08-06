@@ -1,0 +1,14 @@
+---
+layout: post
+title: "<b>Livia Franchini</b> is a bilingual writer and literary translator from Tuscany, Italy. Her work has been featured or is forthcoming in <i>Hotel</i>, <i>La Errante</i>, <i>The Quietus</i>, <i>3AM: Magazine</i>, <i>LESTE</i> and <i>The White Review</i>, among others. Her new English translation of Natalia Ginzburg’s <i>The Road to the City</i> is supported by the Italian Cultural Institute and is forthcoming with Twins Editions in 2017. Her Italian translations of Eileen Gunn and James Tiptree Jr. are forthcoming with Nero Edizioni in 2017. In 2016 she co-founded <i>CORDA</i>, a journal about friendship in the time of new borders. She is one of the writers-in-residence for the European project CELA, which will see her work translated in six different languages. Livia lives in London, and is currently working on her first novel."
+date:   1932-11-18 01:00:00
+excerpt: "Mickey first appeared animated in color in Parade of the Award Nominees in 1932, however the film strip was..."
+categories: history
+tags:  mickey
+image:
+  feature: livia.jpg
+  topPosition: -200px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---

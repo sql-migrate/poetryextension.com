@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Born in Waterloo, Iowa, <b>Harmony Holiday</b> is the daughter of Northern Soul artist Jimmy Holiday. She earned a BA in rhetoric at the University of California, Berkeley and an MFA at Columbia University. She is the author of <i>Negro League Baseball</i> (2011), winner of the Fence Books Motherwell Prize; <i>Go Find your Father/A Famous Blues</i> (Ricochet Editions, 2013), a “dos-a-dos” book featuring poetry, letters, and essays; and <i>Hollywood Forever</i> (Fence Books, 2017).
+
+Holiday was awarded a Ruth Lilly Fellowship from the Poetry Foundation in 2013. She lives in Los Angeles."
+date:   1931-11-18 01:00:00
+last_modified_at:  1926-11-18 01:00:00
+excerpt: "Disney had Ub Iwerks secretly begin animating a new cartoon while still under contract with Universal..."
+categories: history
+tags:  mickey
+image:
+  feature: harmony.jpg
+  topPosition: -50px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
