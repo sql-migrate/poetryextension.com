@@ -11,7 +11,7 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
-<em>The Poetry Extension’s founder and curator, [Natalya Anderson](http://www.natalyaanderson.com), interviews our Poet of the Month for November – the peacefully-powerful, incisive, steadfast, Mona Arshi.</em>
+<em>The Poetry Extension’s founder and curator, <a href="http://www.natalyaanderson.com" target="_blank">Natalya Anderson</a> interviews our Poet of the Month for November – the peacefully-powerful, incisive, steadfast, Mona Arshi.</em>
 <br/><br/>
 
 Mona Arshi was born to Punjabi Sikh parents in West London. She worked as a lawyer and activist for the UK human rights organization, Liberty, for ten years. Mona received her Master’s in Creative Writing from the University of East Anglia. Her debut collection, <em>Small Hands</em>, won the Felix Dennis Prize for Best First Collection at the Forward Prizes for Poetry in 2015. Her second collection is forthcoming in 2019.
