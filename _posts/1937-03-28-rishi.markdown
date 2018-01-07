@@ -1,0 +1,83 @@
+---
+layout: post
+title:  "Liz Berry"
+date:   2018-01-07 01:00:00
+categories: interviews
+image:
+  feature: dane.jpg
+  topPosition: -50px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+
+<em>The Poetry Extension’s founder and curator, <a href="http://www.natalyaanderson.com" target="_blank">Natalya Anderson</a>, interviews our ‘Poet of the Month’ for January – the intriguingly-nuanced Rishi Dastidar.</em>
+<br/><br/>
+
+<em>Rishi Dastidar is based in London, England. He studied at Mansfield College, Oxford University and the London School of Economics. His poems have appeared in the </em>Financial Times<em>, and anthologies such as </em>Adventures in Form<em> (Penned in the Margins) and </em>Ten: The New Wave<em> (Bloodaxe). Rishi is a fellow of an Arts Council England-funded program called </em>The Complete Works<em>, and he’s a consulting editor at </em>The Rialto<em> magazine. His first full collection of poetry, </em>Ticker-tape<em>, was released by Nine Arches Press in 2017. He is working on his second collection.</em>
+
+Rishi: Rishi Dastidar.
+
+Natalya: Natalya Anderson.
+
+<br/><br/>
+<strong>Rishi:</strong> Hello, Natalya!
+
+<strong>Natalya:</strong> Hello, Rishi! Let’s talk about poetry. Your first full collection of poetry, <em>Ticker-tape</em>, was released nearly a year ago. Can I use the term “late-starter” when it comes to your work in poetry?
+
+<strong>Rishi:</strong> I think late-starter is fairly accurate. I’ve only been writing poetry seriously for 10 or 11 years. I came to poetry later than some people do. It was entirely unexpected to have poetry come into my life when I was around 29 or 30 years old. What I was very conscious of was wanting <em>Ticker-tape</em> out before I turned 40. There’s something about the psychic significance of that age. I needed to have made a mark before that point.
+<br/><br/>
+
+<strong>Natalya:</strong> You have a fascinating history with writing in various media environments. Where and how did poetry come into your work as a communications writer and advertising writer?
+
+<strong>Rishi:</strong> I knew from the age of 14 that I wanted to write, but I had very little idea of what that would entail. Going through high school it became apparent that I had a facility for history – with both the analytic study of it and the storytelling side it represented. That ended up being my undergraduate degree, but all the way through I was thinking of it as a way of writing. As a teenager I was an avid reader of newspapers and magazines, and it dawned on me that I was reading another way of writing, so journalism became a thing. While I was at university, I ended up doing a lot of journalism – editing the student newspaper and writing a lot of arts reviews. And then I finished my degree and started out in journalism properly and discovered that it was less about the writing and more about the gathering of facts.
+<br/><br/>
+
+<strong>Natalya:</strong> Indeed. And about maintaining objectivity, which, if you are an ethical journalist, can turn you into a robot.
+
+<strong>Rishi:</strong> Yes. And I discovered that I am a better writer than I am a fact gatherer so it became apparent that journalism wasn’t going to be a successful arena for me. I quit and went to do a Master’s in media regulation. So, still not creative writing, but I had started some research into censorship and pop regulation which I wanted to finish. And then after that I fell into marketing. All the while, in the background, the desire to write was still there, so I was dabbling with fiction and essays, but nothing was sticking. Around 2008 I ended up as a copywriter in an advertising agency. It was also then that I found poetry, and I don’t view it as accidental that it happened at roughly the same time. Around that time, I had returned from a weekend in Berlin, and I was looking for something to commemorate that weekend. I was working on Oxford Street, where there was a big Borders bookshop in those days. I went in and saw this book called <em>Ashes for Breakfast</em> by Durs Grünbein. I just picked it up and that was it. I hadn’t seen words on a page doing that before. The point at which I was given a license to be very creative with words, albeit with brands, and at the same time poetry entering my life, felt predestined.
+<br/><br/>
+
+<strong>Natalya:</strong> Well, <em>Ticker-tape</em> is a combination of those two worlds – your time in journalism, marketing, advertising, and your conversion to poetry through Durs Grünbein that day.
+
+<strong>Rishi:</strong> Exactly. I don’t spend most of my week being a poet. My job title is Head of Verbal Identity. It sounds very grand but means I think about the type of voice through which brands try to communicate.
+<br/><br/>
+
+<strong>Natalya:</strong> You’re like a kinder, gentler, morally sound, modern Don Draper.
+
+<strong>Rishi:</strong> [Explodes into laughter.] In theory, yes, but I would trade the kindness and the gentleness for the impact on culture!
+<br/><br/>
+
+<strong>Natalya:</strong> A complex trade off, Rishi! Like you, in my non-poet life, I have worked as a freelance journalist for nearly 20 years. I wonder if our experience of having deadlines pushes us as poets. The fire lit under my ass by deadlines somehow coincides with my getting a shitty first draft of a poem out.
+
+<strong>Rishi:</strong> There is something to it. You can let your subconscious rattle around, in terms of harvesting the images and letting things come to you, but – however artificial it may be – creating or having a deadline that forces you to get something out at least gives you something to work with. You know, you can get however bad of a first draft out in an hour.
+<br/><br/>
+
+<strong>Natalya:</strong> Can I ask you what your experience as a person of colour has been in the writing world?
+
+<strong>Rishi:</strong> What I struggle with is finding a way to talk about it that is nuanced – there are complexities in every person of colour’s experience in a post-colonial, post-imperial world. Part of what I’ve achieved is due to The Complete Works program in the UK. Around 2008, the Arts Council in the UK commissioned Bernardine Evaristo to research the status of poets of colour writing and publishing in the UK. What she found was that, at that time, less than one per cent of poets published by major presses were black or Asian. So, part of the institutional response to that was to set up The Complete Works. For each cohort, the program provided intensive mentoring for 10 poets of colour based in Britain. That first cohort included Malika Booker and Karen McCarthy-Woolf, amongst others, and I was fortunate to be in the second cohort of that program, which included Mona Arshi, Sarah Howe and Kayo Chingonyi, to name just a few more.
+<br/><br/>
+
+<strong>Natalya:</strong> So, it’s about acknowledging the need for a gazillion more programs like this, but also trying to see a point at which writers will be evaluated as human beings based on the work they produce, full stop.
+
+<strong>Rishi:</strong> Yes. Because one thing the program has conclusively proven is that the idea that poets of colour aren’t good enough or are in some way not fulfilling something put in place by older and less imaginative forms of the literary establishment is clearly not true.
+<br/><br/>
+
+<strong>Natalya:</strong> And what you’re sharing there is just one microscopic statistic that attests to how people of colour are – and have always been – expected to adapt to the endless whiteness.
+
+<strong>Rishi:</strong> It’s always hard to see through the surface when it is so prevalent. What I want is nuance in the way that writers of colour are read and received. Too often it can become a numbers game – in the sense of, ‘We’ve now published 20 per cent collections of poets of colour this year, and 20 per cent is roughly what we need to achieve balance.’ No, hang on. It doesn’t quite work that way. The nuance has to acknowledge that there is a complexity to a person of colour’s experience when you get to the third and fourth generation. There are going to be experiences like mine, which has been pretty much middle class, not very plugged into the community that I come from, adapting to, fitting in within relatively white spaces, and, yes, experiencing racism within and outside them too. And then you’ve got people who may be much more rooted in their community and much more involved. The job over the next couple of years is for establishments and gatekeepers to actually recognize that the model of poets of colour as “exotic” is in no way sufficient to encompass the stories we want to tell. Looking at it against what is the accepted, mainstream template, there are poets of colour who are working-class; there are poets of colour who are middle-class; there are poets of colour who may not have friends that are of colour.
+<br/><br/>
+
+<strong>Natalya:</strong> Poets of colour are human beings.
+
+<strong>Rishi:</strong> Exactly. We’re reaching a point where it’s going to become painfully obvious whether people are doing things on a tokenistic basis. The next level we have to push to is fighting the idea that it’s a trend. There are lots of publishers, lots of television executives, lots of film producers that are having this conversation about how this “people of colour thing” is now a hot trend for 2018, and what do they have on the map for that. No. It’s not a trend. So we have to make this change long lasting. You don’t want to be a tokenistic representative of your community. You want the freedom, quite frankly, to write about whatever the hell you want to. I don’t particularly want to write about my identity or where I came from. I want to write about capitalism and the way that power is transmitted. I want that freedom. I don’t want to think about why I should have to apologize for or justify that.
+<br/><br/>
+
+<strong>Natalya:</strong> How can you and I be part of driving it into change as opposed to trend?
+
+<strong>Rishi:</strong> Recently I’ve come to appreciate how the younger writers and activists that are coming up are so fiery and so angry. That does generate and drive a hell of a lot more change, rather than the studied ambiguity that I might have been more comfortable operating in. In some ways I’ve been polite in how I’ve been navigating and negotiating my way through the past 20 years or so. And perhaps I wish I had been a bit more fiery when I was younger.
+<br/><br/>
+
+<strong>Natalya:</strong> I was watching an interview with Trevor Noah last night, and he was speaking about our relationship as agitators with social media. He was discussing the notion that we – in western or developed societies – are basically negotiating our way into living solely behind our screens at home in our underpants. We want to throw a few characters together in a tweet to say something in compliance with a protesting hash tag, and then continue chilling at home in our skivvies. And Trevor Noah – whose mother had to pretend to be his father’s maid, and pretend that Trevor was just a boy she was babysitting so the police wouldn’t take him from her during apartheid in South Africa – was saying something to the effect of, ‘Protest is physical. You cannot make long-term change sitting on the couch in your underwear.’ And you, Rishi, are bringing all those worlds together in your expression of how we walk that microscopic, technological line between trend and real progress in Ticker-tape.
+
+<strong>Rishi:</strong> And that ties into what I think about the most, which is power and how it is transmitted. How power is used, and how some of us have more of it, and some of us have less of it. That point about protest is an interesting one. I’ve done my time marching against tuition fees and marching for gay rights, and there is something about the physical force, the physical nature of a group of people marching in a demonstration of power against whatever the more dominant power might be. When you’re thinking about types of demonstration, yes signatures, yes tweets, yes those sorts of noise mean something, but at a certain level power is about coercion and control. Creating physical obstacles, physical barriers in the form of people in the streets, registers. This is why governments are always scared of physical acts of demonstration, because they are very difficult to control.
