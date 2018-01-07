@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Liz Berry"
+title:  "Rishi Dastidar"
 date:   2018-01-07 01:00:00
 categories: interviews
 image:
