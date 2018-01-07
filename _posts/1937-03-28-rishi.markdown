@@ -16,10 +16,6 @@ syntaxHighlighter: no
 
 <em>Rishi Dastidar is based in London, England. He studied at Mansfield College, Oxford University and the London School of Economics. His poems have appeared in the </em>Financial Times<em>, and anthologies such as </em>Adventures in Form<em> (Penned in the Margins) and </em>Ten: The New Wave<em> (Bloodaxe). Rishi is a fellow of an Arts Council England-funded program called The Complete Works, and he’s a consulting editor at </em>The Rialto<em> magazine. His first full collection of poetry, </em>Ticker-tape<em>, was released by Nine Arches Press in 2017. He is working on his second collection.</em>
 
-Rishi: Rishi Dastidar.
-
-Natalya: Natalya Anderson.
-
 <br/><br/>
 <strong>Rishi:</strong> Hello, Natalya!
 
