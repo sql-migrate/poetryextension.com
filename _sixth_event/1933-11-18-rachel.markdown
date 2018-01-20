@@ -7,7 +7,7 @@ excerpt: "Mickey first appeared in comics after he had appeared in 15 commercial
 categories: history
 tags:  mickey
 image:
-  feature: ifrah.jpg
+  feature: Ifrah.jpg
   topPosition: -100px
 bgContrast: dark
 bgGradientOpacity: darker
