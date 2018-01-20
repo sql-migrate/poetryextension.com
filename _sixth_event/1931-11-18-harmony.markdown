@@ -1,0 +1,15 @@
+---
+layout: post
+title: "<b>Lorna Goodison</b> is a multi-award-winning poet. She divides her time between Jamaica and Ann Arbor, Michigan, where she is a professor at the University of Michigan. In 2017 Lorna was appointed Poet Laureate of Jamaica, succeeding Mervyn Morris."
+date:   1931-11-18 01:00:00
+last_modified_at:  1926-11-18 01:00:00
+excerpt: "Disney had Ub Iwerks secretly begin animating a new cartoon while still under contract with Universal..."
+categories: history
+tags:  mickey
+image:
+  feature: lorna.jpg
+  topPosition: -50px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---

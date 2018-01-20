@@ -1,0 +1,14 @@
+---
+layout: post
+title: "<b>Jericho Brown</b> is the recipient of a Whiting Writers Award and of fellowships from the John Simon Guggenheim Foundation, the Radcliffe Institute for Advanced Study at Harvard University, and the National Endowment for the Arts.  His poems have appeared in <em>The New York Times</em> and <em>The New Yorker</em>.  His first book, <em>Please</em> (New Issues 2008), won the American Book Award.  His second book, <em>The New Testament</em> (Copper Canyon 2014), won the Anisfield-Wolf Book Award.  He is an associate professor of English and Creative Writing and the Director of the Creative Writing Program at Emory University in Atlanta."
+date:   1932-11-18 01:00:00
+excerpt: "Mickey first appeared animated in color in Parade of the Award Nominees in 1932, however the film strip was..."
+categories: history
+tags:  mickey
+image:
+  feature: jericho.jpg
+  topPosition: -200px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---

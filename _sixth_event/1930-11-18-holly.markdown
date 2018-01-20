@@ -1,0 +1,14 @@
+---
+layout: post
+title: "<b>Paulina O' Kieffe</b> is a spoken word artist, producer, and artist educator. Paulina has performed, produced and hosted shows across the City of Toronto and beyond for the last 13 years. Her poetry appears in print in <em>Guerrillas of the Word</em> and <em>If I Ran the School</em>. Her work has also been featured on CBC News, Metro Morning, AfroGlobal TV and Bell Fibe TV.  Paulina was a member of the Up From the Roots Poetry SLAM Team who were finalists at the 2015 and 2017 Canadian Festival of Spoken Word and is the producer of the <em>Words by the Water</em> Literary Festival. Paulina has been using spoken word to teach young people in a number of communities about self-education, expression and empowerment. She continues to teach workshops working with many schools and community organizations."
+date:   1930-11-18 01:00:00
+excerpt: "Mickey first appeared animated in color in Parade of the Award Nominees in 1932, however the film strip was..."
+categories: history
+tags:  mickey
+image:
+  feature: paulina.jpg
+  topPosition: -200px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---

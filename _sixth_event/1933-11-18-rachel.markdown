@@ -1,0 +1,15 @@
+---
+layout: post
+title: "<b>Ifrah Hussein</b> is a poet and artist educator from Toronto. Ifrah started writing at age 12 and began spoken word and performance art at 14. Ifrah speaks mainly about her experiences, aspirations and world affairs. Ifrah became Burlington’s Grand Slam Champion in 2016, came in 5th of 96 Women at the Women of the World Poetry Slam in Dallas, Texas and was crowned the 2017 Canadian Individual Poetry Slam Champion.
+"
+date:   1933-01-13 01:00:00
+excerpt: "Mickey first appeared in comics after he had appeared in 15 commercially successful animated shorts and was easily recognized by ..."
+categories: history
+tags:  mickey
+image:
+  feature: ifrah.jpg
+  topPosition: -100px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---

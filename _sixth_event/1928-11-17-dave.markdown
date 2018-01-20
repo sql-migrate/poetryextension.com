@@ -1,0 +1,16 @@
+---
+layout: post
+title: "<b>Rabbit Richards</b> is a New York born performance poet currently based in Vancouver. Their stories and poetry blend the politics of race, love and gender with the emotional grounding of lived experience. A member of the Kalmunity Vibe Collective and a practiced improv artist, Richards is also the two time captain of Montreal’s Throw Poetry Collective and the 2015 winner of the Underground Indies poetry slam. They currently serve on the board of SpoCan and as the chairperson of their Anti-Oppression Committee.
+"
+date:   1928-11-17 01:00:00
+last_modified_at:  1928-11-17 01:00:00
+excerpt: "Disney had Ub Iwerks secretly begin animating a new cartoon while still under contract with Universal..."
+categories: history
+tags:  mickey
+image:
+  feature: rabbit.jpg
+  topPosition: -50px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
