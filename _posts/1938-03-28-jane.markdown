@@ -21,10 +21,12 @@ syntaxHighlighter: no
 
 <strong>Jane:</strong> Same to you!
 
+<br/><br/>
 <strong>Natalya:</strong> Let’s jump right into some poetry talk. What brought you to the UK from the States? Was it your studies?
 
 <strong>Jane:</strong> I was born and grew up in New Jersey. After studying in Iowa, I moved to New York and got a low-level job as a copy editor for a newspaper. I was there for five years but I wasn’t really getting anywhere. I didn’t know how to get ahead and move up to do something more interesting like writing or editing. I was having no success in terms of getting published in poetry, so I kind of gave that up. I also developed repetitive strain injury, so I couldn’t type or do a lot of ordinary things using my hands. I felt like I really needed a change. Since I was a teenager, I’d always wanted to live in England, specifically London. I had friends who’d gone to London for graduate school in arts programs, and I visited them on holidays. I had the impression of it being really cool. The only way I could think of to go and live there was to do an MA in creative writing. I’d already done a master’s at Iowa, but I applied to Manchester Metropolitan and got in. (At that time there were basically no programs for creative writing in London.) So, I stayed in Manchester for a year for my course work, and then I moved to London.
 
+<br/><br/>
 <strong>Natalya:</strong> You made it to London in the end to have your adventure.
 
 <strong>Jane:</strong> Yes, a new experience.
@@ -39,6 +41,7 @@ syntaxHighlighter: no
 
 <strong>Jane:</strong> Partly, but also the brevity of it.
 
+<br/><br/>
 <strong>Natalya:</strong> You mentioned you were an adult when you moved to the UK. Does your upbringing in the States inform your poetry in any way?
 
 <strong>Jane:</strong> It doesn’t much really. My poetry is pretty much non-autobiographical; it doesn’t draw on my personal experiences. I’m not one of these poets who write about how their parents met, or their grandmother’s story, or about my own life. Some people write about that, and they do it really well, but it’s not something that I’m interested in writing about for whatever reason.
@@ -63,6 +66,7 @@ syntaxHighlighter: no
 
 <strong>Jane:</strong> Exactly. Also I’m not trying to be apolitical; obviously it’s impossible to be apolitical in a sense. Everything is political; I’m just not as explicit about it in my poetry.
 
+<br/><br/>
 <strong>Natalya:</strong> Tell me about your poem ‘A Short History of Silence’ from December’s issue of <em>Poetry</em>.
 
 <strong>Jane:</strong> It’s a dramatic monologue, but using the plural ‘we’ instead of ‘I’. I’ve done that before in poems, for some reason it feels less egotistical for me to use ‘we’ in a persona poem. It’s also sort of paradox because ‘we’ can’t really be saying or thinking the same thing at the same time. I had this idea of two sisters who live a reclusive life, who are orphans. I was partly inspired by Lucie Brock-Broido, who’s one of my favourite poets. She has a poem in her first book called ‘Elective Mutes’, a dramatic monologue about these English twins who refused to speak to anyone except themselves. They became psychopathic and had to be imprisoned in Broadmoor. The poem is amazing and strange. I read it a long time ago and Lucie’s work has always had a big influence on me. I wasn’t thinking about it directly when I wrote this poem, but it was definitely in my subconscious.
@@ -72,6 +76,7 @@ syntaxHighlighter: no
 
 <strong>Jane:</strong> I’m reading at the Cork Poetry Festival in Ireland. That’s a big thing for me; I’ve never been there before. And my next book is coming out with Carcanet in March 2019.
 
+<br/><br/>
 <strong>Natalya:</strong> Those are some pretty awesome projects.
 
 <strong>Jane:</strong> Yes, but the sad thing is that I have yet to think of a title for my book!
