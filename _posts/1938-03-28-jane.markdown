@@ -1,0 +1,78 @@
+---
+layout: post
+title:  "Jane Yeh"
+date:   2018-02-14 01:00:00
+categories: interviews
+image:
+  feature: dane.jpg
+  topPosition: -50px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+
+<em>The Poetry Extension’s founder and curator, <a href="http://www.natalyaanderson.com" target="_blank">Natalya Anderson</a>, interviews our ‘Poet of the Month’ for February – the brilliantly-original Jane Yeh.</em>
+<br/><br/>
+
+<em>Jane Yeh was born in New Jersey and has lived in the UK for over fifteen years. She studied at Harvard University, the University of Iowa, Manchester Metropolitan University, and the University of London. She is a Lecturer in Creative Writing at the Open University, and has published two collections of poetry with Carcanet (</em>Marabou<em> and </em>The Ninjas<em>). Her next collection is forthcoming from Carcanet in 2019.</em>
+<br/><br/>
+
+<strong>Natalya:</strong> Hello, Jane. Nice to meet you.
+
+<strong>Jane:</strong> Same to you!
+
+<strong>Natalya:</strong> Let’s jump right into some poetry talk. What brought you to the UK from the States? Was it your studies?
+
+<strong>Jane:</strong> I was born and grew up in New Jersey. After studying in Iowa, I moved to New York and got a low-level job as a copy editor for a newspaper. I was there for five years but I wasn’t really getting anywhere. I didn’t know how to get ahead and move up to do something more interesting like writing or editing. I was having no success in terms of getting published in poetry, so I kind of gave that up. I also developed repetitive strain injury, so I couldn’t type or do a lot of ordinary things using my hands. I felt like I really needed a change. Since I was a teenager, I’d always wanted to live in England, specifically London. I had friends who’d gone to London for graduate school in arts programs, and I visited them on holidays. I had the impression of it being really cool. The only way I could think of to go and live there was to do an MA in creative writing. I’d already done a master’s at Iowa, but I applied to Manchester Metropolitan and got in. (At that time there were basically no programs for creative writing in London.) So, I stayed in Manchester for a year for my course work, and then I moved to London.
+
+<strong>Natalya:</strong> You made it to London in the end to have your adventure.
+
+<strong>Jane:</strong> Yes, a new experience.
+
+<br/><br/>
+<strong>Natalya:</strong> What was it about poetry that interested you in the first instance?
+
+<strong>Jane:</strong> From an early age I loved reading books, but they were all novels. I would write little stories. I liked the idea of what it was to be a writer, even though I had no idea how to do that. In my school and in my household, I wasn’t exposed to any poetry at all. When I was in high school, I became more aware of poetry and began writing it in that teenage way when you’re full of emotion and you want to write a poem. What drew me to poetry over fiction was the emphasis on the music of the words, the music of poetry. Nowadays that might be seen as old-fashioned, but it’s what attracted me to poetry originally. Also, like a lot of teenagers, I started reading Sylvia Plath. (I don’t know how, because we weren’t taught her work in school.) The musicality of Plath’s <em>Ariel</em> poems really appealed to me.
+<br/><br/>
+
+<strong>Natalya:</strong> Is it something about the intensity of a moment of emotion – in poems as opposed to long fiction?
+
+<strong>Jane:</strong> Partly, but also the brevity of it.
+
+<strong>Natalya:</strong> You mentioned you were an adult when you moved to the UK. Does your upbringing in the States inform your poetry in any way?
+
+<strong>Jane:</strong> It doesn’t much really. My poetry is pretty much non-autobiographical; it doesn’t draw on my personal experiences. I’m not one of these poets who write about how their parents met, or their grandmother’s story, or about my own life. Some people write about that, and they do it really well, but it’s not something that I’m interested in writing about for whatever reason.
+<br/><br/>
+
+<strong>Natalya:</strong> What does interest you or compel you to write?
+
+<strong>Jane:</strong> If I look back on it, at my first two books and the poems I’m writing now, it’s kind of like being a fiction writer who’s writing poetry. Each poem is a miniature story. Even if it doesn’t really have a plot, I’m creating a fictional world. I’m constantly having to make up characters or voices. Exercising my imagination in that way is appealing to me. In my books, and still today, I write a fair number of dramatic monologues. (In America, when I was in college and grad school, they were called persona poems.) You’re writing a poem, but the ‘I’ is not yourself.
+<br/><br/>
+
+<strong>Natalya:</strong> What is it about the imagined world that attracts you?
+
+<strong>Jane:</strong> Partly it’s just fun, but also you have an almost unlimited range. If you’re writing a dramatic monologue or a persona poem, you can pretend to be anyone, in any time period, in any place. You can pretend to be a dog, or a creature from another planet. I like the idea of play acting in poems and, when I was younger, using the kinds of costumes and props that might go along with that. In my poem ‘Double Wedding 1615’, for example, I have the voice of two princesses, and it’s imagining these elaborate gowns that they would’ve worn, and stuff like that. Actually, costumes and props have sort of dropped from my poems over time, but that’s what appealed to me initially.
+<br/><br/>
+
+<strong>Natalya:</strong> You touch on a topic that makes me considerably anxious. I am not a political writer, and I worry a lot about the notion of giving oneself permission to write about something that’s not necessarily political. That it might be irresponsible or stupid of me to write something that is just creative and interesting.
+
+<strong>Jane:</strong> I feel bad sometimes. There are these amazing poets – especially poets of colour – that write amazing poems that are more directly political, or that address current issues. I really admire them. I hesitate to say this because it can have a negative connotation, but I guess you can say what I do is a kind of escapism. Obviously, I spend a lot of time watching the news, reading political things, reading essays by poets who are considering these issues of identity and the problematic whiteness of the poetry world. But for me, in my poems, I don’t want to address those things so much. I view my poems as a kind of entertainment. Of course, entertainment or being entertaining doesn’t preclude serious thoughts or issues. One of the things that made me feel a bit better about the idea of escapism was a novel by Michael Chabon called <em>The Amazing Adventures of Kavalier & Clay</em>, which is about the golden age of comic books and these fictional comic book writers. At the end he has this great passage that relates to escapism in art. It’s kind of about the power of art and imagination as an escape from the awfulness of the world, temporarily, and how valuable that can be.
+<br/><br/>
+
+<strong>Natalya:</strong> Sometimes art is about pushing through, with the body, the mind, when words are not enough on their own – creating a world that expresses something else. And that world contains a piece of you, even when you’re not being autobiographical.
+
+<strong>Jane:</strong> Exactly. Also I’m not trying to be apolitical; obviously it’s impossible to be apolitical in a sense. Everything is political; I’m just not as explicit about it in my poetry.
+
+<strong>Natalya:</strong> Tell me about your poem ‘A Short History of Silence’ from December’s issue of <em>Poetry</em>.
+
+<strong>Jane:</strong> It’s a dramatic monologue, but using the plural ‘we’ instead of ‘I’. I’ve done that before in poems, for some reason it feels less egotistical for me to use ‘we’ in a persona poem. It’s also sort of paradox because ‘we’ can’t really be saying or thinking the same thing at the same time. I had this idea of two sisters who live a reclusive life, who are orphans. I was partly inspired by Lucie Brock-Broido, who’s one of my favourite poets. She has a poem in her first book called ‘Elective Mutes’, a dramatic monologue about these English twins who refused to speak to anyone except themselves. They became psychopathic and had to be imprisoned in Broadmoor. The poem is amazing and strange. I read it a long time ago and Lucie’s work has always had a big influence on me. I wasn’t thinking about it directly when I wrote this poem, but it was definitely in my subconscious.
+<br/><br/>
+
+<strong>Natalya:</strong> The combination of that influence and then the ‘we’ that you’ve added packs a punch. Do you have some new poetry projects coming up that you can share with us? Any new adventures?
+
+<strong>Jane:</strong> I’m reading at the Cork Poetry Festival in Ireland. That’s a big thing for me; I’ve never been there before. And my next book is coming out with Carcanet in March 2019.
+
+<strong>Natalya:</strong> Those are some pretty awesome projects.
+
+<strong>Jane:</strong> Yes, but the sad thing is that I have yet to think of a title for my book!
+
