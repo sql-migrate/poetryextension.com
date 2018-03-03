@@ -1,0 +1,97 @@
+---
+layout: post
+title:  "Sophie Collins"
+date:   2018-03-03 01:00:00
+categories: interviews
+image:
+  feature: dane.jpg
+  topPosition: -50px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+
+<em>The Poetry Extension’s founder and curator, <a href="http://www.natalyaanderson.com" target="_blank">Natalya Anderson</a>, interviews our ‘Poet of the Month’ for March – the precisely-fearless, uncompromisingly-honest, Sophie Collins.</em>
+<br/><br/>
+
+<em>Sophie Collins is a writer, poet and translator based in Edinburgh. With the brilliant poet Rachael Allen, she co-edits </em>tender<em>, an online arts quarterly. Sophie also edited an anthology of poetry translations, </em>Currently & Emotion<em> (Test Centre, 2016). Her highly anticipated debut collection of poetry, </em>Who Is Mary Sue?<em> has just been released by Faber & Faber.</em>
+<br/><br/>
+
+<strong>Natalya:</strong> Hello Sophie. I’ve read some of your new book. But I only just received it a few hours before our phone call, so I haven’t had a chance to read the entire thing.
+
+<strong>Sophie:</strong> No, of course not!
+
+<strong>Natalya:</strong> I hope you don’t mind my saying that it gave me a stark picture of a snake biting its own tail, always coming back around to meet itself.
+
+<strong>Sophie:</strong> I can’t believe you’re saying that, because I was writing about the Ouroboros earlier today.
+
+<strong>Natalya:</strong> Get the hell out of here.
+
+<strong>Sophie:</strong> I swear. The Ouroboros snake as symbolising circularity and rebirth; I had a dream about it the other night. In the dream, I was digging around in the dirt looking for something I’d lost, and I unearthed a small silver ring. When I brought it up to my face I could see it was in fact an Ouroboros ring. Snakes – as symbols – have become increasingly important to me recently. I was given a snake necklace for Christmas. My Chinese zodiac is the snake.
+<br/><br/>
+<strong>Natalya:</strong> I thought it was going to offend you, but I love the fear of snakes, and I kept seeing a snake eating its tail while I read your book. Is it fair to say that your writing is circular in the narrator’s apparent choice to remove ‘the self’, but then it seems like she’s forced to remove the self? Then the narrator is aware of a double standard with regards to women representing any kind of self in any body of artistic work.
+
+<strong>Sophie:</strong> Yes, definitely. I think these kinds of contradictions – i.e., to the need or desire to assert one’s identity through existing means and, at the same time, to self-abnegate, because of the clear faults in those existing means – are a major concern or interest for me, particularly as they pertain to female identities and writing by women. Accordingly, there are assertions made in the book’s title piece, ‘Who Is Mary Sue?’, that are subsequently undermined or challenged by the last piece in the book, on <em>Story of O</em>, and I’m definitely drawn to poets and theorists whose work exhibits similar ambiguities or paradoxes. Earlier today I was preparing for a lecture about H.D. – Hilda “H.D.” Doolittle, a poet associated with the Imagist movement. What struck me was how she’s pigeonholed in this way but was in fact always trying to undercut any definition projected onto her and her work by other people. This seems to be in contrast with the popular narrative of her life and work, which credits Ezra Pound with her discovery and even her creation, as a poet.
+<br/><br/>
+<strong>Natalya:</strong> How did you get to this point in your writing? I understand you were raised in Holland from a very early age, and that you have a close relationship with translation in poetry. Do you only translate Dutch?
+
+<strong>Sophie:</strong> I have translated from various languages into English, but I do believe you should have a close relationship to the culture and language you’re translating from. My family moved to Bergen, Holland, when I was four years old. My parents are from the north of England, but we were living in the south at the time of my early childhood. My father got a job as a teacher of English and Latin at one of the European Schools. (He was in fact my teacher for those subjects, for a time!) There are usually one or more of these types of international schools in most of the ‘major’ European countries, and often they’re built near some kind of big organisation, like a science institution (ours was), because those places attract lots of international employees. The idea is that these schools are for the children of those employees, so they have different language sections to accommodate a range of nationalities. So, I was taught in English and French, but outside of school a lot of my socialising was in Dutch, and of course my home life was in English too. I lived in Holland until I was 18, when I moved back to England to go to Goldsmiths College, in London.
+
+<br/><br/>
+
+<strong>Natalya:</strong> Your collection has a lot of essay elements in it. What I found so interesting was its deconstructing and reconstructing of itself, analysing itself, and then pulling back.
+
+<strong>Sophie:</strong> Yes, I think this might have something to do with my atypical route into Anglophone poetry – that perhaps the book is reflective of it. I think this comes, in the first instance, from my educational background – being in an international school, rather than a British school. The first thing about that is that poets like Ted Hughes, Sylvia Plath, Craig Raine, etc., as examples of poets a lot of British kids study at secondary school, weren’t as big a presence in our curriculum. When I went to university and met other students studying creative writing – some doing poetry, some doing prose – they had this awareness of what they might be writing into or against, in terms of a tradition. I was writing into a void, in a sense, because I didn’t have any preconceived notions of how my work would be positioned, or what it might be compared to. I also had no sense of reverence – at least at the beginning. Of course now I revere the writers I admire, but I feel there’s no one in that notional list who is there by default (on the basis of their reputation).
+
+<br/><br/>
+<strong>Natalya:</strong> You didn’t feel obliged, you also didn’t have a nagging sense that you owed the institution something as you wrote.
+
+<strong>Sophie:</strong> Exactly. I just didn’t experience that weight of obligation or expectation at the outset.
+
+<strong>Natalya:</strong> That’s where innovation comes from, though. I still see the respect and reverence for tradition through what you’ve learned as a writer, but it’s nice to read a body of work that is playing with the notion of shattering tradition. Female writers and female-identifying writers often get into an apologetic spiral with their writing, where they might feel they can only squeeze what they really want to write about into a patriarchal tube.
+
+<strong>Sophie:</strong> Yes, and I think my writing came from the disparate shape my education took, but also just from a kind of ignorance. I didn’t write poetry at all in my teens. When I went to study creative writing at Goldsmiths, I wanted to write prose. I was really into dystopian fiction – Aldous Huxley and George Orwell and Anthony Burgess. I had that thing that Elena Ferrante talks about so eloquently – that internalised misogyny that often plays out in your reading and writing habits as a young female adult. I didn’t read any work by women at that time, and I definitely wrote work with misogynistic sentiments. But it was also prose that was, within the context of a creative writing programme, structurally strange – fragmentary and plotless. Thinking about it in this way, the work was maybe unfocused in all respects because I hadn’t yet developed a political consciousness or self-awareness. But ultimately it was because of the dream-like, convoluted nature of my writing that one of my second-year tutors recommended I try poetry. After that, things clicked; the pressure of formal expectation was lifted too, to a degree. In a literature class, outside of the writing workshop, I read Jean Rhys for the first time, and her work allowed me to access unseen parts of my own interiority. It was after reading and writing about Rhys that I began to develop a feminist perspective of life and literature.
+
+<br/><br/>
+<strong>Natalya:</strong> How did moving around and having a unique form of education affect your poetry and spark your interest in translation?
+
+<strong>Sophie:</strong> I’ve often felt displaced and still do. When I’m in Holland I feel conspicuously English, but then when I’m in the U.K. I feel a bit outside of things too. I sound English, but I didn’t grow up here and I don’t have the same formative cultural references as those who did. So, I think perhaps my poetry has some of these feelings of displacement written into it. Apart from very early on, when I was closely mimicking existing models (as you do), poetry for me has never been a case of straightforward personal expression. It’s always been something that is looking outward and wanting to talk to people and engage with the reader in ways that transcend the boundaries of the poem and page. And of course having another language also meant that I always saw translation as something that I ought to become involved with at some point, but it was only during my master’s degree at the University of East Anglia, when I took an optional module called Process and Product in Translation, that I began to understand the politics and possibilities of translation.
+
+<br/><br/>
+<strong>Natalya:</strong> How did exploring translation in poetry change your perspective?
+
+<strong>Sophie:</strong> My tutor on that module – a Canadian woman, Valerie Henitiuk – was amazing. She teaches in Canada, but is a visiting tutor all over the world. She helped me see translation as not just something I ought to do simply because I had another language, but rather as a really fascinating critical framework for looking at literature as a whole.
+
+<strong>Natalya:</strong> Maybe I’m looking in all the wrong places, but translation doesn’t seem to be widely or very well represented in poetry, and yet it seems tremendously important to truthful communication. What did you learn from Valerie Henitiuk and what do you want to impart from that?
+
+<strong>Sophie:</strong> Translation is a huge (critical) blind spot for poets and literary readers, which is a noted phenomenon. It is beginning to change, in our current climate, given the changes in our understanding of representation, gender, race… The way it can continue to change is through consistently highlighting the political aspects of translation, as a process, and of translation theory. Translation is something I cannot separate from literature or poetry in general. On the broadest level, you’re ignoring an enormous part of the mechanisms behind canon formation if you’re ignoring translation. If you look at international movements in literary history, you can see that imperialist politics are revealed in the way that certain texts are translated and others ignored. In some countries you can see how dictatorships and the types of censorship these impose have influenced what literature is translated and why (the findings are often quite surprising – Linh Dinh, for example, talks about surrealist literature escaping the censors’ scrutiny in late 20th–century Vietnam). In this way, movements in literary translation can be seen as a kind of barometer or mapping system for national and international politics.
+
+<br/><br/>
+
+<strong>Natalya:</strong> Even for someone who wants to remain ignorant about the political implications, you could say that being turned off by translation in the art world would be like going to a museum and expecting only white, Anglo Saxon representation of painting, sculpture, etc. Even seeking a ‘simple beauty’ within poetry requires other voices, other languages.
+
+<strong>Sophie:</strong> I think this is complicated and there’s no perfect analogy. There can be apolitical interest in translation that is well-intentioned but nonetheless dangerously reductive.
+
+<strong>Natalya:</strong> And there seems to be – by critics or reviewers – fetishizing and othering of poets of colour or of poets whose work is translated.
+
+<strong>Sophie:</strong> I think this ultimately comes down to the dominant mode of criticism and poetry analysis. I feel we need to break open reductive language and ways of thinking that seek to in some way possess the text that is their subject. I always go back to Veronica Forrest-Thomson and her notion of ‘naturalisation’. According to V F-T, naturalisation with respect to poetry can be bad or good. To be very very brief, ‘bad naturalisation’ relates to this idea that many of us as readers experience a need or desire to extract a legible message from the poems we read. In her words, then, bad naturalisation converts the poem into ‘a statement about the non-verbal external world’, at once presenting a fixed interpretation of the poem and downplaying the linguistic innovations or ‘poetic artifice’ present in the text. It’s this mode of analysis – ‘bad naturalisation’ – that currently dominates the way poetry is discussed in all contexts – reviews, articles, write-ups, classes, workshops, interviews, prize lists…
+
+<br/><br/>
+<strong>Natalya:</strong> When you implement the opposite of bad naturalization in poetry translation, and when you look at the compartments of the self as separate and somehow wanting to be together, there must be some level of trust and honesty that has to be established between two poets in translation. This directness must somehow have to overtake archaic ceremonies related to the imperialism you mentioned. How does that work?
+
+<strong>Sophie:</strong> I feel like you’re a mind reader, because I’ve recently been thinking about relationship models in interlingual translation. I’ve been writing about translations between national languages and establishing new concepts as a response to, or subversion of, ‘fidelity’, which, as a measure of value or quality, governs our perceptions of literary translation completely. As the ubiquity of ‘fidelity’ suggests, translation is most often discussed in marital terms, and our subscription to these ideas imposes all these restrictions on the way that we think translation is and can function. In trying to come up with alternative terms, I’ve proposed ‘intimacy’ as a new kind of ideal that we might strive for within translation relationships. And intimacy is only something that can really be achieved between two living poets, which plays into my feeling that we ought to be translating as much contemporary work as possible. What intimacy might constitute practically is an elevated sense of collaboration and communication. So, the first characteristic of intimacy in translation, as I see it, is a heightened contextualisation of the author and of their cultural position and language – a political interpretation of the source text, in other words. The second thing is visible linguistic or ludic play in the translation itself, the kind of play that conveys mutual trust and autonomy between source text author and translator, that might sound (when read) something like the linguistic profusions in communications between close friends.
+
+<br/><br/>
+<strong>Natalya:</strong> Can the way we approach translation change? Can you see a day where you introduce yourself to a source text author, and you collaborate intimately and get the work out there?
+
+<strong>Sophie:</strong> I think it can. I feel that, in terms of translations or ‘versions’ by contemporary U.K. poets, there has been a laziness or apathy around sourcing work. Over the past few decades we’ve been getting a lot of work in translation by already well-known poets, including from classical source texts. More recently, however, I’ve noticed an increase in work in translation by female authors who have been excluded from their national canons, as well as work by contemporary writers, which is great. I’ll still consistently critique the former model, though; I see critique as hope: the affirmation of the possibility of change.
+
+<br/><br/>
+<strong>Natalya:</strong> Speaking of hope and criticism of the status quo, I recall trying to organize a workshop on feminism in creative writing with you and Rachael Allen exactly three years ago. We were unable to go forward with the workshop because I had email after email from women expressing exactly what we just touched on: they were afraid of the very word ‘feminism’, and of its implications
+
+<strong>Sophie:</strong> I don’t know if we’d have that problem today, three years later. Feminism was of course part of the discourse three years ago, but it was a different discussion to the one we’re having now. Looking back on how we pitched that workshop and what we said the structure would be, I see it was very typical of me and Rachael, which is to say very uncompromising. We wanted to be direct and talk about how we’ve come to where we are, meaning that we wanted to speak causally and look at numbers and publication statistics and really think about these things in relation to the effacement of women in literature. And then, in terms of the actual workshop element, we had pitched it as ‘bring something in that you’ve been afraid to submit or are worried about publishing’. So, looking at it now, I think it was perhaps less an issue of ‘feminism’ and more one of shame.
+
+<br/><br/>
+<strong>Natalya:</strong> The worry of being the troublemaker and the one who’s difficult to work with comes into play…
+
+<strong>Sophie:</strong> Definitely. Discussions around feminism in 2013 or 2014 were different, perhaps more celebratory in nature? Now it feels that – in some sense – the visible discourse is becoming more structural in terms of its critique, which is important.
