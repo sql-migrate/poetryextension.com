@@ -50,7 +50,7 @@ syntaxHighlighter: no
 
 <strong>Natalya:</strong> You were living through it, surviving it, day to day at the time. Was it like childhood trauma, where you have a second-impact pain as an adult looking back on it?
 
-Soraya: Of course. You know there are things are in the room that you’re not speaking about, but you feel that living with them is normal.
+<strong>Soraya:</strong> Of course. You know there are things are in the room that you’re not speaking about, but you feel that living with them is normal.
 
 <strong>Natalya:</strong> And then you are in that insular world you mentioned earlier, a kind of estranged-cocoon.
 
