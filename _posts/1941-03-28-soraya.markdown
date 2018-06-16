@@ -11,6 +11,9 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
+<em>The Poetry Extension’s founder and curator, <a href="http://www.natalyaanderson.com" target="_blank">Natalya Anderson</a>, interviews our ‘Poet of the Month’ for June, Soraya Peerbaye.</em>
+<br/><br/>
+
 <em>Soraya Peerbaye is a writer and advocate for artists of colour and diasporic artistic and cultural practices. She holds an MFA in Creative Writing from the University of Guelph. Her first collection,</em> Poems for the Advisory Committee on Antarctic Names<em> (Goose Lane Editions, 2009), was nominated for the Gerald Lampert Award. Her second collection, </em>Tell: poems for a girlhood<em> (Pedlar Press, 2015), was a finalist for the Griffin Poetry Prize and won the Trillium Book Award for Poetry. Her poetry has also been published in </em>Red Silk: An Anthology of South Asian Women Poets<em> (Mansfield Press), </em>Translating Horses<em> (Baseline Press), and various literary magazines. She lives in Toronto.</em>
 
 <strong>Natalya:</strong> Hello, Soraya. I’m so happy to finally be able to talk to you about your work.
