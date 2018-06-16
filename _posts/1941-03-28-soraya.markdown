@@ -1,0 +1,90 @@
+---
+layout: post
+title:  "Soraya Peerbaye"
+date:   2018-06-16 01:00:00
+categories: interviews
+image:
+  feature: dane.jpg
+  topPosition: -50px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+
+<em>Soraya Peerbaye is a writer and advocate for artists of colour and diasporic artistic and cultural practices. She holds an MFA in Creative Writing from the University of Guelph. Her first collection,</em> Poems for the Advisory Committee on Antarctic Names<em> (Goose Lane Editions, 2009), was nominated for the Gerald Lampert Award. Her second collection, </em>Tell: poems for a girlhood<em> (Pedlar Press, 2015), was a finalist for the Griffin Poetry Prize and won the Trillium Book Award for Poetry. Her poetry has also been published in </em>Red Silk: An Anthology of South Asian Women Poets<em> (Mansfield Press), </em>Translating Horses<em> (Baseline Press), and various literary magazines. She lives in Toronto.</em>
+
+<strong>Natalya:</strong> Hello, Soraya. I’m so happy to finally be able to talk to you about your work.
+
+<strong>Soraya:</strong> We’ve been planning this for such a long time!
+
+<strong>Natalya:</strong> I only know a lot about you sort of “in the present”. I want to know how you began writing poetry, which, if I’m not mistaken, you haven’t spoken a lot about.
+
+<strong>Soraya:</strong> I came to poetry very late. I studied theatre in high school and university, and was really interested in collaborative creation. I was into the physical theatre of the late 1980’s, theatre of the body and of the voice; and the non-naturalistic, evocative plays that were emerging. I found myself haunted by them. But even after I finished university, I was terrified of the creation process, and often took the role of dramaturge or director rather than performer or creator. It wasn’t until about three years after university that I got the courage to be the creator. That was around the year 2000.
+
+<strong>Natalya:</strong> So, it was quite a while, from the late-80s being an observer to early-2000 being a creator.
+
+<strong>Soraya:</strong> Yes, and then the play that I wrote was kind of awkward. Magical and awkward.
+
+<strong>Natalya:</strong> You were already a poet and didn’t know it.
+
+<strong>Soraya:</strong> Yes! It was like poetry on legs. It was an odd little creature. I knew then that performance writing wasn’t really for me. I couldn’t inhabit language and voice in that way. I started playing with other things, and that became poetry.
+
+<strong>Natalya:</strong> In looking at your first two collections of poetry, particularly <em>Tell: poems for a girlhood</em>, there isn’t an overt sense of autobiography. But both your collections deal with the naming of names, and the intimacy of the human body. With <em>Tell</em>, and the story of Reena Virk’s murder, you do seem to be speaking to something and someone in a deeply personal way. Does your own life or family history inform your poetry at all?
+
+<strong>Soraya:</strong> Yes. Maybe it comes out in a tension rather than in a more direct confrontation with it, but I think my poetry is vastly informed by my family and my growing up. I find it very difficult to talk about myself, as you can maybe tell.
+
+<strong>Natalya:</strong> Yes. I have been begging you to talk about yourself for over a year now.
+
+<strong>Soraya:</strong> Ha! I’m not comfortable as a confessional writer, but I feel like I’m writing about myself through others. Yes, I’m writing about myself, but I’m trying not to say so.
+
+<strong>Natalya:</strong> Can you tell me about growing up in Toronto, your family’s experience here, and how that shaped you?
+
+<strong>Soraya:</strong> I was born in London, Ontario, and I grew up mostly in Toronto, but my parents moved back and forth between Mauritius and Toronto quite a bit throughout the first decade of my life. They struggled to be here. They were deeply homesick and not sure how to build a life here. My dad encountered racism in his profession, as we did – all of us – in our neighbourhood. They wanted education and opportunity for us, so kept coming back. I grew up in the Toronto suburbs, the daughter of a doctor. I had a privileged upbringing – economically speaking – but we were also very estranged. It wasn’t just that we were brown growing up in a predominantly white neighbourhood. It was also that we weren’t necessarily connected to the South Asian community because we were from Mauritius, and the Mauritian community is so small. There is a history of mental illness in our family, which was part of what we were living through.
+
+<strong>Natalya:</strong> How did that hit you?
+
+<strong>Soraya:</strong> We were, on one level, deeply dysfunctional and estranged as a family by the experience, but it took me a long time to look back on that and see it as trauma.
+
+<strong>Natalya:</strong> You were living through it, surviving it, day to day at the time. Was it like childhood trauma, where you have a second-impact pain as an adult looking back on it?
+
+Soraya: Of course. You know there are things are in the room that you’re not speaking about, but you feel that living with them is normal.
+
+<strong>Natalya:</strong> And then you are in that insular world you mentioned earlier, a kind of estranged-cocoon.
+
+<strong>Soraya:</strong> Yes, and we are still somehow close. We didn’t know how to look after each other through what we were going through, but we are still a loving family.
+
+<strong>Natalya:</strong> How did you bring that into your poetry? With your first book, there is the topic of identity, of naming and not naming things or people, of having and not having an identity, if you will. Your astonishing second book is about 14-year-old Reena Virk and her 1997 assault and murder by her school peers in Saanich, British Columbia. These are both remarkable books, but <em>Tell</em> is very intimate and startling in its subject matter and your intricate handling of it.
+
+<strong>Soraya:</strong> Reena’s murder happened in 1997. The first set of trials happened in the year 2000. My good friend, Sheila Batacharya, attended the first trial and wrote her master’s thesis on the racism within the media coverage of the trial proceedings. We were exchanging work as friends at the time, and I was playwriting at the time. That story had an impact on the playlet that I wrote, and I think I was trying to write about it then. I was trying to understand why I felt her murder with such a reverberation. I was trying to understand how I related to her as much as I was trying to understand how anyone could have done what they did to her.
+
+<strong>Natalya:</strong> I remember the trial, the news coverage, my sense of terror as an adolescent at the time – thinking about how girls and boys could do this to another girl. Please tell me more about how this affected you.
+
+<strong>Soraya:</strong> She was a brown girl who was assaulted and murdered by a group of young girls, predominantly white. Race was not explicitly spoken about as a motive. The brown girls I knew who followed that story, felt a vulnerability. The assault was initiated by extinguishing a cigarette on her forehead, where a bindi would be. The assault was a profoundly racial marking.
+
+<strong>Natalya:</strong> I recall also – and if I’m off base here please correct me – that, in addition to the hyper-racism embedded in her murder, there were layers of sexual and gender discrimination and torment. It went virtually unmentioned by the Canadian media, along with everything else.
+
+<strong>Soraya:</strong> Absolutely. She was bigger-bodied, in some ways androgynous in her appearance, and even before the assault there was a history of intense slurs and social aggression directed at her.
+
+<strong>Natalya:</strong> I felt, at the time and now speaking to you about Reena again, reminded of the Bernardo-Homolka rapes and murders of schoolgirls. They did not have the racial elements to them, and I don’t want to ignore those racial elements and Reena’s case. I am just reflecting to you the intense and immediate bodily-impact those stories had on me as a girl. I am still hugely impacted by those years. The Bernardo-Homolka killings happened in  my neighbourhood, while I was the age of the girls they were killing. So, I just can scarcely imagine how you tackled writing about Reena’s murder.
+
+<strong>Soraya:</strong> I thought of those murders, too, and they also marked my adolescence; they were more a part of the story in the play I wrote in 2000. It was new and unformed. I think it somehow didn’t leave me. It became something deeper – not only violence against women, but racialized violence. And in reading Sheila’s thesis at the same time, it was allowing me to talk about – for the first time – what it was like to grow up and be brown in Canada. With the first poetry collection, there was a lot that I didn’t know how to write about; I was working up the nerve to expose my own response to something.
+
+<strong>Natalya:</strong> And then, with the nature of poetry, how do you bring all the possibly-offensive ideas of making a murder into poems? I’m thinking here of news coverage of your Griffin shortlisting as making the entire media racism into “beauty”, which totally reduces what you’ve done.
+
+<strong>Soraya:</strong> I wasn’t after beauty; I sought to quiet my own revulsion around what was done to her; to not shy away from what she had experienced; if anything, to try and be intimate – as terrible as it is – with what she experienced. For me poetic language doesn’t create a dichotomy between tenderness and brutality. It really is about the idea that you can have an intimate experience of trauma. There is a theory that trauma is an experience that isn’t allowed to enter your body, so part of the effort was to let trauma in.
+
+<strong>Natalya:</strong> I have this theory about dancers and poets, trauma and intimacy.
+
+<strong>Soraya:</strong> Yes.
+
+<strong>Natalya:</strong> When the child experiences trauma, trauma blows the family apart. The family members – like the media covering a blatantly racially-motivated murder – slowly takes the child’s experience with trauma away from them, off of their body, by breaking it down to take heat off of the adults’ responsibility. These children often present later in life as artists, dancers, poets, who create moving, intimate works. And they are somehow trying to reclaim the intimacy of the grotesque and the unspeakable through a painting, a ballet,  or a poem. The odd thing is that they’re expressing a kind of cradling themselves with their trauma – the most deeply personal picture they can express. And yet they seek this wide audience. I feel they’re calling for witnesses. They do not want to be told “you’re beautiful”, or, “your survival is beautiful”. They want witnesses for the grotesque, and how they have developed a relationship with the grotesque. And they also seek some kind of understanding for the neurons, the cells, that make up the person who traumatized them. It’s a kind of question posed out there to the audience.
+
+<strong>Soraya:</strong> I really like this idea. “Beauty” erases you. And witnessing is an act of intimacy; to truly witness rage or contempt, to be present with it, you need an intimacy. And I’m not using intimacy to suggest forgiveness to the assailants. I am simply trying to be as close to the mind and body of rage, the experience of it, to see how it works. I really relate to what you just said, where you’re actually trying to make sense of the assailant’s neurons, the actual cellular being. How can they come to do this? For me it goes beyond the family, and into the socio-political. What society are we living in that also contains this cellular formation? Race was not a factor in the legal proceedings or media narratives surrounding Reena’s murder; her body was not searched for for eight days. Look at the history of bodies of indigenous women in Canada – not searched for. Bodies of colour are not searched for. Bodies of colour are not cared for.
+
+<strong>Natalya:</strong> The racism and the revulsion.
+
+<strong>Soraya:</strong> The opposite of intimacy, for me, is revulsion. Racism was expressed through a revulsion at the idea that any part of Canada – particularly young white children in a quiet suburb  – could be capable of that.
+
+<strong>Natalya:</strong> How did you become involved in dance, and how do you use that today with your poetry?
+
+<strong>Soraya:</strong> I became involved through dance through my work with the Canada Council for the Arts, where I oversaw a multidisciplinary program for arts organizations of colour, many of which were dance companies; and then with the Toronto Arts Council, where I was the dance program manager. By the time I left TAC in 2012, I had fallen in love with dance. Maybe it’s that I was so awkward as a kid, and still find it so difficult to be in my body; I love that in dance there is a way to be in one’s awkwardness, to make it into something. I think dance and poetry are kin, more so than dance and theatre, or poetry and novels. To me they are both about what is the extremity of what language can say, or not say.
