@@ -1,0 +1,69 @@
+---
+layout: post
+title:  "Kaddy Benyon"
+date:   2018-07-04 01:00:00
+categories: interviews
+image:
+  feature: dane.jpg
+  topPosition: -50px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+
+<em>The Poetry Extension’s founder and curator, <a href="http://www.natalyaanderson.com" target="_blank">Natalya Anderson</a>, interviews our ‘Poet of the Month’ for July, Kaddy Benyon.</em>
+<br/><br/>
+
+<em>Kaddy Benyon was born in Cambridge and grew up in Suffolk. In 2012, she won the Crashaw Prize with her debut collection of poetry, </em>Milk Fever<em> (Salt Publishing). Kaddy is also a Granta New Poet who previously worked as a television scriptwriter for several programs, including </em>Hollyoaks<em> and </em>Grange Hill<em>. Kaddy currently works as a mentor to students with disabilities at the University of Cambridge. Her second collection, </em>The Tidal Wife<em> (Salt Publishing), will be released July 17th.</em>
+
+<strong>Natalya:</strong> I'm so glad to talk to you about your poetry. How are you in Cambridge, England today, old friend? We are having a heat wave here in Toronto.
+
+<strong>Kaddy:</strong> Well, I spent a lovely day researching in an air conditioned art gallery, Kettle’s Yard, then came out to find some hideous person had dumped a sweaty kebab in my bike basket - I felt so bloody violated!
+
+<strong>Natalya:</strong> Germs! I am so enraged. If I was still in Cambridge I’d roundhouse that hideous beast in the face and then douse my shoe and your bike with bleach.
+
+<strong>Kaddy:</strong> I miss you. My bike stinks of chips, red onion, and something not even approximating meat.
+
+<strong>Natalya:</strong> Let me disinfect it with talk of poetry. You've been a supporter, a mentor to, and a tutor for so many young poets throughout the past decade. And you never talk about your own work. Do you remember when we started talking secretly about poetry, just after <em>Milk Fever</em> won the Crashaw Prize? What was that time like for you?
+
+<strong>Kaddy:</strong> Ha! I do remember that, yes. That was such a surreal time for me, and a little bit like getting shoved onto a stage to make a speech when you’re in your pajamas and have a mouth full of popcorn. I’d only been writing poetry for two years when my manuscript won the Crashaw Prize. It had been shortlisted for the Picador Poetry Prize about a year before (alongside Helen Mort, Ben Wilkinson, Alan Buckley and several other poets I’d read and admired), and that was surprising enough – so winning a deal for a first full collection with Salt was just completely off the scale.
+
+Sometimes I shudder because I had quite a half-hearted start to writing poetry. It came when I was doing my MA – the same Creative Writing MA you did here in Cambridge. It didn’t make sense for me to take the scriptwriting module that the rest of my class would be taking, as I’d previously worked as a television scriptwriter. The only other option was poetry and my tutor had to work pretty hard to persuade me. I was adamant that I was going to be a teen novelist, not a poet, thank you very much! I remember how scared I was when I submitted my first poem, the way my supervisor - Michael Bayley, himself a wonderful poet, and still my first reader – he just looked at me, looked at the poem, looked back at me and cocked his head and grinned and said: ‘This is very good, did you know it’s publishable?’. And he was right. After a few more drafts I sent it to <em>London Magazine</em> and they accepted it. After that, I couldn’t stop writing poems.
+
+<strong>Natalya:</strong> I know that after <em>Milk Fever</em> you got very involved in supporting and teaching new poets. What was that like – being given such responsibility after feeling so "new" to poetry yourself? What did you learn from that time before your second collection?
+
+<strong>Kaddy:</strong> Becoming a mentor to other writers wasn’t something I had thought about at all at the time, as I still felt very much the student myself. When you approached me to help you prepare your poetry portfolio for your MA, I remember feeling both delighted and surprised. I thought about it for a while, and because I’d so recently completed the task you were setting out to do, I had a sense that I could be useful to you. And it appears that I was! Likewise with Megan Hunter, who I mentored during the writing of her novel <em>The End We Start From</em> (Picador, 2017). Another thing I like to do, is to bring poetry into my local community and see how it can work its magic on those who may never have written – or even listened to – a poem before. I enjoyed delivering workshops to groups of visiting schoolchildren when I was poet in residence at The Polar Museum a few years ago; and more recently working alongside poets Jo Shapcott, Rebecca Watts and Eve Lacey for a joint project with Cambridge Curiosity and Imagination and Addenbrooke’s Hospital, which was where my son was born. I don’t really see it as a responsibility, it feels like more of a privilege.
+
+<strong>Natalya:</strong> Tell me about <em>The Tidal Wife</em>. It reads very much like an emotional epiphany. At the same time, the writing is light, precise, karate-chopping in an evolutionary way for you. Does that make sense? What brought you to that stronger place in your writing?
+
+<strong>Kaddy:</strong> I suppose the collection was borne from some pretty heavy experiences, yes. There were two bereavements during the time I was writing and, as with any grief, I was tossed about in some murky old feelings: angry, sad, incredulous, scared, vengeful – all of the usual things that grieving people have to wade through.
+
+I had been writing a different collection. I was a year into a funded residency at The Polar Museum to write a collection in response to Hans Christian Anderson’s <em>The Snow Queen</em>. It had been going brilliantly, I’d made research trips to Denmark and Finland (where I tried my hand at reindeer herding in the Arctic Circle), and I’d written a large part of the manuscript. But when loss came, I stumbled. I found it increasingly difficult to put all my energy into a fairy tale world, when the real, brutal, visceral one I was a part of felt so intensely and endlessly unhappy.
+
+I think you’re right, there is a definite shift in my writing between <em>Milk Fever</em> and <em>The Tidal Wife</em>. I imagine some of this is just the natural maturation of a writer. I’ve adored Esther Morgan’s poetry, so once I felt I had a cohesive collection and I had taken it as far as I could alone, I contacted her and asked her if she would consider editing it (I paid her, of course). That was the best decision I made for this book. What she does so incredibly in her own writing is allow white space to be as valid as text; an almost painterly touch.
+
+<strong>Natalya:</strong> How did Skye, Eigg and Lindisfarne inform your new collection?
+
+<strong>Kaddy:</strong> Although I live in a city, quite often I have an incredible urge to move to an island, any island, I don’t care – but the wilder the better. I want to wear dungarees, to grow white whiskers, to live in a simple croft or bothy, and to keep chickens. It’s literally all I want sometimes – oh, and to be entirely, entirely alone.
+
+Skye seems like the wild card of the three islands I’ve responded to in <em>The Tidal Wife</em>. A few years ago, I read Gavin Maxwell’s <em>A Ring of Bright Water</em>, one of his memoirs about living in almost isolation near Skye. I remember thinking ‘Skye’ was a nice word, so on the strength of that, booked our summer holiday there. Being in a landscape so ancient, remote and stark seemed to match my feelings.
+
+I went to Eigg after being awarded a residency with The Bothy Project. It was my first experience of living on my own as an adult: I chopped my own wood; made my own fire; could only contact my family by satellite phone. I thought I’d be frightened by living in a hut halfway up a mountain with a compostable loo and only an outdoor shower, but actually, it was so bloody empowering. The Gaelic name for the island translates as ‘Island of the Big Women’ after some large female warriors who first inhabited it.
+
+A friend had told me about Lindisfarne many years ago, but the way he described it made me think it only existed in myth.  I was beyond excited when I looked it up and realized it was real. I was captivated by the idea of this tiny island off the coast of Northumberland that you could only reach by causeway when the tide was out. I fell hard for Lindisfarne, my whole family did – we’ve been back several times.
+
+<strong>Natalya:</strong> Have you been aware of any criticism of landscape-poetry – the suggestion that it's somehow not relevant. I wondered if this kind of poem was actually powerful, as an example of women reclaiming the places where they feel connection to the earth – an actual staking of land – in circumstances where they may have felt displaced by men who have wanted them to be wife, mother, servant?
+
+<strong>Kaddy:</strong> I have heard a similar suggestion leveled at nature poetry: that it is boring and too much of a throw-back to the Romantics, and perhaps idealizes instead of reflects our current concerns.
+
+For me, poetry arises from a sense of having, or being, lost (whether that’s physically or not) and needing to find again; needing to remember, and to capture the act of remembering in a poem. I don’t know if I’m using landscape as a metaphor for myself. Although, interestingly, now you suggest it, I think I do have all three of the islands I’ve written about as aspects of some older, wiser, lived or imagined female who may represent ‘mother’ to me – so in that sense, I’ve continued to explore the concerns of <em>Milk Fever</em>.
+
+From what I’ve been reading recently, poetry is doing some incredibly exciting things with landscape. Vahni Capildeo’s <em>Venus as a Bear</em>, which I read last week, was just astonishing in terms of how her words shape shift along with her world; Sarah Corbett’s <em>A Perfect Mirror</em> has a wonderful section where she’s taken phrases from Dorothy Wordsworth’s diary and riffed off them; Emily Hasler’s <em>The Built Environment</em> is to die for on wild swimming. I’ve had the extreme good fortune to have read a draft of the manuscript for Fiona Benson’s next collection <em>Vertigo & Ghost</em>, and as ever with, there are some absolute stunners on the landscape of motherhood. Rebecca Goss is writing poems about Suffolk which I’m extremely eager to read as that’s my home county too. But the collection that blew me away most recently was Tracy K Smith’s <em>Wade in the Water</em> which had me in floods with her erasure poems on slavery.
+
+<strong>Natalya:</strong> Given that I will never get you to talk about yourself again for another decade, can you tell me what you’re working on next?
+
+<strong>Kaddy:</strong> I’m worried I sound like a dick!
+
+<strong>Natalya:</strong> An underrated, ridiculously modest, generous dick.
+
+<strong>Kaddy:</strong> Ha! I am just about to submit the first draft of a poetry contribution to a book called <em>A Painter & A Poet</em> which will be published by Bridgedoor Press next year. It is a collaborative project between myself and artist Miranda Boulton, that has been curated by literary critic Victoria Best. In a nutshell it’s about how female friendships can energize and support the creative process in both partners. Once I’ve recovered from meeting that deadline, I’ll be heading back to tackle the second draft of my novel, which is very broadly about reclaiming both landscape and language – also about how identity and sexuality can be formed and filtered through grief and shame.
