@@ -360,7 +360,6 @@ h6 {
 }
 
 a {
-  color: rgba(0, 0, 0, 0.8);
   text-decoration: none;
   background-image: -webkit-gradient(linear, left top, left bottom, color-stop(75%, transparent), color-stop(75%, rgba(0, 0, 0, 0.8)));
   background-image: linear-gradient(to bottom, transparent 75%, rgba(0, 0, 0, 0.8) 75%);
@@ -402,6 +401,10 @@ hr {
 /* Leading paragraph text */
 .lead {
   font-size: 1.333rem;
+}
+
+.content-body {
+  font-size: 70%;
 }
 
 /* Hug a the block above you */
@@ -1743,7 +1746,7 @@ body {
 
 .section--first,
 .section-backgroundImage {
-  height: 28.5rem;
+  height: 14.5rem;
 }
 @media (max-width: 767px) {
   .section--first,

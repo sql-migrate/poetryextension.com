@@ -1,0 +1,47 @@
+---
+layout: post
+title:  "Dani Couture"
+date:   2018-07-17 01:00:00
+categories: interviews
+image:
+  feature: dane.jpg
+  topPosition: -50px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+
+<em>The Poetry Extension’s founder and curator, <a href="http://www.natalyaanderson.com" target="_blank">Natalya Anderson</a>, interviews Dani Couture.</em>
+<br/><br/>
+
+<em>Dani Couture is a Toronto-based poet and novelist. Her poetry has been nominated for the Trillium Award for Poetry and received an honour of distinction from the Writers’ Trust of Canada’s Dayne Ogilvie Prize for Emerging LGBTQ Writers. Dani’s writing has appeared in such publications as </em>The Walrus, The Globe and Mail, The Puritan, The Boston Review, Poetry, and Best Canadian Poems in English.<em> Her latest collection, </em>Listen Before Transmit<em>, was recently published by Wolsak & Wynn.</em>
+
+<strong>Natalya:</strong> Dani, I’m so happy to finally meet you. I’ve been spying on your poetry for a while now. What drew you to poetry, and do you remember how old you were when you started writing poems?
+
+<strong>Dani:</strong> It’s wonderful to virtually meet you! Thank you for reaching out. I started writing fiction before poetry. My family moved and travelled a lot, so books were constant companions. Early on, I knew I wanted to write a novel. When I was in single digits, I read about another kid — roughly the same age — who had written a novel. I naively thought, I can do that. It would take over 20 years until I finished a novel. By comparison, poetry came much later. When I was 15, a teacher introduced my English class to contemporary poetry. I started writing poems — or trying to — then.
+
+<strong>Natalya:</strong> I understand your parents were in the Canadian Forces from the time they were quite young. What was it like growing up in that environment?
+
+<strong>Dani:</strong> Yes, they joined quite young. My mother was so young she required signed permission from her mother to join. My parents met on a base, married, and had me. Growing up on military bases, at least the ones I lived on, was, looking back, a surreal experience.
+
+In theory, one moved and changed cities, schools, houses, friends — everything — when posted, however, the bones of every base are the roughly the same — plus or minus planes, hangars and tarmacs — and often the houses were nearly identical to the ones left behind. Since change was constant, it sometimes felt as if nothing was ever changing at all.
+
+I didn’t come to understand until much later, and even now still consider, how different life on a military base was from civilian life — its unique social constructs and contracts. What stories are told, how they’re told, and by whom. When we transitioned into civilian life when I was 14 or 15, I felt a bit shell-shocked. I had a lot to learn and process. The expectation was that I would eventually join, but for reasons personal to me, I did not.
+
+<strong>Natalya:</strong> Your new book, <em>Listen Before Transmit</em>, seems to deal with movement -- not just how we move geographically, or how we negotiate space as we are forced to live in a world with other humans, but particularly with how our bodies process displacement and emotional displacement. What role do you feel the body has in poetry?
+
+<strong>Dani:</strong> The body is both the tool we use to translate the universe and our experience within that space and how we retain and process the information we’ve gathered. Poetry is a part of that — not compartmentalized somewhere else and accessed as required. It’s one way to interpret the data.
+
+Our lives are extensions of the past and future. When I think of the research that was undertaken to explore and understand the universe, I understand it to be the work of many. Most die before they’ve solved the problem or thought they were considering. I find incredible beauty in the idea of others taking up the work of another and either furthering it or arriving at a new understanding. Much of our knowledge of space came to be in this manner. Each new generation extends, redefines, or redirects a thought.
+
+Our bodies are in a constant state of negotiation with our physical surroundings and that of other bodies. What’s gained or lost in the translation of a word or gesture can be monumental. And every variable that determines whether or not one body encounters another at all keeps me awake at night. The infinite possibilities. For me, the body has everything to do with poetry because it’s out of the body that poetry lifts itself up.
+
+Another aspect that underwrites much of what I write is the knowledge that our bodies are finite. They — we — end. I’m comfortable with the thought and it doesn’t make me write any faster or slower. Mostly, I feel lucky that we exist at all.
+
+<strong>Natalya:</strong> How does writing novels exercise different muscles from writing poetry?
+
+<strong>Dani:</strong> Where once I likely felt and said they were completely different, I’m not sure I believe that anymore. There is an overlap between the two and, for me, one effort feeds the other and vice versa. I need them both to refine a thought in either arena. I guess I need a place to go to understand what the effort is and where it should or could go, if at all.
+
+<strong>Natalya:</strong> Where can we find you this summer if we want to see you read your beautiful work?
+
+<strong>Dani:</strong> <em>Listen Before Transmit</em> is available at a number of great independent bookshops. It’s also available online and directly through Wolsak & Wynn. In June, I was fortunate enough to spend time at the Woodbridge Farm Residency, founded by Grant Munroe, in Kingsville, Ontario. As part of the residency, I wrote an essay about (not) running for Woodbridge Farm Books chapbook series, <em>Writers at Rest</em>. Also, with thanks to editor Canisia Lubrin, I have a new poem in the current issue of the <em>Humber Literary Review</em>.

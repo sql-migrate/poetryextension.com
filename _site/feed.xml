@@ -2,118 +2,138 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
 		<title>The Poetry Extension</title>
-		<description>description</description>
-		<link>sql-migrate.github.io/poetryextension.com</link>
-		<atom:link href="sql-migrate.github.io/poetryextension.com/feed.xml" rel="self" type="application/rss+xml" />
+		<description>The Poetry Extension. Bringing poets and dancers from Canada, the UK, Ireland, and the US together, one face-melting gig at a time.</description>
+		<link>http://localhost:9001</link>
+		<atom:link href="http://localhost:9001/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>&lt;b&gt;The Poetry Extension&lt;/b&gt;. Bringing poets and dancers from Canada, the UK, Ireland, and the US together, one face-melting gig at a time. Our inaugural event is online-only, and FREE. Join us here from 7pm (Toronto Daylight Savings Time) on Thursday March 31st, 2016 for live streaming of the event. We welcome all the megawatt poets below for our launch. &lt;span class=&#39;credit&#39;&gt;(Photo courtesy modernmechanix.com)&lt;/span&gt;</title>
+				<title>Dani Couture</title>
 				
 				
-					<description>Walter Elias Disney was an American entrepreneur, cartoonist, animator, voice actor, and film producer. As a prominent...</description>
+					<description>&lt;p&gt;&lt;em&gt;The Poetry Extension’s founder and curator, &lt;a href=&quot;http://www.natalyaanderson.com&quot; target=&quot;_blank&quot;&gt;Natalya Anderson&lt;/a&gt;, interviews Dani Couture.&lt;/em&gt;
+&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+</description>
 				
-				<pubDate>Mon, 15 Dec 2014 01:00:00 +0000</pubDate>
-				<link>sql-migrate.github.io/poetryextension.com/a-life-of-walt-disney</link>
-				<guid isPermaLink="true">sql-migrate.github.io/poetryextension.com/a-life-of-walt-disney</guid>
+				<pubDate>Tue, 17 Jul 2018 01:00:00 +0000</pubDate>
+				<link>http://localhost:9001/dani</link>
+				<guid isPermaLink="true">http://localhost:9001/dani</guid>
 			</item>
 		
 			<item>
-				<title>&lt;b&gt;Natalya Anderson&lt;/b&gt; is a writer and former ballet dancer from Toronto, Canada. She completed an MA in Creative Writing at Anglia Ruskin University in Cambridge, England, and a Bachelor of Journalism at Ryerson University in Toronto. She won the 2014 Bridport Prize for her poem, &#39;Clear Recent History&#39;, and the poem was also highly commended at the 2015 Forward Prizes. Her poetry has appeared in or is due to appear in &lt;em&gt;Poetry London&lt;/em&gt;, &lt;em&gt;The Moth&lt;/em&gt;, &lt;em&gt;The Emma Press Anthology of the Sea&lt;/em&gt;, &lt;em&gt;The Forward Book of Poetry&lt;/em&gt; 2016, the 2015 &lt;em&gt;Poetry Prize Anthology&lt;/em&gt; by Live Canon, the 2014 &lt;em&gt;Bridport Prize Anthology&lt;/em&gt;, &lt;em&gt;Mint&lt;/em&gt;, &lt;em&gt;And Other Poems&lt;/em&gt;, &lt;em&gt;Poems In Which&lt;/em&gt;, and Rebecca Goss&#39;s &#39;Heart Poem&#39; series. She has worked as a medical writer for specialist physicians and has written features for Canada’s national newspaper, &lt;em&gt;The Globe and Mail&lt;/em&gt;. Natalya founded The Poetry Extension in the hopes that poets and dancers from different countries might open their networks and be more supportive of each other&#39;s projects.</title>
+				<title>Kaddy Benyon</title>
 				
 				
-					<description>Mickey Mouse is a funny animal cartoon character and the official mascot of...</description>
+					<description>&lt;p&gt;&lt;em&gt;The Poetry Extension’s founder and curator, &lt;a href=&quot;http://www.natalyaanderson.com&quot; target=&quot;_blank&quot;&gt;Natalya Anderson&lt;/a&gt;, interviews our ‘Poet of the Month’ for July, Kaddy Benyon.&lt;/em&gt;
+&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+</description>
 				
-				<pubDate>Fri, 28 Nov 2014 01:00:00 +0000</pubDate>
-				<link>sql-migrate.github.io/poetryextension.com/natalya</link>
-				<guid isPermaLink="true">sql-migrate.github.io/poetryextension.com/natalya</guid>
+				<pubDate>Wed, 04 Jul 2018 01:00:00 +0000</pubDate>
+				<link>http://localhost:9001/kaddy</link>
+				<guid isPermaLink="true">http://localhost:9001/kaddy</guid>
 			</item>
 		
 			<item>
-				<title>Join us here from 7pm (Toronto Daylight Savings Time) on Thursday March 31st, 2016 for live streaming of the event.</title>
+				<title>Soraya Peerbaye</title>
 				
 				
-					<description></description>
+					<description>&lt;p&gt;&lt;em&gt;The Poetry Extension’s founder and curator, &lt;a href=&quot;http://www.natalyaanderson.com&quot; target=&quot;_blank&quot;&gt;Natalya Anderson&lt;/a&gt;, interviews our ‘Poet of the Month’ for June, Soraya Peerbaye.&lt;/em&gt;
+&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+</description>
 				
-				<pubDate>Fri, 16 Dec 1983 01:00:00 +0000</pubDate>
-				<link>sql-migrate.github.io/poetryextension.com/television</link>
-				<guid isPermaLink="true">sql-migrate.github.io/poetryextension.com/television</guid>
+				<pubDate>Sat, 16 Jun 2018 01:00:00 +0000</pubDate>
+				<link>http://localhost:9001/soraya</link>
+				<guid isPermaLink="true">http://localhost:9001/soraya</guid>
 			</item>
 		
 			<item>
-				<title>&lt;b&gt;Kaddy Benyon&lt;/b&gt;’s first collection, Milk Fever, won the Crashaw Prize and was published by Salt in 2012. She is currently writing her second collection during a residency at the Scott Polar Research Institute in Cambridge, England. Kaddy is a Granta New Poet and has been highly commended in the Forward Prizes.</title>
+				<title>Canisia Lubrin</title>
 				
 				
-					<description>Mickey first appeared animated in color in Parade of the Award Nominees in 1932, however the film strip was...</description>
+					<description>&lt;p&gt;&lt;em&gt;The Poetry Extension’s founder and curator, &lt;a href=&quot;http://www.natalyaanderson.com&quot; target=&quot;_blank&quot;&gt;Natalya Anderson&lt;/a&gt;, interviews our ‘Poet of the Month’ for May 2018, the bravely-beautiful Canisia Lubrin.&lt;/em&gt;
+&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+</description>
 				
-				<pubDate>Fri, 18 Nov 1932 01:00:00 +0000</pubDate>
-				<link>sql-migrate.github.io/poetryextension.com/kaddy</link>
-				<guid isPermaLink="true">sql-migrate.github.io/poetryextension.com/kaddy</guid>
+				<pubDate>Tue, 15 May 2018 01:00:00 +0000</pubDate>
+				<link>http://localhost:9001/canisia</link>
+				<guid isPermaLink="true">http://localhost:9001/canisia</guid>
 			</item>
 		
 			<item>
-				<title>&lt;b&gt;Emily Berry&lt;/b&gt; is the author of Dear Boy (Faber &amp; Faber, 2013), her debut book of poems which won the Forward Prize for Best First Collection and the Hawthornden Prize. She is a contributor to The Breakfast Bible (Bloomsbury, 2013), and editor of Best British Poetry 2015 (Salt Publishing, 2015).</title>
+				<title>Caroline Bird</title>
 				
 				
-					<description>Mickey first appeared in comics after he had appeared in 15 commercially successful animated shorts and was easily recognized by ...</description>
+					<description>&lt;p&gt;&lt;em&gt;The Poetry Extension’s founder and curator,  &lt;a href=&quot;http://www.natalyaanderson.com&quot; target=&quot;_blank&quot;&gt;Natalya Anderson&lt;/a&gt;, interviews our ‘Poet of the Month’ for April – the frighteningly-talented, ultra-cool, Caroline Bird. &lt;/em&gt;
+&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+</description>
 				
-				<pubDate>Mon, 13 Jan 1930 01:00:00 +0000</pubDate>
-				<link>sql-migrate.github.io/poetryextension.com/emily</link>
-				<guid isPermaLink="true">sql-migrate.github.io/poetryextension.com/emily</guid>
+				<pubDate>Wed, 04 Apr 2018 01:00:00 +0000</pubDate>
+				<link>http://localhost:9001/caroline</link>
+				<guid isPermaLink="true">http://localhost:9001/caroline</guid>
 			</item>
 		
 			<item>
-				<title>&lt;b&gt;Jennifer L. Knox&lt;/b&gt; latest book of poems, Days of Shame and Failure, is available on Bloof Books. Her poems have appeared four times in the Best American Poetry series as well as The New Yorker, American Poetry Review, and McSweeney&#39;s. Jennifer was born in Lancaster, California—home to Frank Zappa, Captain Beefheart, and the Space Shuttle. She currently teaches at Iowa State University.</title>
+				<title>Sophie Collins</title>
 				
 				
-					<description>In Mickey&#39;s early films he was often characterized not as a hero, but as an ineffective young suitor to Minnie Mouse...</description>
+					<description>&lt;p&gt;&lt;em&gt;The Poetry Extension’s founder and curator, &lt;a href=&quot;http://www.natalyaanderson.com&quot; target=&quot;_blank&quot;&gt;Natalya Anderson&lt;/a&gt;, interviews our ‘Poet of the Month’ for March – the precisely-fearless, uncompromisingly-honest, Sophie Collins.&lt;/em&gt;
+&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+</description>
 				
-				<pubDate>Thu, 28 Mar 1929 01:00:00 +0000</pubDate>
-				<link>sql-migrate.github.io/poetryextension.com/jen</link>
-				<guid isPermaLink="true">sql-migrate.github.io/poetryextension.com/jen</guid>
+				<pubDate>Sat, 03 Mar 2018 01:00:00 +0000</pubDate>
+				<link>http://localhost:9001/sophie</link>
+				<guid isPermaLink="true">http://localhost:9001/sophie</guid>
 			</item>
 		
 			<item>
-				<title>&lt;b&gt;Ada Limón&lt;/b&gt; is the author of four books of poetry, Lucky Wreck, This Big Fake World, Sharks in the Rivers, and Bright Dead Things. She received her Master of Fine Arts in Poetry from New York University where she studied with Philip Levine, Sharon Olds, Mark Doty, and Marie Howe among others. Limón has received fellowships from the New York Foundation for the Arts, the Provincetown Fine Arts Work Center, the Kentucky Foundation for Women, and was one of the judges for the 2013 National Book Award in Poetry. </title>
+				<title>Jane Yeh</title>
 				
 				
-					<description>Disney had Ub Iwerks secretly begin animating a new cartoon while still under contract with Universal...</description>
+					<description>&lt;p&gt;&lt;em&gt;The Poetry Extension’s founder and curator, &lt;a href=&quot;http://www.natalyaanderson.com&quot; target=&quot;_blank&quot;&gt;Natalya Anderson&lt;/a&gt;, interviews our ‘Poet of the Month’ for February – the brilliantly-original Jane Yeh.&lt;/em&gt;
+&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+</description>
 				
-				<pubDate>Sat, 17 Nov 1928 01:00:00 +0000</pubDate>
-				<link>sql-migrate.github.io/poetryextension.com/ada</link>
-				<guid isPermaLink="true">sql-migrate.github.io/poetryextension.com/ada</guid>
+				<pubDate>Wed, 14 Feb 2018 01:00:00 +0000</pubDate>
+				<link>http://localhost:9001/jane</link>
+				<guid isPermaLink="true">http://localhost:9001/jane</guid>
 			</item>
 		
 			<item>
-				<title>&lt;b&gt;Rebecca Perry&lt;/b&gt; is the author of Beauty/Beauty from Bloodaxe Books, and a pamphlet, little armoured, published by Seren. She co-edits the online journal Poems in Which and lives in London.</title>
+				<title>Rishi Dastidar</title>
 				
 				
-					<description>Disney had Ub Iwerks secretly begin animating a new cartoon while still under contract with Universal...</description>
+					<description>&lt;p&gt;&lt;em&gt;The Poetry Extension’s founder and curator, &lt;a href=&quot;http://www.natalyaanderson.com&quot; target=&quot;_blank&quot;&gt;Natalya Anderson&lt;/a&gt;, interviews our ‘Poet of the Month’ for January – the intriguingly-nuanced Rishi Dastidar.&lt;/em&gt;
+&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+</description>
 				
-				<pubDate>Fri, 18 Nov 1927 01:00:00 +0000</pubDate>
-				<link>sql-migrate.github.io/poetryextension.com/rebecca</link>
-				<guid isPermaLink="true">sql-migrate.github.io/poetryextension.com/rebecca</guid>
+				<pubDate>Sun, 07 Jan 2018 01:00:00 +0000</pubDate>
+				<link>http://localhost:9001/rishi</link>
+				<guid isPermaLink="true">http://localhost:9001/rishi</guid>
 			</item>
 		
 			<item>
-				<title>&lt;b&gt;Sara Peters&lt;/b&gt; was born in Nova Scotia and was a 2010-2012 Stegner fellow at Stanford. Her first book is 1996.</title>
+				<title>Liz Berry</title>
 				
 				
-					<description>Disney had Ub Iwerks secretly begin animating a new cartoon while still under contract with Universal...</description>
+					<description>&lt;p&gt;&lt;em&gt;The Poetry Extension’s founder and curator, &lt;a href=&quot;http://www.natalyaanderson.com&quot; target=&quot;_blank&quot;&gt;Natalya Anderson&lt;/a&gt;, interviews our Poet of the Month for December – the loving, tender, soulfully-intelligent, Liz Berry. &lt;/em&gt;
+&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+</description>
 				
-				<pubDate>Thu, 18 Nov 1926 01:00:00 +0000</pubDate>
-				<link>sql-migrate.github.io/poetryextension.com/sara</link>
-				<guid isPermaLink="true">sql-migrate.github.io/poetryextension.com/sara</guid>
+				<pubDate>Fri, 01 Dec 2017 01:00:00 +0000</pubDate>
+				<link>http://localhost:9001/lizberry</link>
+				<guid isPermaLink="true">http://localhost:9001/lizberry</guid>
 			</item>
 		
 			<item>
-				<title>&lt;b&gt;Matthew Tierney&lt;/b&gt;’s most recent book is Probably Inevitable (Coach House Books), which won a Trillium Book Award in 2013. He is a former winner of the P.K. Page Founders’ Award and a K.M. Hunter Award. He lives in Toronto with his wife and son.</title>
+				<title>Mona Arshi</title>
 				
 				
-					<description>Disney had Ub Iwerks secretly begin animating a new cartoon while still under contract with Universal...</description>
+					<description>&lt;p&gt;&lt;em&gt;The Poetry Extension’s founder and curator, &lt;a href=&quot;http://www.natalyaanderson.com&quot; target=&quot;_blank&quot;&gt;Natalya Anderson&lt;/a&gt; interviews our Poet of the Month for November – the peacefully-powerful, incisive, steadfast, Mona Arshi.&lt;/em&gt;
+&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+</description>
 				
-				<pubDate>Wed, 18 Nov 1925 01:00:00 +0000</pubDate>
-				<link>sql-migrate.github.io/poetryextension.com/matthew</link>
-				<guid isPermaLink="true">sql-migrate.github.io/poetryextension.com/matthew</guid>
+				<pubDate>Thu, 09 Nov 2017 01:00:00 +0000</pubDate>
+				<link>http://localhost:9001/mona</link>
+				<guid isPermaLink="true">http://localhost:9001/mona</guid>
 			</item>
 		
 	</channel>
