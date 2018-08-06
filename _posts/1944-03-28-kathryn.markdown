@@ -1,0 +1,69 @@
+---
+layout: post
+title:  "Kathryn Maris"
+date:   2018-08-06 01:00:00
+categories: interviews
+image:
+  feature: dane.jpg
+  topPosition: -50px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+
+<em>The Poetry Extension’s founder and curator, <a href="http://www.natalyaanderson.com" target="_blank">Natalya Anderson</a>, interviews our ‘Poet of the Month’ for August, Kathryn Maris.</em>
+<br/><br/>
+
+<em>Kathryn Maris is an American poet based in London, England. Her previous poetry collections include </em>The Book of Jobs<em> (Four Way Books, 2006) and </em>God Loves You<em> (Seren, 2013). Her work has appeared in </em>Swimmers<em>, </em>The Pushcart Prize Anthology<em>, </em>The Best British Poetry<em>, </em>The Forward Book of Poetry<em>, </em>Granta<em>, </em>Poetry<em>, </em>The Poetry Review<em>, </em>The New Statesman<em>, and </em>The Financial Times<em>. Kathryn’s third collection, </em>The House With Only An Attic And A Basement<em>, was published by Penguin UK in May 2018.</em>
+
+<strong>Natalya:</strong> Hello, Kathryn. I’m so glad to hear your voice, finally. You’re in New York today, visiting family, right? We are close to each other, with the same time zone for once!
+
+<strong>Kathryn:</strong> Yes, and I’m happy to hear you too, Natalya. Forgive me if my brain is in vacation mode and I’m not coherent.
+
+<strong>Natalya:</strong> Let’s clear our minds with talk of poetry. Do you remember when you started writing poetry, and what drew you to this form of writing?
+
+<strong>Kathryn:</strong> I wrote little ‘poems’ and ‘stories’ almost as soon as I learned to read and write, sometimes confusing the genres by, say, capitalizing the first letter of each line of a story rather than the first letter of each sentence. I don’t know why I gravitated to poetry and not prose. Probably it was reading Eliot – lots of people say that, don’t they – and relishing the sonic possibilities of poetry. But in recent years I’ve suppressed the music somewhat in favour of hybrid poem-stories like those accidental ones I wrote as a child.
+
+<strong>Natalya:</strong> Are you comfortable talking about when and why you moved from the US to the UK? Has that geographic shift informed your poetry in any way?
+
+<strong>Kathryn:</strong> In my 20s, when I was living in New York City, I married a Dutchman who was offered a job in London. We moved in 1999 and had our first child that year. After our second child was born, I indecisively moved with the children back and forth between the US and the UK, eventually settling back in London. I began to immerse myself in British and Irish poetry, which – at that time – sounded (to me) substantially different to US poetry. But things have changed and there’s now more fluidity and exchange between the two poetic cultures than there has been in – what – probably a century. As for my own work. . . I sometimes refer to my first book, which was published in the US in 2006, as ‘American’, and my second book, <em>God Loves You</em>, as ‘British.’  When I wrote <em>God Loves You</em>, I’d been on a steady diet of contemporary British poetry and I suspect I was trying to please a British audience. I did that Frostian thing, but differently, of foisting a conversational American voice on to blank verse or rhymes. I also experimented with faux-biblical musicality and received forms, particularly sonnets, which were then ‘the kiss of death’ in the US according to a 2007 essay by AE Stallings called ‘Why No One Wants To Be A New Formalist,’ but allowable in the UK. My third book is formally and tonally all over the place, with unpleasant subject matter and an anti-idealising view of parenthood and families. I didn’t write it to please any audience in particular. Most of us probably want to 'belong' – myself included – but it can be liberating not to belong anywhere.
+
+<strong>Natalya:</strong> I understand and embrace that idea of moving around, physically, geographically, and then it moving you around in your writing.
+
+<strong>Kathryn:</strong> Yes! Your husband is from Ireland, right?
+
+<strong>Natalya:</strong> Yes, my husband and I, and our son, as you know, are now based in my hometown, Toronto, but we lived for 10 years in Ireland and the UK, as my husband is from Dublin. I feel like the back and forth happens in one’s mind even if you stay put in one country. Home, whether good or bad, or even just uneventful as a place where you grew up, is still home. It can become a place where you never belonged, but it’s still a memory that might creep into your writing. Now I’m happy to be home, but Ireland and the UK are still here with us, because Neil is from Ireland and I gave birth to our son in England. All three of us sort of wonder where we belong, and, as you said, that can be frightening and freeing at the same time.
+
+<strong>Kathryn:</strong> I don’t know if you felt this in Ireland or the UK, but sometimes I feel catastrophically lonely. I tend to blame it on being an outsider. But a British friend who lives near his parents and siblings in an idyllic English village where he knows everyone pointed out that everyone feels lonely, it’s the human condition.
+
+<strong>Natalya:</strong> You have written about mental health, and about how anxiety has been a part of your life. Can you tell me more about this?
+
+<strong>Kathryn:</strong> I had to hesitate for a moment because I don’t think of myself as writing about mental health, but of course you’re right – I do. There are epigraphs from Freud in at least two of my books; the narrator of the sestina in <em>God Loves You</em> is advised by her partner to take more medication; ‘Transference’ (in <em>The Book of Jobs</em>), suggests, with its title, a therapeutic relationship; it’s hinted that the speaker-mother in ‘Goddess’ has been in a psychiatric hospital; and in <em>The House with Only An Attic and A Basement</em>, the woman in the attic has panic attacks, while the Iphigenia character in the ‘House of Atreus’ self-harms, Clytemnestra is a hypochondriac and Agamemnon is a narcissist. Yes indeed: anxiety has been a part of my life for a long time, and my poems probably show it. The typesetter for my first book wanted to use a glyph in the shape of an ambulance, but I rejected that idea, though I see the humour now.
+
+<strong>Natalya:</strong> Hmm… I’m not sure if I’d see the humour myself. Although, I do find anxiety hilarious at times, just in the way it has this pattern that is so obvious in the way it attacks the mind and the body, and yet we act so shocked and surprise when a cycle of panic hits yet again. I find that severe anxiety seems to manifest itself entirely physically in me. It has often stricken my whole body down to the ground. Does this happen to you?
+
+<strong>Kathryn:</strong> I’m so sorry you’ve had that experience. I associate that extreme physical anxiety with panic attacks. Do you suffer from panic attacks? I had them in my 20s, but rarely now. Nowadays my anxiety takes sneakier forms and my body and mind seem to collude in such a way that I might (for example) believe I’m dying while being absolutely certain that anxiety is not the culprit. Sometimes I think it’s preferable for anxiety to be full-frontal.
+
+<strong>Natalya:</strong> And I’m sorry that this happens to you, too! Yes, I suffer from panic attacks, to the point of indescribable life-shutdown. Only in the middle of the night, as I suppose with me I stifle the attacks to try to hide them from my little boy, but they show physically in me through a history of anorexia.
+
+<strong>Kathryn:</strong> That sounds so difficult. You and I have spoken about this briefly before and you have talked about the link between anorexia and emetophobia, how you sometimes fear that food will ‘mix around' inside of you in a sickening way.
+
+<strong>Natalya:</strong> Yes. I feel that illnesses like anorexia are not about ‘wanting to be skinny’, although the being thin is a sign that one is getting the control aspect of anorexia ‘correct’. Eating disorders and anxiety disorders, I feel, are physical transformations rooted entirely in abandonment and/or trauma. The fear of something sloshing in my stomach is rooted in my feeling sick and being sick when I was being traumatized as a child. So, the goal has always been to avoid any full or sloshy feeling in my stomach. As an adult I have – to some degree – been able to get a grip and get married, be pregnant, give birth to my son, and so on. However, the anorexia is always in my back pocket, and anxiety comes out in my body, in my poems. How does the panic affect your poetry?
+
+<strong>Kathryn:</strong> I don’t feel my poetry comes out of my body because I tend to separate my body from my mind, though I know it’s a false separation. My poem ‘The House with Only an Attic and a Basement’ is very much about that dichotomy. But to follow on from your remarks about anorexia and emetophobia: I don’t exactly have an eating disorder, but I do have a mild preoccupation around 'poisoning'; and sometimes I also have difficulty swallowing, which turns out to be psychological in my case. And while I don't have emetophobia, I do – recently – have a fear of vomiting blood with no established medical reason for such a concern. Given that ugly things have come out of my unconscious via my writing, I suspect that my writing is inextricably linked to worries about what is going into me – or what has gone into me – and what terrible thing might come out.
+
+<strong>Natalya:</strong> I love, ‘The House with Only an Attic and a Basement’, and I love the idea of separating the mind and the body. I wonder if our anxiety becomes a physical shutdown of sorts because we know that we have to separate our bodies from our minds in order to survive. We compartmentalize. We know that the body, yoked to the mind, will be our undoing.
+
+<strong>Kathryn:</strong> Well, my poems are often about interpersonal conflicts but I think those conflicts are actually internal. One aspect of the self can ‘gaslight’ another aspect of the self, just as men can gaslight women (or vice versa) or women can gaslight other women (like mothers and daughters, as you pointed out in one of our conversations). I think these conflicts within our ‘self’ can be our undoing.
+
+<strong>Natalya:</strong> Some of your poems that are my favourites (‘The X Man’, ‘Transference’, ‘The adulteress’, the list goes on, and on) seem, to me, to be about strong women, yes, but also about a sort of resolve by women to live in a man's universe. Maybe resolve is a terrible word, because it suggests acceptance, or something weak, but can you tell me what you feel the woman are doing in your poems?
+
+<strong>Kathryn:</strong> I think I know what you mean, but it’s less a resolve to live in a man’s world than my being interested in temporal and generational cycles, and dramatic irony. And while many of my poems are made from anger, they also try to resist victimhood, which perhaps comes across as a resolve to live in a man’s world. Maybe those are two ways of saying the same thing.
+
+<strong>Natalya:</strong> I have this theory that poets are like athletes – they compete at a world class level not because they love the rejection or the editing or the self-flogging over the decades of work, but because they need the sport in order to live. I feel like poets who are consistently published are constantly writing because they need it to wake up every day. And it’s related to an anxiousness or a trauma that they feel they can never quite undo or work through. So, they channel it into an endless ramble or reworking of sorts.
+
+<strong>Kathryn:</strong> Certainly during low times in my life writing has been a source of relief, but there are also periods when writing has felt impossible or unappealing. I’m not sure how consistently therapeutic writing has been for me, but sometimes it has felt life-saving, as I know it has for you.
+
+<strong>Natalya:</strong> Tell me about Poetry & PsA and how you came to be involved in that.
+
+<strong>Kathryn:</strong> One of my PhD supervisors at Goldsmiths is a psychoanalyst and writer called Josh Cohen. Josh put me in touch with Susanne Lansman (a psychoanalyst and poet) and Catherine Humble (literary critic and academic) who both had connections to the Institute of Psychoanalysis in London. We put our heads together and created our Poetry & Psychoanalysis conference, which in 2017 explored ‘creative borders and boundaries’ and this year focused on ‘shame’. We hope the conference will be an annual event, and the theme we favour for next year is ‘anxiety.’
