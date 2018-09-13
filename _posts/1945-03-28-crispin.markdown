@@ -1,0 +1,53 @@
+---
+layout: post
+title:  "Crispin Best"
+date:   2018-09-13 01:00:00
+categories: interviews
+image:
+  feature: dane.jpg
+  topPosition: -50px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+
+<em>The Poetry Extension’s founder and curator, <a href="http://www.natalyaanderson.com" target="_blank">Natalya Anderson</a>, interviews our ‘Poet of the Month’ for September, Crispin Best.</em>
+<br/><br/>
+
+<em>Crispin Best is a writer based in London, England. His poetry has appeared in </em>The Best British Poetry 2015<em> (Salt), </em>The Quietus<em>, </em>Dazed & Confused<em>, </em>Poems in Which<em>, and </em>clinic<em>. He edits </em>For Every Year<em>, an online project aiming to collect a piece of art or writing in honour of every year since 1400. Crispin has also read his work at events throughout the US, Europe, and Australia.</em>
+
+<strong>Natalya:</strong> Hello, is this Crispin?
+
+<strong>Crispin:</strong> Hello, is this Natalya?
+
+<strong>Natalya:</strong> Yes! I am happy to talk to you. Usually I just see photos you post online of bean-dishes, ugly pizzas, and disturbing signs from the 90s.
+
+<strong>Crispin:</strong> You’ve seen my soul. Thank you.
+
+<strong>Natalya:</strong> Let’s talk of poetry. I understand you were at art school and sort of not interested in poetry for a while. What were you doing at art school and what were you interested in there?
+
+<strong>Crispin:</strong> I wasn't so much uninterested during my BA as actively anti-poetry. To be honest, I was a crusader for the lowest of the low: the short story. I loved Carter, Calvino, Borges, and Eggers. I was having a truly very bad time during that period. In fact, until recently, I would've considered them the three worst years of my life. My interests at that point were basically just listening to grime, playing Championship Manager for 12 hours a day, and re-watching that one episode of <em>Futurama</em>, 'Jurassic Bark', about the relationship between Fry and his dog.
+
+<strong>Natalya:</strong> That sounds pretty productive compared to my time in my undergraduate studies, during which I worked part time at Hooters and downed double rye and gingers at Toronto’s seediest night clubs. Tell me about meeting/knowing the poet Rebecca Perry (holy shit I love her so much, and I still turn to her <em>Beauty/Beauty</em> when I'm stuck in a rut with my own writing), and how she influenced your becoming a poet.
+
+<strong>Crispin:</strong> After the BA I moved to Cambridge and worked in a bookshop for a bit, moved to Japan for a year, and then came back and worked in a bookshop again, in London. After a year, I applied to do a Creative Writing MA at Manchester, thinking I had no chance (Martin Amis had just taken over as professor of some bollocks or other, so they were announcing having record numbers of applications) but I managed to get accepted. That's where I met Becky. She was on the poetry side of the course and I was on the prose side so we didn’t really have classes together, but I would see her at events and before long we became really close. At that point, I was kind of unbearable in how much I fancied Donald Barthelme, and would awkwardly tease Becky about poetry being unable to do anything that couldn't be done more effectively prose. There was a sort of balls-out, goofy iconoclasm with Barthelme that I just hadn’t even seen in poetry. But, also, it's true that that year was my first real exposure to poetry, at the various readings that were put on by the school and by things Becky showed me, and I started to get a more rounded sense of what was possible. Eventually, thank god, I realised that prose is bullshit. A really embarrassing racket for everyone involved. And here’s a thing: the first two real poems I ever wrote were love poems for Becky, one about her applying eye drops while a cassowary watched, and one about… actually I’m not sure but I remember it ended with the line “your fringe damp / or else whalesong / notated on a manuscript”, I think. Stirring stuff! Wow!
+
+<strong>Natalya:</strong> I’d like to read those poems. How did you go from having Rebecca as an influence to becoming a Faber New Poet in 2016?
+
+<strong>Crispin:</strong> The MA finished in 2008, so it was kind of a slow road until 2015 when Faber announced the FNP thing. I had moved back to London, and I got an office job to stay alive in various ways, writing bits and pieces whenever I could, though I didn't really start writing poetry until 2012-ish. By that point people had finally figured out how to use the internet more effectively to publish and, let's face it, self-promote. Poetry seemed an easier way to communicate the kinds of things that were making sense to me at that point, and it was just fun. In hindsight, the internet did finally seem to give poetry the reach, playfulness and directness that it felt (to my tiny mind) like it had been missing. Mostly, the internet seemed to make it easier for people to support each other. So, I wrote a lot. I wrote, and read, and performed, and published a lot, and I got a lot of help. I met so many people who were encouraging and who helped me be healthy and optimistic and by 2014 I had a handful of publishing credits and something that resembled a manuscript. I sent some of the pieces off to Faber, and then, a year later, I got a phone call that I was one of the next batch of new poets on the scheme. I don't know what “quel dommage” means but: quel dommage!
+
+<strong>Natalya:</strong> As a French Canadian, I suggest you google “quel dommage” and reassess how you wish to apply it. How did your experience with Faber change your life as a writer?
+
+Crispin: The Faber relationship opened up some opportunities, like events overseas, that would no way have been offered to me otherwise. And the fact that Björk read and enjoyed my pamphlet is... extremely funny. The reviews were nice too, like the one that said that that reading my poetry caused the reviewer physical pain, or the one that said I should never travel to the north of England or I might be killed. Yes please! The main thing that changed, though, was a growing feeling that I had taken up enough of people's time. Does that make sense? It has made me want to fill up less space, to the extent that the act of being published or doing a reading can make me feel like I’m on the wrong side of history. Yikes. But yeah, and all of this is amidst scandals and outrages inside and around literary communities which have gone from disheartening to heartbreaking. I don't know. I struggle to think - let alone talk - about it coherently. As you can see.
+
+<strong>Natalya:</strong> Björk seems like a cool person. Since that time "touring" as a rock star poet with Faber, you've spoken to me about a down time in your writing. You and I have shared a few stories about having dark times, where you feel like you’re in a tunnel... or the Lonesome No-Poems Times... Can you tell me how that's hit you since your pamphlet with Faber?
+
+<strong>Crispin:</strong> Hell yeah the last few years have been lonely as heck. I don’t know how much of that is down to anything to do with writing, but part of the issue might be that – in terms of writing – I’m most easily either drawn to quiet, embarrassing love poems, or obnoxious goofy enterprises that aim to undermine the whole pretence of capital-P Poetry. And a big problem is that it’s now clear that for a lot of people poetry is something way different – and much more vital – than the dusty rubbish I was exposed to growing up, which always seemed useless and crying out for a wedgie and a kick in the dick. Also, I just feel a responsibility to shut the fuck up most of the time. And, you know, just... life is always there. Soul-crushing, shit-eating life and death. What is there to be romantic about? Say it again: Hell yeah!
+
+<strong>Natalya:</strong> I hear you, man. Tell me about <em>For Every Year</em>. Why did you create that, and what has it meant to you? How has it evolved and how will it go on?
+
+<strong>Crispin:</strong> <em>For Every Year</em> started in 2008, so this summer was the tenth anniversary. The project runs chronologically and is about to reach the twentieth century, having started with a piece I wrote for the year 1400. It has been non-stop since then, and now it has featured well over 500 pieces, from writers and artists all over the world. I decided a little while ago that it felt right to have a pause after 1899. And then last week, hilariously enough, I got an email warning me that - after Brexit - I can no longer own an EU web domain. I’m going to have to change the URL and possibly rebuild the entire site anyway, so I’m thinking about what to do. It really hadn’t ever occurred to me that it would go on and last this long. We'll see. It's been fun whatever happens next. OK - I just googled “quel dommage” and it doesn't mean what I thought it did. Quel dommage!
+
+<strong>Natalya:</strong> J’agree. But it seems like a really major dommage to let Brexit shit all over yet another progressive, interesting thing like <em>For Every Year</em>. I hope you keep it going. Combining your feelings about "discovering" a desire to write poetry through Rebecca, the Faber experience, <em>For Every Year</em>, and your own ebb and flow with writing and the shit show that is life in general, what do you want to do next with your writing?
+
+<strong>Crispin:</strong> That's the question. I’m hoping it's not the end, though. It would be nice if it wasn’t the end.
