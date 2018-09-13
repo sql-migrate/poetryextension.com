@@ -1,0 +1,37 @@
+---
+layout: question_and_answer
+title:  "Alex MacDonald"
+date:   2018-08-06 01:00:00
+categories: interviews
+image:
+  feature: dane.jpg
+  topPosition: -50px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+
+<em>The Poetry Extension’s founder and curator, <a href="http://www.natalyaanderson.com" target="_blank">Natalya Anderson</a>, conducts a Q&A with the poet, Alex MacDonald.</em>
+<br/><br/>
+
+<em>Alex MacDonald lives and works in London. He received an Eric Gregory Award from the Society of Authors in 2016. His work has been published in the </em>Best British Poetry 2015<em>, </em>Poetry London<em>, and the </em>Rialto<em>. He was an editor for the online magazine </em>Poems in Which<em> and has been a tutor for The Poetry School.</em>
+
+<strong>When did you begin writing poetry?</strong>
+
+I wrote my first poem when I was 14, after an unplanned and life-changing thing happened to someone I knew. It helped me order my feelings, and that’s ended up being a familiar reflex and reason why I continue to write. I didn’t start writing poems consistently until I was at university, spending a lot of time reading Lydia Davis and Sylvia Plath. It was only when I was 22, when I wrote on the bus to work and every Saturday afternoon that I started writing poems I was happy for others to read.
+
+<strong>What drew you to poetry as a genre?</strong>
+
+I didn’t really read a book of poems until I was about 16, when I came across a copy of Plath’s ‘Ariel’. Before that I mostly got excited about music, especially small gestures, songs shorter than a minute, or one idea extended over half an hour. Poetry, too, was concise and expressive, but it felt like a distillation of what every teenager feels, less abstract but not precise, either. Good poetry makes me forget everything about myself, it can be the most generous gesture, and reading the most empathetic.
+
+<strong>How did you come to find Offord Road Books, and why has that been a good match for your pamphlet?</strong>
+
+I have known Martha (Sprackland, ORB editor) for a number of years. She’s a great poet and one of the most supportive people of my work I’ve ever known. It means so much for someone you respect to edit you, to help you make your point better. They continue to publish important work, Helen Charman’s support, support and AK Blakemore’s Fondue, especially.
+
+<strong>In your beautiful pamphlet, Knowing This Has Changed My Ending, you seem to bring a kind of peace to a somehow ‘shouty’, chaotic world. Why was this important to you in your writing?</strong>
+
+Most of the newer poems in the pamphlet were written while I was living alone and coming to terms with a time in my late 20s where I was suicidal and shut off from people. I was living opposite a park, the sun rose in my bedroom and set in the kitchen, people walked their dogs through the park, they talked about their days. While the UK became more nationalistic, hateful, violent, everyone was finding a space for their lives in a public place. That peace helped me a lot. Most of the poems are a sort of spirit meter, where I try to reconcile the shape and balance of what has happened and how I feel.
+
+<strong>There must be much more brewing underneath this pamphlet, Alex. Are you working towards more poems about quiet chaos in a collection next?<strong>
+
+There are probably another thirty poems I would be happy to sit alongside most of the pamphlet poems. Some of these are quite playful: poems that are inspired by a random series of emojis or more Instagram cat translations. But I have been inspired recently by Will Harris’s longer poems and would like to write longer pieces. I have one longer poem about what I thought about while swimming. I already have some titles in place: ‘Spider and I’ (after the Brian Eno song), ‘King of Snake’ and ‘Here Comes Everyone’.
