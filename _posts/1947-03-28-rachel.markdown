@@ -1,0 +1,65 @@
+---
+layout: question_and_answer
+title:  "Rachel Long"
+date:   2018-09-13 01:00:00
+categories: interviews
+image:
+  feature: dane.jpg
+  topPosition: -50px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+
+<em>The Poetry Extension’s founder and curator, <a href="http://www.natalyaanderson.com" target="_blank">Natalya Anderson</a>, conducts a Q&A with the poet, Rachel Long.</em>
+<br/><br/>
+
+<em>Rachel Long is a poet and leader of Octavia – Poetry Collective for Women of Colour, which is housed at Southbank Centre, London. She was shortlisted for Young Poet Laureate for London in 2014, and awarded a Jerwood/Arvon Foundation mentorship in 2015. She is Assistant Tutor on the Barbican Young Poets programme 2015-present.</em>
+
+<strong>When did you begin writing poetry?</strong>
+
+I always wrote stories. I loved writing stories about girls in World War II. I’m not sure why. I’d fill up notebooks, glue them all together, then throw them out of my bedroom window. It was a really dangerous window, if you opened it wide enough it spun all the way round. I could’ve gone with the stories. Maybe I liked the idea of that... I don’t think I started writing poems until 6th form. I saw a poetry competition advertised, I thought, well I’m good at writing stories so let me try my hand this. The poem I wrote was selected for a publication in an anthology. That gave me a boost.
+
+I went onto do Creative Writing at university, and wrote lots of sentimental poems about heartbreak, stars and scars mostly. It was always night-time.
+
+It wasn’t until post-uni that I became dedicated to the reading and study of poetry – until l I knew was it felt like to fall in love with a poet.
+
+Two courses were paramount to me being a poet now:
+
+Apples & Snakes’ ‘The Writing Room’ for young poets. The first workshop was with Jean ‘Binta’ Breeze. There was no real distinction between a sentence of her speech and when she’d ‘fallen into’ a poem. This was the first time I really understood that the most powerful way one can write is in their own voice.
+
+A ‘Starting to Write’ Arvon residential course with Kei Miller & Claire Pollard. I learnt more on that course about writing than I’d learnt throughout academia. I am eternally grateful for both things.
+
+<strong>What drew you to poetry as a genre?</strong>
+
+It can hold so much. In such a tiny amount of space. I love its brevity, and distillation. I feel that poetry is most true to feeling – all its shades and contradictions. The way it’s ever-morphing.  I feel it’s a spiritual practice. Making something from nothing is an act of faith. Even the language we often use to discuss poems as ‘coming to us’, (and where they might ‘come from’), how they ‘escape us’, how they are sometimes a little ‘ahead of us’, or how we’re ‘catching up’ with them. I was having a discussion last night about how poems can be prophetic - being projections into/onto the future…
+
+<strong>Why did you found Octavia?</strong>
+
+I founded Octavia in response to the lack of inclusivity and representation in literature and academia. Disappointment, frustration. To provide a sanctuary for myself and others who might need one. So that we could read, write, respite together.
+
+<strong>How has it felt having the collective based at Southbank Centre in London?</strong>
+
+I think it’s important that a collective of womxn of colour can call a landmark arts-space such as the Southbank Centre their poetic home. Here, we’re at the heart of a literary space and cultural centre. We have privacy, autonomy over our meetings, but we also have a visibility in Southbank’s festival programme and as a result, a traction in the wider literary scene.
+
+In this, we’ve had the chance to rewrite existing narratives with the collective voice of womxn of colour – for instance, we’ve written and performed responses to Atwood’s Handmaid’s Tale at The London Literature Festival, and Women of the World Festival.
+
+<strong>Are there some new poets of colour you’ve recently discovered and would recommend?</strong>
+
+I wouldn’t say these are new poets of colour, but these are some poets I’ve read recently and would highly recommend:
+
+Safia Elhillo’s <em>The January Children</em>
+
+Audre Lorde’s  <em>Your Silence Will Not Protect You</em>
+
+Natalie Diaz’s <em>When My Brother Was An Aztec</em>
+
+Patricia Smith’s <em>Incendiary Art</em>
+
+Terrance Hayes’ <em>American Sonnets for My Past and Future Assassin</em>
+
+Tiphanie Yanique’s <em>Wife</em>
+
+<strong>What’s next?</strong>
+
+To finish the bloody collection.
