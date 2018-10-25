@@ -11,7 +11,7 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
-<em>The Poetry Extension’s founder and curator, <a href="http://www.natalyaanderson.com" target="_blank">Natalya Anderson</a>, conducts a Q&A with the poet and spoken word artist, Dwayne Morgan.</em>
+<em>The Poetry Extension’s founder and curator, <a href="http://www.natalyaanderson.com" target="_blank">Natalya Anderson</a>, conducts a Q&A with the poet and spoken word artist, <a href="http://www.dwaynemorgan.ca" target="_blank"> Dwayne Morgan</a>.</em>
 <br/><br/>
 
 <em>Dwayne Morgan is a poet and spoken word artist from Scarborough, Ontario. He is the 2018 winner of the Sheri-D Wilson Golden Beret Award for Lifetime Achievement in the Spoken Word, and is the recipient of both the African Canadian Achievement Award and the Harry Jerome Award for Excellence in the Arts. Dwayne is the winner of three Canadian Urban Music Awards (2001, 2003, 2005). In 2005, he was recognized as Poet of Honour at the Canadian Festival of Spoken Word in Vancouver, and in 2008 his contribution to the Arts and Canadian society were recognized on the Legacy Black History Month poster. Dwayne has published ten books, most recently </em>No Apologies<em> (2016), and </em>Before I Was Born<em> (2015). Dwayne has shared the stage with many of Canada’s top artists including Russell Peters, Kardinal Offishal, Jully Black, and Nelly Furtado, and has recorded with Drake. In 2013, Morgan was inducted in to the Scarborough Walk of Fame.</em>
