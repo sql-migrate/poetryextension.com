@@ -1,0 +1,49 @@
+---
+layout: question_and_answer
+title:  "Sarah Kabamba"
+date:   2018-10-29 01:00:00
+categories: interviews
+image:
+  feature: dane.jpg
+  topPosition: -50px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+
+<em>The Poetry Extension’s founder and curator, <a href="http://www.natalyaanderson.com" target="_blank">Natalya Anderson</a>, conducts a Q&A with the poet <a href="https://skabamba.wordpress.com/" target="_blank">Sarah Kabamba</a>.</em>
+<br/><br/>
+
+<em>Sarah Kabamba is a writer based in Ottawa. She won </em>Room<em>’s 2017 Emerging Writer Award and was shortlisted for the 2017 CBC Poetry Prize. She is currently working on her first collection of poetry.</em>
+
+<strong>When did you begin writing poetry?</strong>
+
+I can’t honestly remember exactly when I started writing, but I think it largely stemmed from my love of reading. When my siblings and I were younger, my father would take us to the library almost every weekend, and I basically read anything I could get my hands on. I loved how good writing, whether it was nonfiction, fiction, or poetry, allowed you to get lost or made you feel. I think I was in second grade when I started filling notebooks with my own short stories, and (bad) illustrations, and soon after I began trying my hand at poetry. This is something that I don’t often talk about, but when I was younger I stuttered on and off. I was really sensitive about it, and probably more aware of it than my family and friends, but when it got especially bad, I would turn to writing, and I found poetry as an outlet for my emotions.
+
+<strong>What drew you to poetry as a genre?</strong>
+
+I like poetry because I’m able to express ideas, emotions, etc., in a more open free form. I like that you can convey significant meaning without having to over explain. Though poetry/poems can have an intended message, interpretation can also be left up to the reader, which I love. And while each genre has its differences, but I think what lies at the heart of all of them is storytelling and this is what draws me. In that sense, I don’t think what genre a work is truly matters. I’m really interested in what happens when the line between genres are blurred as that can create some of the most beautiful works. One my favourite writers is Michael Ondaatje, and I find a lot of his work does that. What I love about Ondaatje is that I get so lost in the story and the beauty of the writing that its like I don’t even realize that I’m reading. I remember after I finished reading the English Patient, it was like coming out of a trance. Basically, no matter what genre, that feeling is what draws me, and what I would like my own writing to do.
+
+<strong>I am taken aback time and time again by your beautiful poem, ‘Carry’, which was shortlisted for the 2017 CBC Poetry Prize. Tell us about how your family history informs your poetry.</strong>
+
+Thank you so much!
+
+Growing up, my parents would always tell my siblings and I stories about their lives back in Congo, their parents, childhood, lessons, and stories that I loved listening to them and imagining everything they told me. There was something about words, and stories that just called out to me. My parents encouraged me to read, and also always encouraged me to express myself. In my work today, I often find, bits of stories, phrases, words etc. that I got from my parents. I fell in love with words, and the idea of storytelling at a very young age, and it was an integral part of my culture growing up. I found that through storytelling and writing, I learned not only about myself, but about history, the past, and even the present.
+
+There’s an African proverb that says, “When an elder dies a library burns to the ground”. So, for me storytelling or writing is a way to pass on knowledge, stories, and histories, and ensure that certain things are not lost. It’s this idea of people as living libraries, and the importance of narratives being shared.
+
+In regard to “Carry”, my parents often times say things that I find to be profound or striking without realizing. They’ll say things in passing, not thinking about it, but I will take that and sometimes think about it for days. I started writing “Carry”, we had family/friends over, and I was in the kitchen listening to them as they talked. In that moment, I just felt this sense of peace and belonging, and that’s what I wanted to capture.
+
+<strong>How has your writing grown since you won the 2017 Emerging Writer Award?</strong>
+
+I like to think that I’m always changing, learning, and growing, and that extends to my writing. I think I’ve grown more honest in my writing, and more willing to speak about issues or emotions that I may have shied away from in the past. I also think that I’ve become a bit more critical of myself/my work (which could be good or bad), but I’ve also realized that even in writing I have to let some things go because perfection doesn’t really exist, and that shouldn’t necessarily be the goal.
+
+<strong>Who are the writers you are most inspired by?</strong>
+
+That’s hard, there are so many! But to list a few – Warsan Shire, Emi Mahmoud, Aja Monet, Ocean Vuong, Yrsa Daley-Ward, Chimamanda Ngozi Adichie, Michael Ondaatje, Dionne Brand, and Claudia Rankine.
+
+<strong>What’s next for you in the areas of poetry, spoken word and fiction?</strong>
+
+I have few things coming out in the next while – a short fiction piece with PRISM International, poetry in an anthology with Quattro Books, and a couple of readings.
+
+I am also currently working on a collection of poetry, and I eventually want to write a book in the fiction genre. I’m also very passionate about education, and I would love to help bring in more programs/workshops into schools that focus on ways of creative learning and allowing children/students to express themselves honestly.
