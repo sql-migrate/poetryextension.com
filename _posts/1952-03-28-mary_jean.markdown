@@ -1,0 +1,43 @@
+---
+layout: question_and_answer
+title:  "Mary Jean Chan"
+date:   2018-11-02 01:00:00
+categories: interviews
+image:
+  feature: dane.jpg
+  topPosition: -50px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+
+<em>The Poetry Extension’s founder and curator, <a href="http://www.natalyaanderson.com" target="_blank">Natalya Anderson</a>, conducts a mini Q&A with the poet, <a href="http://www.maryjeanchan.com/" target="_blank">Mary Jean Chan</a>.</em>
+
+<br/><br/>
+
+<em>Mary Jean Chan is a poet based in the UK. Her poems have been published in </em>The Poetry Review<em>, </em>Poetry London<em>, </em>PN Review<em>, </em>The White Review<em>, </em>Ambit<em> and </em>English: Journal of the English Association<em>. Her essays have appeared in </em>Wild Court<em>, </em>Callaloo<em>, and </em>Modern Poetry in Translation<em>. She won the 2017 Anne Born Prize, the 2017 Psychoanalysis and Poetry Competition, the 2016 Oxford Brookes International Poetry Competition (ESL), and came Second in the 2017 National Poetry Competition. In 2017, Mary Jean was shortlisted for the Forward Prize for Best Single Poem. She is an editor of </em>Oxford Poetry<em>, a member of the international research group RAPAPUK and an advisory board member at the Poetry Translation Centre. Born and raised in Hong Kong, Mary Jean lives in London and works as a Lecturer in Creative Writing (Poetry) at Oxford Brookes University. Her debut collection is forthcoming from Faber & Faber (2019).</em>
+
+
+<strong>When did you begin writing poetry?</strong>
+
+I began writing poetry at Swarthmore College, when I enrolled in a beginners’ poetry workshop during my sophomore year. The workshop was by application only (I was eventually taken off the waiting list as someone who had been accepted decided to drop out!) That was the first time I had ever shared my work with others, and it gave me the courage to keep exploring the genre further. Then it wasn’t until senior year – when I was picked (again somewhat serendipitously) for the college poetry slam team – that I wrote more, and found myself enrolling in a summer workshop for poets of color upon graduation in 2012. The workshop leader was Patricia Smith, and the week I spent at VONA under her tutelage literally changed my life. The day before my 21st birthday, I left VONA with fragments of a poem titled “Birthday”, flew home to Hong Kong, and came out to my parents.
+
+
+<strong>What drew you to the genre?</strong>
+
+I've always loved poetry, even when the work I was reading didn’t speak immediately to my own experiences as a Hong Kong-Chinese person who was studying English Literature as a second language. I did feel a certain discomfort reading and learning about the fields of England when none of that was part of the landscape I’d grown up in, which featured majestic mountains and seasonal typhoons. In the words of Kamau Braithwaite, “the hurricane does not roar in pentameter”: a line which sums up the problematics inherent in the imposition of a colonial literature onto Hong Kong, to the extent that many students were (implicitly) taught that Chinese literature was of less importance than its English counterpart. However, I loved the cadences in Shakespeare’s sonnets, was haunted by the vivid images in Ted Hughes’ “Pike”, and felt the profound grief of Alfred Tennyson in his extended elegy “In Memoriam”. Though I found these poems to be difficult when I first encountered them during my teenage years, I often felt moved to repeat them aloud, at times committing certain lines to memory. Later on, when I read the revolutionary works of Adrienne Rich, Audre Lorde and Langston Hughes during my undergraduate studies in the US, I knew that poetry was the genre I would dedicate myself to in the years to come.
+
+
+<strong>What do you like best about creating and working in the UK literary world, and what would you like to see change or evolve?</strong>
+
+One of the best things about working in the UK literary world is certainly one’s proximity to some of our world’s best contemporary poets. The fact that you can stroll into a bookshop, arts venue or university space and hear the work of canonical as well as emerging poets is such a privilege, and one that I am deeply grateful for. Not to mention the fact that so many international poets pass through the UK as part of their reading tours, so one gets to meet poets from all corners of the globe, which is such a treat. Also, the presence of the National Poetry Library at the Southbank Centre and specialist bookshops such as the LRB and Gay’s the Word make me feel seen and supported as a poet. As for what kind of change I’d like to see, I think many positive changes are already taking place, thanks to national programmes such as the Complete Works, the Ledbury Emerging Poetry Critics, and more recently, the inaugural Women Poets’ Prize. At a recent conference organized by the international research group RAPAPUK held at Queen’s College, Cambridge, I was particularly inspired by a group of young poets and critics who not only commented cogently on the state of poetry and race in Scotland, but also unveiled their exciting plans to bring this urgent conversation to Scotland, with their next event to be held at the Scottish Poetry Library later this month.
+
+
+<strong>What are some recent books that you’d like to share with our readers?</strong>
+
+Some recent favorites include Terrance Hayes’ <em>American Sonnet for My Past and Future Assassin</em>, Jenny Xie’s <em>Eye Level</em>, Will Harris’ <em>Mixed-Race Superman</em>, Richard Scott’s <em>Soho</em> and Liz Berry’s <em>The Republic of Motherhood</em>. I’m also really looking forward to Jay Bernard’s <em>Surge</em>, as well as Ilya Kaminsky’s <em>Deaf Republic</em> (both forthcoming in 2019).
+
+
+<strong>What’s next for you and your work?</strong>
+
+I suppose there’s always the inevitable lull in generating new work, and I’m going through one of those phases. At the moment, I’m focusing my energies on teaching at Oxford Brookes, and on finishing my debut collection, which is due from Faber in July 2019.
