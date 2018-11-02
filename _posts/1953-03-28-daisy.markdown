@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "Daisy Lafarge"
+date:   2018-11-02 01:00:00
+categories: interviews
+image:
+  feature: dane.jpg
+  topPosition: -50px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+
+<em>The Poetry Extension’s founder and curator, <a href="http://www.natalyaanderson.com" target="_blank">Natalya Anderson</a>, interviews our ‘Poet of the Month’ for November, <a href="https://daisy-lafarge.net/" target="_blank">Daisy Lafarge</a>.</em>
+<br/><br/>
+
+<em>Daisy Lafarge works across poetry, fiction, criticism, theory and visual art. In 2017 she received an Eric Gregory Award from the Society of Authors, and her poetry pamphlet, </em>understudies for air<em>, was published by Sad Press. She is an editor at MAP (a commissioning and publishing project for artist-led production) and writes and teaches at the University of Glasgow. Daisy was recently runner-up in the 2018 Edwin Morgan Poetry Award.</em>
+
+<strong>Natalya:</strong> Hello, Daisy. Are you there? How are you?
+
+<strong>Daisy:</strong> Hello, Natalya. I’m here. I’m a bit tired! How are you?
+
+<strong>Natalya:</strong> It’s early in the morning here in Toronto, so we can feel shattered together. Let’s talk about poetry to wake us up a bit. Speaking of finding your footing, I’ve noticed you are always travelling, treading new earth, taking photos of crazy plants and sharing them on Instagram. What is this wild, magical adventure you’re on with your PhD?
+
+<strong>Daisy:</strong> Maybe social media that makes it look that way! Rest assured there is a lot of monotonous dross and quotidian angst lurking between the curated content. As for the PhD, I’ve been to Tanzania three times in the past two years, where I’m connected to several projects researching zoonoses – diseases that pass between animals and humans. It’s taken a couple of years to get my head round a lot of it (I don’t have a science background) and figure out how everything I’ve learned might feed into my own body of work. Particularly as – from the outset – writing poetry didn’t feel appropriate. As we discussed over the phone, not everything can (or should?) be condensed into poetry – like trying to force more in on a full stomach, you just end up feeling worse. I’m working on a book-length essay about zoonoses that is roughly in dialogue with Susan Sontag’s <em>Illness as Metaphor</em>, using zoonoses to think about the ‘great divide’ between humans and animals, and microbial and mythic ‘transgressions’ to demonstrate the entanglement of species boundaries.
+
+<strong>Natalya:</strong> So, is this connected at all with your pamphlet, <em>understudies for air</em>, which I just read and it melted my face off?
+
+<strong>Daisy:</strong> Yes, obliquely! In the sense of an ongoing interest in the ‘nonhuman’ (pathogens, fire alarms, haystacks, w/e), and why such a category even exists. I didn’t plan <em>understudies</em> before I wrote it, but looking back it seems to lay human (or perhaps ‘interpersonal’) toxicities and damage alongside planetary and environmental trauma. Not to draw causative links between the two, as in <em>solastalgia</em>, but to try and find a way of talking about them inclusive of each other. Perhaps being able to focus on personal relationships while the planet becomes more volatile is a privilege of living in a place not yet radically transformed by climate change; but still, I think we are going to keep on intentionally and unintentionally hurting each other and ourselves in the meantime. That’s why I found the Pre-Socratic philosophical notion of <em>arche</em> (everything being made up of one element, e.g. fire or water) a useful poetic mode, because if everything exists in one material continuum then the cognitive leap between personal trauma and environmental catastrophe becomes not bridgeable, exactly, but perhaps within waving distance.
+
+<strong>Natalya:</strong> I found it astonishing how each organism or ‘matter’ in each poem is breathing or moving differently, but are all somehow grounded, and connected, by this need to breathe, if you will. Tell me more about that.
+
+<strong>Daisy:</strong> Yes – breathing and breath seemed to come up a lot. When I first read the literature around emotional abuse in my early twenties I was struck by terms like ‘toxic’ and ‘gaslighting’ for their environmental and atmospheric connotations. In a tiny anatomy museum in London I saw a preserved Victorian-era ‘urban’ lung that was black and shrivelled by pollution, and it said a ‘countryside lung’ from the same time would have been pink and bright. I thought about how growing up with trauma is like growing up breathing ‘bad air’; how do you learn to breathe right if you’ve grown up in a distorted atmosphere? So, the air is a metaphor in the poems but it’s also ‘real’, as we become an increasingly polluted planet. But on a more positive note (!) the idea of breathing being a connective, relational gesture is deeply restorative … a yogic cliché I can subscribe to.
+
+<strong>Natalya:</strong> I want to know what you have coming up next with your writing, but I can’t sign off without asking you about your poem, ‘the lockjaw boys of towncountry’, which I believe won the Poetry Book Society’s National Poetry Competition back in 2016. You will never understand how much that poem means to me, and if you think I’m full of shit, you need to understand that my small-town-Dublin-raised, non-poet, non-poetry-reading husband can recite excerpts from that poem. It is a face-melter to melt all face-melters.
+
+<strong>Daisy:</strong> I still don’t know where that poem came from, really. But I’m glad it speaks to you both! The scenes and characters in <em>lockjaw boys</em> are like the familial episodes in <em>understudies</em> – in that they don’t belong to my own experience, or anyone’s I know, but I feel emotionally tethered to them somehow. I haven’t read it in a while, but I think the narration is quite removed? Growing up I moved schools and homes every 1-3 years, in different social contexts, so I guess I started to feel a bit more like an ‘outsider’ and observer rather than a having a sense of belonging. Which is terrible for your social skills of course but maybe good for writing oddly distanced poems?
+
+<strong>Natalya:</strong> I agree with you about how there is distance in that poem, and I believe that some distance between poet and subject matter can result in a more powerful poem. I have yet to master that wise approach. And, finally, tell me more about what you have on the horizon with your writing. We have spoken a bit about writing non-fiction, and how “cramming everything we study or feel into poetry” feels like force feeding and impossible.
+
+<strong>Daisy:</strong> Other than the zoonoses book, I am slowly working towards a poetry collection. And I have a novel draft that may or may not make it out of the scrap heap. Don’t watch this space, etc.!
