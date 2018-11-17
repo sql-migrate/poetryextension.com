@@ -11,7 +11,7 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
-<em>The Poetry Extension’s founder and curator,<a href="http://www.natalyaanderson.com" target="_blank">Natalya Anderson</a>, interviews our ‘Dancer of the Month’ for December, Greta Hodgkinson.</em>
+<em>The Poetry Extension’s founder and curator,<a href="http://www.natalyaanderson.com" target="_blank">Natalya Anderson</a>, interviews our ‘Dancer of the Month’ for December, <a href="http://www.gretahodgkinson.com/" target="_blank">Greta Hodgkinson</a>.</em>
 <br/><br/>
 
 <em>Greta Hodgkinson, O. Ont, is a dancer based in Toronto. She joined The National Ballet of Canada in 1990, where she has been a Principal Dancer since 1996. Greta has performed every leading role in the classical repertoire and she is also a renowned contemporary dancer. She has had numerous roles created for her and has worked closely with such iconic choreographers as William Forsythe, Jiří Kylián, Glen Tetley, John Neumeier, Alexei Ratmansky, Christopher Wheeldon, Wayne McGregor, James Kudelka and Crystal Pite. Greta was appointed to the Order of Ontario in 2017.</em>
