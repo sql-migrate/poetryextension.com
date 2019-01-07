@@ -1,0 +1,49 @@
+---
+layout: dancer
+title:  "Anisa Tejpar"
+date:   2019-01-06 01:00:00
+categories: interviews
+image:
+  feature: dane.jpg
+  topPosition: -50px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+
+<em>The Poetry Extension’s founder and curator, <a href="http://www.natalyaanderson.com" target="_blank">Natalya Anderson</a>, interviews our ‘Dancer of the Month’ for January, Anisa Tejpar.</em>
+<br/><br/>
+
+<em>Anisa Tejpar is a dancer and choreographer based in Toronto. A graduate of Canada’s National Ballet School, Anisa has danced and toured with The National Ballet of Canada, ProArteDanza, and Toronto Dance Theatre. She has performed works by Matjash Mrozewski, John Neumeier, Ginette Laurin, Mauro Astolfi, Jeff Dimitriou, Robert Derosiers, Robert Glumbek, Roberto Campanella, D.A. Hoskins, James Kudelka, Christopher House, Valerie Calam, Hanna Kiel, Jacob Niedzwiecki, and Guillaume Cote. Anisa is Co-Artistic Director of the dance entertainment firm Hit & Run Dance Productions Inc., through which she has choreographed works for The Rolling Stones, Fashion Cares, M.A.C. Cosmetics, PUMA, the Toronto International Film Festival, the Golden Globe winning feature film </em>Barney’s Version<em>, and many more. Among several other fascinating projects, Anisa donates her time choreographing and creating shows for Dancing with Parkinson’s and Intergenerational Dance Project.</em>
+
+<strong>Natalya:</strong> What is your earliest memory of dancing?
+
+<strong>Anisa:</strong> I remember always dancing around, but I clearly remember performing for the first time at a mall with my little ballet studio. I have the memory of thinking ‘I like being up here. I like the look on my Mom’s face while she’s watching me. This is me. This is where I belong.’
+
+<strong>Natalya:</strong> What first compelled you to dance – how did it become your most important or natural form of expression?
+
+<strong>Anisa:</strong> Michael Jackson. The ‘Thriller’ video literally changed my life. I was obsessed. I studied it, learned it and would perform it for anyone who would watch me. I still will. A year later, my Mom put me in dance lessons, and dance is still my favourite performing arts medium, and what makes me feel most myself. Thanks MJ.
+
+<strong>Natalya:</strong> In leaving ballet, what bought you to contemporary forms of dance?
+
+<strong>Anisa:</strong> It was such a natural transition. Sometimes you have to follow the doors that open and the things that you’re good at. As a young dancer, I always excelled more in the contemporary classes and works, than the ballet ones. It only made sense to follow through with my strengths as a performer. I also appreciate so much the expression that I was able to bring to contemporary work. I drew me in.
+
+<strong>Natalya:</strong> What has your experience of contemporary dance been, and how did that bring you to Jenn and Hit & Run?
+
+<strong>Anisa:</strong> After years of living away, and being a struggling independent dancer and waitress, I came back to Toronto, and re-met Jennifer Nichols at a dance class. Within a few weeks we were dreaming together about dancing, and creating full time, and not being waitresses anymore. Hit & Run Dance was born, and we started small with dancing at club events, and small parties. The company slowly grew and grew and 5 years later, working on it part-time, we weren’t waitresses anymore. Hit & Run Dance is now the most steady and joyful work I do. We have amazing clients, and get to make dance all day, and to employ and hang out with our friends. What could be better?
+
+<strong>Natalya:</strong> Tell me about your experiences as a choreographer. How has your work with other renowned choreographers informed you, and then shaped your own decisions as a creator?
+
+<strong>Anisa:</strong> I don’t fancy myself a choreographer really. I usually say that ‘I choreograph sometimes’. I have worked for and with some incredible creators over the years, and I definitely have many tools in my pocket for creating movement, and telling stories, for sure. The truth is, outside of Hit & Run Dance, I don’t really have a burning desire to speak my voice choreographically. I enjoy the work I do for the Intergenerational Dance Project and making pieces for emerging artists, but only a few times a year, for special groups, and at times when I feel most inspired.
+
+<strong>Natalya:</strong> What are some of your favourite projects right now? I know that you’re active in giving back to the community too, both within, and beyond, the dance world.
+
+<strong>Anisa:</strong> Currently, Hit & Run Dance is busy with the holiday season, and we have had a blast creating some awesome shows this fall, with the best themes ever…from 007 where we were able to choreograph a fight sequence, to a fantastic all-gold disco show which was a blast, and even a 1960s mod inspired flash mob, complete with roller skaters, and Twiggy style looks.
+
+Outside of Hit & Run, this, year, I have really enjoyed doing a lot more motion capture shooting for upcoming Ubisoft video games. It is the most fun experience to create and move that way, collecting data and using your imagination to become the most warrior version of yourself.
+
+<strong>Natalya:</strong> What’s next for you? Any exciting work coming up for 2019?
+
+<strong>Anisa:</strong> Coming up in 2019, I will be working a lot on Guillaume Cote’s new project as a rehearsal director and performer. We have a residency at the Banff Centre, and will premiere at Le Festival des Arts de Saint Sauveur this summer.
+
+Aside from that I am so excited to be performing in a remount of Against the Grain Theatre’s show Kopernikus, choreographed by my long-time friend Matjash Mrozewski. We have worked together many times, and it will be so great to be creating and working together again.
