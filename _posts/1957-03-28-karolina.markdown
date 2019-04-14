@@ -1,5 +1,5 @@
 ---
-layout: dancer
+layout: artist
 title:  "Karolina Kuras"
 date:   2019-04-14 01:00:00
 categories: interviews
