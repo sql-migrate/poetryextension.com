@@ -1,0 +1,43 @@
+---
+layout: dancer
+title:  "Karolina Kuras"
+date:   2019-04-14 01:00:00
+categories: interviews
+image:
+  feature: dane.jpg
+  topPosition: -50px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+
+<em>The Poetry Extension’s founder and curator, <a href="http://www.natalyaanderson.com" target="_blank">Natalya Anderson</a>, interviews former dancer and ballet photographer, Karolina Kuras.</em>
+<br/>
+
+<em>Karolina Kuras is a Toronto based ballet and portrait photographer, creator of The Company Project and photographer with the National Ballet of Canada. Her endless creativity and travels have brought her work with the world’s leading dancers.</em>
+<br/>
+
+<strong>Natalya:</strong> You are very modest and don't seem to talk about yourself very much. It's difficult to find much about what drew you to photography! What brought you to this incredible career?
+
+<strong>Karolina:</strong> My mom is a painter and my dad plays the guitar, and they both used to take beautiful black and white photographs. We had many wonderful art and photography books around the house and I would spend hours with both the books and the photographs. I was 11 when I got little camera of my own. In high school my dad let me take his camera with me everywhere. One day he flat out gave it to me and said, “you’ve done more with this than I ever could, it’s yours”. That was a very encouraging moment and I wanted to keep doing better and learning because of it. I also had a teacher who pushed me to do a co-op placement with a photographer when I was 15. This placement forced me out of my shell as a shy teenager and was the first time I realized I could make a career as a photographer. So, it was a series of events that lined-up in a way. There was always a love of art in my family.
+
+<strong>Natalya:</strong> It’s wonderful that your family and your teacher encouraged you. You bring depth and modernity to the craft of photographing dancers. How did you find ballet, and what excites you about it as an artistic expression?
+
+<strong>Karolina:</strong> I’m a bun-head deep down, wanted to be a ballet dancer, and danced into my teens. Early on I was inspired by Baryshnikov. I have always been drawn to ballet. I can’t really put into words what is so exciting about ballet, but I think that whatever it means to me, that is what I try to capture in my work.
+
+<strong>Natalya:</strong> Oh, I love that you mention Baryshnikov. He is still so important. I owe my own ballet life to him and Gelsey Kirkland in terms of influence. In thinking about iconic ballet photographers like Martha Swope or Beverly Gallegos (old school warriors of ballet photography), and evolutionary photographers of dance like Johan Persson (you would know many, many more than me, but these are just some of my faves), who are your greatest influences, and what do you take and learn from them?
+
+<strong>Karolina:</strong> I’ve been more likely to gravitate toward fashion and fine-art photography, and have mad love for Peter Lindbergh, Inez and Vinoodh, and Jock Sturges. I deliberately don’t follow dance photographers. I don’t like to have an influence that is so close to what I do. It’s too easy to compare and too hard not to be influenced.
+
+<strong>Natalya:</strong> That’s so insightful of you, and this must be part of why your work is distinct. Dancers are performers, but they are very introverted in a sense, and they are very much tied to the studio mirror when they rehearse and scrutinize themselves. How do you take them from the dependency on the mirror and encourage them to trust you and your lens?
+
+<strong>Karolina:</strong> It can be a challenge when we’re in a dance studio with mirrors. Sometimes, I’ll deliberately cover them up. It takes a little time to build the trust, but once they understand that I know what I’m looking at and that I can help them translate it best into two dimensional images, then it’s much easier for them to let go of that dependency.
+
+<strong>Natalya:</strong> How, as an extension of that established trust, do you communicate the opposition of the dancer's constant aim to discipline their body’s response to music, whilst at the same time allowing themselves to submit to total emotional abandonment?
+
+<strong>Karolina:</strong> I don’t know that I do. Photo shoots are very different than dancing on the stage or in the dance studio. There is a lot of stop and start. We work on recreating a moment or getting to an emotion, but it’s controlled for the most part.
+
+<strong>Natalya:</strong> And yet you’re producing something that people respond to with deep feeling because you have such an understanding of dance. Do you have any special or exceptional memories of photography sessions with any particular dancers that you want to share with our readers?
+
+<strong>Karolina:</strong> I love shooting with someone who really understands and gets my work, and trusts me. Those who aren’t afraid to be open and try anything. My brilliant makeup artist, Ashley Readings, covering Brent Parolin from to head to toes in glitter... I will be dealing with the sparkly consequence of that for the rest of my life. Plastic drop sheets do nothing to contain the chaos. But it remains as one of my favourite shoots. The more I work with a dancer the better it gets, and I’ve developed a few really amazing, ongoing creative relationships.
+

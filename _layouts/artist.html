@@ -1,0 +1,48 @@
+---
+layout: default
+---
+<article class="postWrapper">
+  <section class="section--first is-darkBackgrounded u-table">
+    <div class="section-gradient
+    {% if page.bgGradientOpacity == "darker" %}
+      section-gradient--darker
+    {% elsif page.bgGradientOpacity == "lighter" %}
+      section-gradient--lighter
+    {% endif %}
+    "></div>
+    <div class="section-title is-darkBackgrounded u-tableCell u-verticalAlignMiddle">
+      <div class="container">
+        <h2 style="margin-top: 20px">The Poetry Extension's<br/>Artist of the Month</h2>
+        <h3>{{page.title}}</h3>
+        <div class="postMeta-wrapper">
+          <ul class="postMeta">
+            <li class="postMeta-datetime">
+              <time datetime="{{ page.date }}">
+                {{ page.date | date_to_string }}
+              </time>
+            </li>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="section--last">
+    <div class="container container--content">
+      <div class="content-body">
+
+        {{ content }}
+
+      </div>
+    </div>
+    <hr class="u-clearHr"/>
+    <hr class="u-clearHr"/>
+    <hr/>
+    <div class="container container--content">
+      <div class="content-body">
+      </div>
+    </div>
+  </section>
+</article>
+
+{% include modal.html %}
