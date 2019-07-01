@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Luke Kennard"
-date:   2019-06-22 01:00:00
+date:   2019-07-01 01:00:00
 categories: interviews
 image:
   feature: dane.jpg
