@@ -11,7 +11,7 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
-<em>The Poetry Extension’s founder and curator, <a href="http://www.natalyaanderson.com" target="_blank">Natalya Anderson</a>, interviews our ‘Poet of the Month’ for August, Luke Kennard.</em>
+<em>The Poetry Extension’s founder and curator, <a href="http://www.natalyaanderson.com" target="_blank">Natalya Anderson</a>, interviews our ‘Poet of the Month’ for July, Luke Kennard.</em>
 
 <em>Luke Kennard is an English poet and senior lecturer at the University of Birmingham. He won an Eric Gregory Award in 2005 for his first collection, </em>The Solex Brothers<em>. His second collection, </em>The Harbour Beyond The Movie<em>, was shortlisted for the 2007 Forward Prize for Best Collection, making him, at that time, the youngest poet to ever be nominated. In 2014 he was named as one of the Poetry Book Society's Next Generation Poets. His debut novel, </em>The Transition<em>, was published by Fourth Estate in March 2017. The novel was a BBC Radio 4 Book at Bedtime. Luke is currently working on his second novel, as well as a new collection of poetry.</em>
 
