@@ -1,0 +1,63 @@
+---
+layout: post
+title:  "Clare Pollard"
+date:   2019-08-01 01:00:00
+categories: interviews
+image:
+  feature: dane.jpg
+  topPosition: -50px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+
+<em>The Poetry Extension’s founder and curator, <a href="http://www.natalyaanderson.com" target="_blank">Natalya Anderson</a>, interviews our ‘Poet of the Month’ for August, Clare Pollard.</em>
+
+<em>Clare Pollard is a writer based in South London. Her first collection of poetry, </em>The Heavy-Petting Zoo<em> (1998), received an Eric Gregory Award.  It was followed by </em>Bedtime<em> (2002) and </em>Look, Clare! Look!<em> (2005). Her fourth collection, </em>Changeling<em> (2011), was a Poetry Book Society Recommendation, and her latest is </em>Incarnation<em> (Bloodaxe, 2017).
+
+Clare’s first play, </em>The Weather<em> (Faber, 2004), premiered at the Royal Court Theatre. She has been involved in numerous translation projects, including co-translating </em>The Sea-Migrations<em> by Asha Lul Mohamud Yusuf (Bloodaxe, 2017) which received a PEN Translates award and was chosen as the </em>Sunday Times<em> poetry book of the year. Clare has also translated </em>Ovid’s Heroines<em> (Bloodaxe, 2013), which she toured as a one-woman show with Jaybird Live Literature, and is currently the editor of </em>Modern Poetry in Translation<em>. Her latest book is non-fiction - </em>Fierce Bad Rabbits: The Tales Behind Children’s Picture Books<em> (Fig Tree, 2019)</em>
+
+<strong>Natalya:</strong> Hello from Toronto, Clare! I’m new to your poetry, which is very bad of me, and I’m interested in learning more about you and your work.
+
+<strong>Clare:</strong> Hello from Peckham! That’s lovely to hear. I’ve been around over twenty years now, and am lucky to have readers who have been following my work a long time, but it’s nice to think I might still pick up a few new ones!
+
+<strong>Natalya:</strong> When and how did you begin as a poet? What interested you about poetry?
+
+<strong>Clare:</strong> I’ve wanted to be a writer since I can remember, but I suppose I always thought I would write stories. Then as a teenager two things happened: I briefly formed an indie band (of sorts) and started writing lyrics, and I studied Sylvia Plath for A-Level. <em>Ariel</em> changed my life. Suddenly I was scribbling down lines and metaphors every day; starting to process my life through poetry. It came so intensely and easily that I began to suspect that this was where my writing talent lay – not in constructing complex worlds and character arcs, but at the level of the image, the line, the word.
+
+<strong>Natalya:</strong> How did you come to write your first collection, in 1998, <em>The Heavy Petting Zoo</em>? I understand you were still in school at the time. What was that process like for you?
+
+<strong>Clare:</strong> Yes, I wrote it in sixth form and it came out my first year of university. As a teenager I found a copy of <em>The Writer’s and Artists Yearbook</em>, with a list of magazines that published poetry, and started sending out. I had some incredible lucky breaks. Within a few submissions I’d been published in <em>Poetry Review</em> and <em>The Rialto</em>, and then Neil Astley from Bloodaxe actually saw my poem in <em>The Rialto</em> and asked if I had a manuscript. I didn’t, as it happened, but I decided I’d tell him I did and basically knocked out half the manuscript in under a month!
+
+<strong>Natalya:</strong> Your subsequent collections all seem quite different, but also an evolution of sorts, given how young you were when your first was published. Are they related in any manner? Do you have a favourite?
+
+<strong>Clare:</strong> I always find that after a book comes out, I have a fallow period. I like each book to be different. I have to find out what the next thing is. If I had to pick a favourite it’s probably <em>Changeling</em>, which was inspired by ballads, so it’s very political and also full of folktale, mythology, weird stuff I love: witchcraft, talking birds, cryptozoology, fairies, mermaids, werefoxes. It felt like a breakthrough book for me. Before that my work had been largely ‘confessional’ I suppose, and because of my youth I’d been seen as ‘The Britney Spears of Poetry’ or similar, but I felt with that book people noticed I’d grown up.
+
+<strong>Natalya:</strong> Tell me about your experiences as a playwright.
+
+<strong>Clare:</strong> I was on the Royal Court Young Writers Programme – part of the most amazing advanced group under Simon Stephens. I mean, Laura Wade was on it, Jack Thorne, Lucy Prebble… It was just insane. I ended up having a play on there, <em>The Weather</em> (2004), which I’m very proud of. I’ve seen academic articles citing it as the first play about climate change in the UK. It’s set in the near future and centres on a teenage girl’s rage at her parents as the weather becomes increasingly extreme and capitalism collapses. There’s also a poltergeist, which serves as a metaphor for the destructive anger which has been unleashed. I reread it the other week and it sent a shiver down my spine to be honest, it’s basically about now. It was kind of horrifically clairvoyant.
+
+I didn’t really enjoy the theatre world though. I found it stressful and brutal, and as a perfectionist I really couldn’t stand people messing around with my stage directions and things either! But I think my interest in theatricality and performance has continued. The dramatic monologue is a form I’m obsessed by, for example – so much so I’ve translated <em>Ovid’s Heroides</em>, which was the first book of dramatic monologues, and toured it as one-woman show with Jaybird Live Literature. Playing Medea in that was obviously one of the highlights of my career! I fucking loved being Medea.
+
+<strong>Natalya:</strong> How did you come to work in translation?
+
+<strong>Clare:</strong> Again, just weird luck. I’m not a linguist. I went on a British Council trip to Hungary, and became good friends with the poet Anna Szabo, whose English is good, and we started working together on translating her work. A Selected is finally coming out with Arc, hopefully next year. And then Sarah Maguire at the Poetry Translation Centre asked me to work on co-translating a Somali poet, Asha Lul Mohamed Yusuf – Somali poetry is one of the world’s great poetries, it’s structured around alliteration and technically astonishing. We ended up launching Asha’s book in Somaliland last year, which was such an amazing experience.
+I’ve somehow got more and more embroiled over the years, and can’t quite believe I’m now the editor of <em>Modern Poetry in Translation</em>. But Ted Hughes was one of the people who set it up, and I like to think I’m similar to him – not a linguist, but an enthusiast and populariser of translated poetry. The UK mainstream can be so narrow, it’s totally mind-expanding to read other poetries, and I really think we need to listen to other voices from around the world right now.
+
+<strong>Natalya:</strong> I know that different genres of writing mean exercising very different muscles. How do you maintain the physicality of all your writing projects?
+
+<strong>Clare:</strong> Ultimately I’m just a writer. I find the distinctions a bit arbitrary.  There’s literally no form of writing I don’t read and enjoy, and I think I’ve tried writing everything. I mean, as well as writing poems, plays, translations, non-fiction and reviews, I have unpublished short stories in my filing cabinet, several novels, a film-script… The only things my publications seem to have in common is that they are one-offs. I’m absolutely useless as replicating successful projects.
+
+I’m only a very occasional poet. I know that sounds odd when I have five books out, but I have to be struck by the muse and sometimes it might not happen for a year or two. Most of my collections were written in intense bursts. My play, too, I wrote in about a fortnight and it’s never happened again! Essays and translation are different, I approach them more professionally. I can sit at my desk and work all day, and produce something even if it’s just notes. I wrote my new non-fiction book, <em>Fierce Bad Rabbits: The Tales Behind Children’s Picture Books</em>, in a year, and basically only on Fridays (the one day I wasn’t editing, teaching or doing childcare). So I had to just sit all Friday at my kitchen table with a cafetière and produce some prose, but I managed.
+
+<strong>Natalya:</strong> You’re passionate about your family, and often share loving photographs of your children’s milestones on your website. How does your family inform your work?
+
+<strong>Clare:</strong> A lot at the moment. I have a 3-year-old and a 6-year-old. The pre-school years are very, very full. Non-stop. I often think it’s like a ride you can’t get off. If I hadn’t composed most of my collection <em>Incarnation</em> in my head whilst pushing a pram, or cleverly managed to turn reading bedtime stories into research for <em>Fierce Bad Rabbits</em>, there’s no way those books would have got written. For me, part of enjoying having small children has been entering into that fully as a writer – getting interested in the discourse around motherhood; the lullaby as a form; the tropes of picture books; pirates, princesses and dinosaurs. I think perhaps I’m done now though. As they get older I’ll be more conscious of the ethics of writing about them, and also once my youngest goes to school I’m hoping to get some space to actually think about other things!
+
+<strong>Natalya:</strong> I read on your recent website post that you’ve recently written your first poem since your last collection, <em>Incarnation</em>, was published in 2017. How did that poem feel after such a long time “away”?
+
+<strong>Clare:</strong> Oh, nice I guess. It’s a long poem called ‘The Lives of the Female Poets’. I thought for a while it was an idea for a non-fiction book, but then Bad Betty Press asked if I had a long poem for their Shots series and I realised that was what it was.
+
+Natalya: What are you working on, or working towards, right now?
+
+<strong>Clare:</strong> I’m mainly hoping to promote <em>Fierce Bad Rabbits</em> over the next few months. It’s quite different from launching a poetry book, being with Fig Tree, who are part of Penguin – there’s this whole publicity machine, interviews and festivals. I spent last week recording the audio book. And then editing MPT is very full on – I’m currently putting together an Extinction issue for the autumn, which will focus on endangered ecosystems and languages. In many ways I think the environmental crisis is all anyone should be writing about right now, and I’m privileged to have this platform I can share with poets and activists around the world.
