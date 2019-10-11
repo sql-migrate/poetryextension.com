@@ -1,0 +1,50 @@
+---
+layout: post
+title:  "Rebecca Goss"
+date:   2019-10-11 01:00:00
+categories: interviews
+image:
+  feature: dane.jpg
+  topPosition: -50px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+
+<em>The Poetry Extension’s founder and curator, <a href="http://www.natalyaanderson.com" target="_blank">Natalya Anderson</a>, interviews our ‘Poet of the Month’ for October, Rebecca Goss.</em>
+
+<em>Rebecca Goss is a poet, tutor and mentor living in Suffolk. Her pamphlet </em>‘Keeping Houston Time’<em>, came out in 1997 with Slow Dancer Press. Her first full-length collection, </em>The Anatomy of Structures<em>, was published by Flambard Press in 2010. Her second collection, </em>Her Birth<em>, about the death of her baby, Ella, from a rare heart condition, was published in 2013 by Carcanet/Northern House. It was shortlisted for the 2013 Forward Prize for Best Collection, won the Poetry category in the East Anglian Book Awards 2013, and in 2015 was shortlisted for the Warwick Prize for Writing and the Portico Prize for Literature. In 2014, Rebecca was selected for The Poetry Book Society’s Next Generation Poets. </em>Carousel<em>, her collaboration with the photographer Chris Routledge was published with Guillemot Press in 2018.
+
+Rebecca’s third full-length collection, </em>Girl<em>, was published with Carcanet/Northern House in 2019.</em>
+
+<strong>Natalya:</strong> Hello, Rebecca. I’m so glad to hear your voice. I have been in communication with you in one way or another for over five years, but only by phone or online!
+
+<strong>Rebecca:</strong> Hello Natalya. It’s nice to speak to you.
+
+<strong>Natalya:</strong> Your collection, <em>Her Birth</em>, unlocked something in my chest, as far as writing from an honest place was concerned. I remember writing to you about that… and then sort of worshipping you for a while. You became a Poetry Goddess to me when I first finished my master’s degree in poetry. I believe I allowed my overly-expressive Canadianisms to frighten you.
+
+<strong>Rebecca:</strong> Ha! Not at all. I appreciated your candid and open response to the book.
+
+<strong>Natalya:</strong> You’ve just had an essay on public disclosure – the cost of writing from such a personal place about the death of your daughter – published in <em>The Poetry Review</em>. The piece is part of your PhD. Tell me about why you wrote that.
+
+<strong>Rebecca:</strong> I had got to a point in my life here I didn’t want to read the poems about my dead daughter anymore. Reading them made me feel wretched. I ended up rejecting the book, and that made me feel sad. I started the PhD by Publication to explore the consequences of writing about grief, and the act of public disclosure. There were things I needed to interrogate as a poet, and as a bereaved mother. I was nervous about returning to <em>Her Birth</em> to look at it closely. I was also wary of the PhD becoming a naval gazing exercise. So, as part of my research I interviewed three memoirists: Cathy Rentzenbrink, Alice Jolly and Marion Coutts. They are all authors of grief narratives, their books also shortlisted for numerous prizes. We talked about the impact of self-disclosure on our relationships with readers and audiences. I asked if publishing autobiographical truths had had an impact on their mental wellbeing and the grieving process. I wanted to know how they navigated the landscape of literary prize culture, and if the success of their books had come with any costs. I had been considering all these points myself for some time, but privately, silently. I decided I wanted to speak with other women writers to find out if my experience was a common one.
+
+<strong>Natalya:</strong> It’s a direct and thrilling piece for any woman who is compelled to write autobiographically about real trauma. I have not lost a child, but I have experienced and written about trauma in a different way. Can the feelings you share in your essay and PhD thesis crossover to other subject matters?
+
+<strong>Rebecca:</strong> Yes, I’m sure they could. I think many of the issues I raised could apply to any writer who writes in the so-called confessional mode. Not all my interviewees had lost a child. Our respective experiences of grief were very different. But it was the act of placing very personal material into the public domain that I wanted to focus on.
+
+<strong>Natalya:</strong> I wonder if the main points – the cost of exposure, the impact on personal relationships, the sense of identity coiled tightly in traumatic experience, etc. – can spill out over other forms of grief, I want to ask you about how the “burden” of writing such a collection weighs on you as you go forward in your writing career.
+
+<strong>Rebecca:</strong> I don’t want to be defined by <em>Her Birth</em>, or my future writing to be defined by it, but I accept the death of my daughter has altered my life-view. Ella’s death has made me see the world differently, and maybe some of my writing will always reflect that. Writing the thesis has helped me to re-engage with <em>Her Birth</em>. I now accept <em>Her Birth</em> as part of my body of work, and I have come to understand that I had to write it, in order to continue my life as a poet. Otherwise it could have haunted everything else I was going to write. One of my interviewees, Alice Jolly, concurred with me about this. She said of her own traumatic experience ‘it’s such a big story if I don’t tell it, no other story will be told.’ There are nods to Ella’s death in my new book <em>Girl</em>, but much less explicit. There are many other things I want to write about now, and I want to move forward and embrace that feeling.
+
+<strong>Natalya:</strong> In your subsequent collection, <em>Girl</em>, you explore a kind of cultivation of female existence, an unfurling of adolescence, an evolution of womanhood. How did that subject matter spring from <em>Her Birth</em>?
+
+<strong>Rebecca:</strong> A good friend of mine wrote to me after reading <em>Girl</em> and said, ‘it’s the narrator of <em>Her Birth</em> a few years down the line’, and he’s right. That’s exactly what <em>Girl</em> is. <em>Her Birth</em> was about a block of time, where I could only focus on one terrible thing. <em>Girl</em> is about looking back at my younger self, thinking about how experiences shape us, and letting you see the woman I have become.
+
+<strong>Natalya:</strong> In passages of Joan Didion’s <em>The Year of Magical Thinking</em>, the author explains in a way I’ve never read before how grief doesn’t go away with the funeral reception, the last of the visitors, the months/days/years since you’re supposed to “get over it”. Where and how are you today in your own ideas of grief? How do you carry Ella with you today?
+
+<strong>Rebecca:</strong> That’s hard to answer. Nobody has asked me anything like that, so directly, in a long time. In my public life I use the poems to articulate my grief. I certainly carry Ella with me in the book. How I deal with her death in my private life feels much more complex. It constantly determines how I behave and how I interact with other people.
+
+<strong>Natalya:</strong> What upcoming projects can you tell us about going into autumn?
+
+<strong>Rebecca:</strong> I’m looking forward to several readings, including one at Poetry in Aldeburgh. <em>Girl</em> has been shortlisted for the 2019 East Anglian Book Awards, so there’s a prize giving coming up for that. I mentor writers on a one-to-one basis, and I’m working with some great poets in the coming months. I’d like to focus on my own writing too. I didn’t write a poem for a year while I was doing the PhD. I want to concentrate on my next collection now, and different writing projects.
