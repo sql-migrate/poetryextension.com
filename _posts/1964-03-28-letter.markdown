@@ -12,7 +12,7 @@ syntaxHighlighter: no
 
 Dear Poetry and Dance Lovers,
 
-We’ve been so happy to bring you poetry readings and poet/dancer interviews for the past (nearly) four years.
+We’ve been so happy to bring you <a href="http://www.thepoetryextension.com">poetry readings</a> and poet/dancer interviews for the past (nearly) four years.
 
 It has been, and continues to be, a pleasure getting to know so many artists from around the world. We know that several publishing houses have listed our interviews in their authors sections online, and that many poets who are also lecturers direct their students to our site.
 
