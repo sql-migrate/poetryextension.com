@@ -255,7 +255,7 @@ h1,h2,h3,h4,h5,h6 {
 
 #header {
 	padding-top:51px;
-	margin-bottom:60px;
+	/* margin-bottom:60px; */
 	border-bottom:1px solid #eee;
 }
 .home #header, .page-template-page-slider #header, .page-template-page-slider-sidebar #header {
@@ -434,6 +434,7 @@ h1,h2,h3,h4,h5,h6 {
 	}
 	.post-entry h3 {
 		font-size:21px;
+		margin-bottom: 40px;
 	}
 	.post-entry h4 {
 		font-size:19px;
@@ -468,7 +469,6 @@ h1,h2,h3,h4,h5,h6 {
 	}
 
 	.post-entry ul, .post-entry ol {
-		padding-left:45px;
 		margin-bottom:20px;
 	}
 	.post-entry ul li {
