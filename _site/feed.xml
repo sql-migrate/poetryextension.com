@@ -7,133 +7,128 @@
 		<atom:link href="http://localhost:9001/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Dani Couture</title>
+				<title>Letter</title>
 				
 				
-					<description>&lt;p&gt;&lt;em&gt;The Poetry Extension’s founder and curator, &lt;a href=&quot;http://www.natalyaanderson.com&quot; target=&quot;_blank&quot;&gt;Natalya Anderson&lt;/a&gt;, interviews Dani Couture.&lt;/em&gt;
-&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+					<description>&lt;p&gt;Dear Poetry and Dance Lovers,&lt;/p&gt;
 </description>
 				
-				<pubDate>Tue, 17 Jul 2018 01:00:00 +0000</pubDate>
-				<link>http://localhost:9001/dani</link>
-				<guid isPermaLink="true">http://localhost:9001/dani</guid>
+				<pubDate>Tue, 26 Nov 2019 01:00:00 +0000</pubDate>
+				<link>http://localhost:9001/letter</link>
+				<guid isPermaLink="true">http://localhost:9001/letter</guid>
 			</item>
 		
 			<item>
-				<title>Kaddy Benyon</title>
+				<title>Rebecca Goss</title>
 				
 				
-					<description>&lt;p&gt;&lt;em&gt;The Poetry Extension’s founder and curator, &lt;a href=&quot;http://www.natalyaanderson.com&quot; target=&quot;_blank&quot;&gt;Natalya Anderson&lt;/a&gt;, interviews our ‘Poet of the Month’ for July, Kaddy Benyon.&lt;/em&gt;
-&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+					<description>&lt;p&gt;&lt;em&gt;The Poetry Extension’s founder and curator, &lt;a href=&quot;http://www.natalyaanderson.com&quot; target=&quot;_blank&quot;&gt;Natalya Anderson&lt;/a&gt;, interviews our ‘Poet of the Month’ for October, Rebecca Goss.&lt;/em&gt;&lt;/p&gt;
 </description>
 				
-				<pubDate>Wed, 04 Jul 2018 01:00:00 +0000</pubDate>
-				<link>http://localhost:9001/kaddy</link>
-				<guid isPermaLink="true">http://localhost:9001/kaddy</guid>
+				<pubDate>Fri, 11 Oct 2019 01:00:00 +0000</pubDate>
+				<link>http://localhost:9001/rebecca</link>
+				<guid isPermaLink="true">http://localhost:9001/rebecca</guid>
 			</item>
 		
 			<item>
-				<title>Soraya Peerbaye</title>
+				<title>Airea D. Matthews</title>
 				
 				
-					<description>&lt;p&gt;&lt;em&gt;The Poetry Extension’s founder and curator, &lt;a href=&quot;http://www.natalyaanderson.com&quot; target=&quot;_blank&quot;&gt;Natalya Anderson&lt;/a&gt;, interviews our ‘Poet of the Month’ for June, Soraya Peerbaye.&lt;/em&gt;
-&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+					<description>&lt;p&gt;&lt;em&gt;The Poetry Extension’s founder and curator, &lt;a href=&quot;http://www.natalyaanderson.com&quot; target=&quot;_blank&quot;&gt;Natalya Anderson&lt;/a&gt;, interviews our ‘Poet of the Month’ for September, Airea D. Matthews.&lt;/em&gt;&lt;/p&gt;
 </description>
 				
-				<pubDate>Sat, 16 Jun 2018 01:00:00 +0000</pubDate>
-				<link>http://localhost:9001/soraya</link>
-				<guid isPermaLink="true">http://localhost:9001/soraya</guid>
+				<pubDate>Sun, 11 Aug 2019 01:00:00 +0000</pubDate>
+				<link>http://localhost:9001/airea</link>
+				<guid isPermaLink="true">http://localhost:9001/airea</guid>
 			</item>
 		
 			<item>
-				<title>Canisia Lubrin</title>
+				<title>Clare Pollard</title>
 				
 				
-					<description>&lt;p&gt;&lt;em&gt;The Poetry Extension’s founder and curator, &lt;a href=&quot;http://www.natalyaanderson.com&quot; target=&quot;_blank&quot;&gt;Natalya Anderson&lt;/a&gt;, interviews our ‘Poet of the Month’ for May 2018, the bravely-beautiful Canisia Lubrin.&lt;/em&gt;
-&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+					<description>&lt;p&gt;&lt;em&gt;The Poetry Extension’s founder and curator, &lt;a href=&quot;http://www.natalyaanderson.com&quot; target=&quot;_blank&quot;&gt;Natalya Anderson&lt;/a&gt;, interviews our ‘Poet of the Month’ for August, Clare Pollard.&lt;/em&gt;&lt;/p&gt;
 </description>
 				
-				<pubDate>Tue, 15 May 2018 01:00:00 +0000</pubDate>
-				<link>http://localhost:9001/canisia</link>
-				<guid isPermaLink="true">http://localhost:9001/canisia</guid>
+				<pubDate>Thu, 01 Aug 2019 01:00:00 +0000</pubDate>
+				<link>http://localhost:9001/clare</link>
+				<guid isPermaLink="true">http://localhost:9001/clare</guid>
 			</item>
 		
 			<item>
-				<title>Caroline Bird</title>
+				<title>Luke Kennard</title>
 				
 				
-					<description>&lt;p&gt;&lt;em&gt;The Poetry Extension’s founder and curator,  &lt;a href=&quot;http://www.natalyaanderson.com&quot; target=&quot;_blank&quot;&gt;Natalya Anderson&lt;/a&gt;, interviews our ‘Poet of the Month’ for April – the frighteningly-talented, ultra-cool, Caroline Bird. &lt;/em&gt;
-&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+					<description>&lt;p&gt;&lt;em&gt;The Poetry Extension’s founder and curator, &lt;a href=&quot;http://www.natalyaanderson.com&quot; target=&quot;_blank&quot;&gt;Natalya Anderson&lt;/a&gt;, interviews our ‘Poet of the Month’ for July, Luke Kennard.&lt;/em&gt;&lt;/p&gt;
 </description>
 				
-				<pubDate>Wed, 04 Apr 2018 01:00:00 +0000</pubDate>
-				<link>http://localhost:9001/caroline</link>
-				<guid isPermaLink="true">http://localhost:9001/caroline</guid>
+				<pubDate>Mon, 01 Jul 2019 01:00:00 +0000</pubDate>
+				<link>http://localhost:9001/luke</link>
+				<guid isPermaLink="true">http://localhost:9001/luke</guid>
 			</item>
 		
 			<item>
-				<title>Sophie Collins</title>
+				<title>Karen McCarthy Woolf</title>
 				
 				
-					<description>&lt;p&gt;&lt;em&gt;The Poetry Extension’s founder and curator, &lt;a href=&quot;http://www.natalyaanderson.com&quot; target=&quot;_blank&quot;&gt;Natalya Anderson&lt;/a&gt;, interviews our ‘Poet of the Month’ for March – the precisely-fearless, uncompromisingly-honest, Sophie Collins.&lt;/em&gt;
-&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+					<description>&lt;p&gt;&lt;em&gt;The Poetry Extension’s founder and curator, &lt;a href=&quot;http://www.natalyaanderson.com&quot; target=&quot;_blank&quot;&gt;Natalya Anderson&lt;/a&gt;, interviews our ‘Poet of the Month’ for June, Karen McCarthy Woolf.&lt;/em&gt;
+&lt;br/&gt;&lt;/p&gt;
 </description>
 				
-				<pubDate>Sat, 03 Mar 2018 01:00:00 +0000</pubDate>
-				<link>http://localhost:9001/sophie</link>
-				<guid isPermaLink="true">http://localhost:9001/sophie</guid>
+				<pubDate>Sat, 22 Jun 2019 01:00:00 +0000</pubDate>
+				<link>http://localhost:9001/karen</link>
+				<guid isPermaLink="true">http://localhost:9001/karen</guid>
 			</item>
 		
 			<item>
-				<title>Jane Yeh</title>
+				<title>Pascale Petit</title>
 				
 				
-					<description>&lt;p&gt;&lt;em&gt;The Poetry Extension’s founder and curator, &lt;a href=&quot;http://www.natalyaanderson.com&quot; target=&quot;_blank&quot;&gt;Natalya Anderson&lt;/a&gt;, interviews our ‘Poet of the Month’ for February – the brilliantly-original Jane Yeh.&lt;/em&gt;
-&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+					<description>&lt;p&gt;&lt;em&gt;The Poetry Extension’s founder and curator, &lt;a href=&quot;http://www.natalyaanderson.com&quot; target=&quot;_blank&quot;&gt;Natalya Anderson&lt;/a&gt;, interviews our ‘Poet of the Month’ for May, Pascale Petit.&lt;/em&gt;
+&lt;br/&gt;&lt;/p&gt;
 </description>
 				
-				<pubDate>Wed, 14 Feb 2018 01:00:00 +0000</pubDate>
-				<link>http://localhost:9001/jane</link>
-				<guid isPermaLink="true">http://localhost:9001/jane</guid>
+				<pubDate>Sun, 26 May 2019 01:00:00 +0000</pubDate>
+				<link>http://localhost:9001/pascale</link>
+				<guid isPermaLink="true">http://localhost:9001/pascale</guid>
 			</item>
 		
 			<item>
-				<title>Rishi Dastidar</title>
+				<title>Karolina Kuras</title>
 				
 				
-					<description>&lt;p&gt;&lt;em&gt;The Poetry Extension’s founder and curator, &lt;a href=&quot;http://www.natalyaanderson.com&quot; target=&quot;_blank&quot;&gt;Natalya Anderson&lt;/a&gt;, interviews our ‘Poet of the Month’ for January – the intriguingly-nuanced Rishi Dastidar.&lt;/em&gt;
-&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+					<description>&lt;p&gt;&lt;em&gt;The Poetry Extension’s founder and curator, &lt;a href=&quot;http://www.natalyaanderson.com&quot; target=&quot;_blank&quot;&gt;Natalya Anderson&lt;/a&gt;, interviews former dancer and ballet photographer, Karolina Kuras.&lt;/em&gt;
+&lt;br/&gt;&lt;/p&gt;
 </description>
 				
-				<pubDate>Sun, 07 Jan 2018 01:00:00 +0000</pubDate>
-				<link>http://localhost:9001/rishi</link>
-				<guid isPermaLink="true">http://localhost:9001/rishi</guid>
+				<pubDate>Sun, 14 Apr 2019 01:00:00 +0000</pubDate>
+				<link>http://localhost:9001/karolina</link>
+				<guid isPermaLink="true">http://localhost:9001/karolina</guid>
 			</item>
 		
 			<item>
-				<title>Liz Berry</title>
+				<title>Rachael Allen</title>
 				
 				
-					<description>&lt;p&gt;&lt;em&gt;The Poetry Extension’s founder and curator, &lt;a href=&quot;http://www.natalyaanderson.com&quot; target=&quot;_blank&quot;&gt;Natalya Anderson&lt;/a&gt;, interviews our Poet of the Month for December – the loving, tender, soulfully-intelligent, Liz Berry. &lt;/em&gt;
-&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+					<description>&lt;p&gt;&lt;em&gt;The Poetry Extension’s founder and curator, &lt;a href=&quot;http://www.natalyaanderson.com&quot; target=&quot;_blank&quot;&gt;Natalya Anderson&lt;/a&gt;, conducts an interview with our ‘Poet of the Month’ for January, Rachael Allen.&lt;/em&gt;
+&lt;br/&gt;&lt;/p&gt;
 </description>
 				
-				<pubDate>Fri, 01 Dec 2017 01:00:00 +0000</pubDate>
-				<link>http://localhost:9001/lizberry</link>
-				<guid isPermaLink="true">http://localhost:9001/lizberry</guid>
+				<pubDate>Tue, 22 Jan 2019 01:00:00 +0000</pubDate>
+				<link>http://localhost:9001/rachael</link>
+				<guid isPermaLink="true">http://localhost:9001/rachael</guid>
 			</item>
 		
 			<item>
-				<title>Mona Arshi</title>
+				<title>Anisa Tejpar</title>
 				
 				
-					<description>&lt;p&gt;&lt;em&gt;The Poetry Extension’s founder and curator, &lt;a href=&quot;http://www.natalyaanderson.com&quot; target=&quot;_blank&quot;&gt;Natalya Anderson&lt;/a&gt; interviews our Poet of the Month for November – the peacefully-powerful, incisive, steadfast, Mona Arshi.&lt;/em&gt;
+					<description>&lt;p&gt;&lt;em&gt;The Poetry Extension’s founder and curator, &lt;a href=&quot;http://www.natalyaanderson.com&quot; target=&quot;_blank&quot;&gt;Natalya Anderson&lt;/a&gt;, interviews our ‘Dancer of the Month’ for January, Anisa Tejpar.&lt;/em&gt;
 &lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
 </description>
 				
-				<pubDate>Thu, 09 Nov 2017 01:00:00 +0000</pubDate>
-				<link>http://localhost:9001/mona</link>
-				<guid isPermaLink="true">http://localhost:9001/mona</guid>
+				<pubDate>Sun, 06 Jan 2019 01:00:00 +0000</pubDate>
+				<link>http://localhost:9001/anisa</link>
+				<guid isPermaLink="true">http://localhost:9001/anisa</guid>
 			</item>
 		
 	</channel>
